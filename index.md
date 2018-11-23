@@ -40,14 +40,14 @@ https://aws.amazon.com/certification/certified-sysops-admin-associate/
 
 
 ### AWS Certified Developer – Associate
-“The AWS Certified Developer – Associate exam validates technical expertise in developing and maintaining applications on the AWS platform.”
+> “The AWS Certified Developer – Associate exam validates technical expertise in developing and maintaining applications on the AWS platform.”
 
 https://aws.amazon.com/certification/certified-developer-associate/
 
 
 ### AWS Certified Solutions Architect – Associate
 
-“The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform.”
+> “The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform.”
 
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
@@ -91,9 +91,9 @@ Antonio Feijao, Python 3, Python3, Programming language and coding
 
 Cisco Certified Network Associate Security (CCNA Security)
 
-This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management.
+> "This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management."
 
-SKILLS - 802.1x Authentication ; Anti-Malware ; CCNA ; Content Security ; Endpoint Security ; FirePOWER ; Firewall ; IPS ; Identity Services Engine ; Malware Protection ; SEIM-Technology ; Security
+`SKILLS - 802.1x Authentication ; Anti-Malware ; CCNA ; Content Security ; Endpoint Security ; FirePOWER ; Firewall ; IPS ; Identity Services Engine ; Malware Protection ; SEIM-Technology ; Security`
 
 
 ### Antonio Feijao Cisco CCNA_Routing and Switching
@@ -101,9 +101,9 @@ SKILLS - 802.1x Authentication ; Anti-Malware ; CCNA ; Content Security ; Endpoi
 
 Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
 
-This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management.
+> "This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management."
 
-SKILLS - Cloud Resources ; DHCP ; EIGRP ; FHRP ; GRE ; IPv4 And IPv6 Addressing ; Infrastructure Components ; LAN-Switching ; Network-Management ; Network Programmability ; Network-Security ; Network Topologies ; OSPF ; PPPoE ; QoS ; RIPv2 ; Static-And-Dynamic Routing ; Troubleshooting ; WAN Topologies ; eBGP
+`SKILLS - Cloud Resources ; DHCP ; EIGRP ; FHRP ; GRE ; IPv4 And IPv6 Addressing ; Infrastructure Components ; LAN-Switching ; Network-Management ; Network Programmability ; Network-Security ; Network Topologies ; OSPF ; PPPoE ; QoS ; RIPv2 ; Static-And-Dynamic Routing ; Troubleshooting ; WAN Topologies ; eBGP`
 
 ---
 
