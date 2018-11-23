@@ -7,7 +7,9 @@
 
 ## Antonio Feijao, AWS Certified
 
-![AWS Badge - Antonio Feijao - AWS Certified](https://feijaouk.files.wordpress.com/2018/11/aws_certified_logo_1176x600_color.png?w=308&h=44) ![AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165) ![AWS Badge - Antonio Feijao - AWS Certified SysOps Administrator - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-sysops-administrator-associate-certificate.png?w=165&h=165) ![AWS Badge - Antonio Feijao - AWS Certified Developer - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-developer-associate-certificate.png?w=165&h=165) ![AWS Badge - Antonio Feijao - AWS Certified Solutions Architect - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-solutions-architect-associate-certificate.png?w=165&h=165)
+![AWS Badge - Antonio Feijao - AWS Certified](https://feijaouk.files.wordpress.com/2018/11/aws_certified_logo_1176x600_color.png?w=308&h=44)
+
+![AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165) ![AWS Badge - Antonio Feijao - AWS Certified SysOps Administrator - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-sysops-administrator-associate-certificate.png?w=165&h=165) ![AWS Badge - Antonio Feijao - AWS Certified Developer - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-developer-associate-certificate.png?w=165&h=165) ![AWS Badge - Antonio Feijao - AWS Certified Solutions Architect - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-solutions-architect-associate-certificate.png?w=165&h=165)
 
 ---
 
