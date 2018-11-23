@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+Antonio Feijao’s Certifications
+Amazon Web Services (AWS)
+https://aws.amazon.com/
 
-You can use the [editor on GitHub](https://github.com/feijaouk/antoniocloud.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+https://aws.amazon.com/certification/#roadmap
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+AWS Badge - Antonio Feijao - AWS Certified
+Antonio Feijao, AWS Certified
+AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate
+AWS Badge - Antonio Feijao - AWS Certified SysOps Administrator - Associate certificate
+AWS Badge - Antonio Feijao - AWS Certified Developer - Associate certificate
+AWS Badge - Antonio Feijao - AWS Certified Solutions Architect - Associate certificate
+AWS Certified Advanced Networking – Specialty
+“The AWS Certified Advanced Networking – Specialty exam validates advanced technical skills and experience in designing and implementing AWS and hybrid IT architectures at scale.”
 
-### Markdown
+https://aws.amazon.com/certification/certified-advanced-networking-specialty/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+AWS Certified SysOps Administrator – Associate
+“The AWS Certified SysOps Administrator – Associate exam validates technical expertise in deployment, management, and operations on the AWS platform.”
 
-```markdown
-Syntax highlighted code block
+https://aws.amazon.com/certification/certified-sysops-admin-associate/
 
-# Header 1
-## Header 2
-### Header 3
+AWS Certified Developer – Associate
+“The AWS Certified Developer – Associate exam validates technical expertise in developing and maintaining applications on the AWS platform.”
 
-- Bulleted
-- List
+https://aws.amazon.com/certification/certified-developer-associate/
 
-1. Numbered
-2. List
+AWS Certified Solutions Architect – Associate
+“The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform.”
 
-**Bold** and _Italic_ and `Code` text
+https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
-[Link](url) and ![Image](src)
-```
+Redhat Enterprise Linux
+RedHat Linux – System Administrator Certified
+Antonio Feijao, RedHat Linux - System Administrator Certified
+Programming language and coding
+Python3
+https://www.sololearn.com/Certificate/1073-1638920/pdf/ – Python3
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Antonio Feijao, Python 3, Python3, Programming language and coding
+Databases
+SQL Fundamentals
+https://www.sololearn.com/Certificate/1060-1638920/pdf/ – SQL Fundamentals
 
-### Jekyll Themes
+Antonio Feijao, Databases, MySQL, SQL
+Cisco Systems Networking
+Antonio Feijao cisco_ccna_security
+Antonio Feijao Cisco CCNA Security
+Cisco Certified Network Associate Security (CCNA Security)
+This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/feijaouk/antoniocloud.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+SKILLS - 802.1x Authentication ; Anti-Malware ; CCNA ; Content Security ; Endpoint Security ; FirePOWER ; Firewall ; IPS ; Identity Services Engine ; Malware Protection ; SEIM-Technology ; Security
+Antonio Feijao Cisco CCNA_Routing and Switching
+Antonio Feijao Cisco CCNA_Routing and Switching
+Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
+This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management.
 
-### Support or Contact
+SKILLS - Cloud Resources ; DHCP ; EIGRP ; FHRP ; GRE ; IPv4 And IPv6 Addressing ; Infrastructure Components ; LAN-Switching ; Network-Management ; Network Programmability ; Network-Security ; Network Topologies ; OSPF ; PPPoE ; QoS ; RIPv2 ; Static-And-Dynamic Routing ; Troubleshooting ; WAN Topologies ; eBGP
+From Your Acclaim website – “Our badges are issued and validated by reputable organisations, so you can trust that the information is accurate and up-to-date.”
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.youracclaim.com/users/feijaouk
+
+More detail on my Antonio Feijao at Linkedin
+
