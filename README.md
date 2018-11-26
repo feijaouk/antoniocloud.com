@@ -112,7 +112,7 @@ SKILLS - Cloud Resources ; DHCP ; EIGRP ; FHRP ; GRE ; IPv4 And IPv6 Addressing 
 
 ## Antonio Feijao Linkedin page
 
-More detail on my [Antonio Feijao at Linkedin](https://www.linkedin.com/in/antoniofeijao/)
+For more professional work detail, please check my [Antonio Feijao UK at LinkedIn](https://www.linkedin.com/in/antoniofeijaouk/)
 
 ---
 
