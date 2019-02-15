@@ -1,48 +1,48 @@
 # [Antonio Feijao’s Certifications](https://www.antoniocloud.com)
 
-[Amazon Web Services (AWS)](https://aws.amazon.com/)
+[Amazon Web Services (AWS)](https://aws.amazon.com/ "Amazon Web Services (AWS)")
 
-[AWS Certification](https://aws.amazon.com/certification/#roadmap)
+[AWS Certifications roadmap](https://aws.amazon.com/certification/#roadmap "AWS Certifications roadmap")
 
+---
 
 ## Antonio Feijao, AWS Certified
 
 [![AWS Badge - Antonio Feijao - AWS Certified][1]][2]
 
+[![AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate][3]][4]
+[![AWS Badge - Antonio Feijao - AWS Certified SysOps Administrator - Associate certificate][5]][6]
+[![AWS Badge - Antonio Feijao - AWS Certified Developer - Associate certificate][7]][8]
+[![AWS Badge - Antonio Feijao - AWS Certified Solutions Architect - Associate certificate][9]][10]
+
+
 [1]: https://feijaouk.files.wordpress.com/2018/11/aws_certified_logo_1176x600_color.png?w=308&h=44 "Antonio Feijao UK, AWS Certified"
 [2]: https://www.antoniocloud.com
-
-
-[![AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate][3]][4]
 
 [3]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165
 [4]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
 
+[5]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-sysops-administrator-associate-certificate.png?w=165&h=165
+[6]: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-11-21&ci=AWS00280650
 
-![AWS Badge - Antonio Feijao - AWS Certified SysOps Administrator - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-sysops-administrator-associate-certificate.png?w=165&h=165) 
+[7]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-developer-associate-certificate.png?w=165&h=165
+[8]: https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-01-29&ci=AWS00280650
 
-![AWS Badge - Antonio Feijao - AWS Certified Developer - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-developer-associate-certificate.png?w=165&h=165) 
+[9]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-solutions-architect-associate-certificate.png?w=165&h=165
+[10]: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650
 
-![AWS Badge - Antonio Feijao - AWS Certified Solutions Architect - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-solutions-architect-associate-certificate.png?w=165&h=165)
 
 ---
 
+## AWS Certification Validations
+
 [http://aws.amazon.com/verification][3]
 
-[3]: http://aws.amazon.com/verification
+[3]: http://aws.amazon.com/verification "AWS Certification Validations"
 
 
 * AWS Certified Developer - Associate - Validation Number `3HNDW6FCLM441Y5F`
 
-
-
-[AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate](https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650)
-
-[AWS Badge - Antonio Feijao - AWS Certified SysOps Administrator - Associate certificate](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-11-21&ci=AWS00280650)
-
-[AWS Badge - Antonio Feijao - AWS Certified Solutions Architect - Associate certificate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650)
-
-[AWS Badge - Antonio Feijao - AWS Certified Developer - Associate certificate](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-01-29&ci=AWS00280650)
 
 ---
 
