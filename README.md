@@ -19,16 +19,16 @@
 [1]: https://feijaouk.files.wordpress.com/2018/11/aws_certified_logo_1176x600_color.png?w=308&h=44 "Antonio Feijao UK, AWS Certified"
 [2]: https://www.antoniocloud.com
 
-[3]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165
+[3]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165 "Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated"
 [4]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
 
-[5]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-sysops-administrator-associate-certificate.png?w=165&h=165
+[5]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-sysops-administrator-associate-certificate.png?w=165&h=165 "Antonio Feijao UK, aws-certified-sysops-administrator-associate-certificate"
 [6]: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-11-21&ci=AWS00280650
 
-[7]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-developer-associate-certificate.png?w=165&h=165
+[7]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-developer-associate-certificate.png?w=165&h=165 "Antonio Feijao UK, aws-certified-developer-associate-certificate"
 [8]: https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-01-29&ci=AWS00280650
 
-[9]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-solutions-architect-associate-certificate.png?w=165&h=165
+[9]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-solutions-architect-associate-certificate.png?w=165&h=165 "Antonio Feijao UK, aws-certified-solutions-architect-associate-certificate"
 [10]: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650
 
 
