@@ -7,13 +7,17 @@
 
 ## Antonio Feijao, AWS Certified
 
-[Antonio Feijao UK ![AWS Badge - Antonio Feijao - AWS Certified][1] ][2]
+[![AWS Badge - Antonio Feijao - AWS Certified][1]][2]
 
 [1]: https://feijaouk.files.wordpress.com/2018/11/aws_certified_logo_1176x600_color.png?w=308&h=44 "Antonio Feijao UK, AWS Certified"
 [2]: https://www.antoniocloud.com
 
 
-![AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165)
+[![AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate][3]][4]
+
+[3]: (https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165
+[4]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
+
 
 ![AWS Badge - Antonio Feijao - AWS Certified SysOps Administrator - Associate certificate](https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-sysops-administrator-associate-certificate.png?w=165&h=165) 
 
