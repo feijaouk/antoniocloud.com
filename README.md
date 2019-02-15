@@ -15,7 +15,7 @@
 
 [![AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate][3]][4]
 
-[3]: (https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165
+[3]: https://feijaouk.files.wordpress.com/2018/11/aws-badge-antonio-feijao-aws-certified-advanced-networking-specialty-certificate.png?w=165&h=165
 [4]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
 
 
