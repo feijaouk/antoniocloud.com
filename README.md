@@ -18,6 +18,7 @@
 [![AWS Badge - Antonio Feijao - AWS Certified Developer - Associate certificate][7]][8]
 [![AWS Badge - Antonio Feijao - AWS Certified Solutions Architect - Associate certificate][9]][10]
 
+
 [3]: https://www.antoniocloud.com/images/thumbnails/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png "Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated"
 [4]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
 
