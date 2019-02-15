@@ -42,7 +42,9 @@
 
 
 * AWS Certified Developer - Associate - Validation Number `3HNDW6FCLM441Y5F`
-
+* AWS Certified SysOps Administrator - Associate `JDRY2JY2KMVQQTGB`
+* AWS Certified Solutions Architect - Associate `ZNDTEEB2K2V4QES7`
+* AWS Certified Advanced Networking - Specialty `8CXGM032KMFEQWSP`
 
 ---
 
