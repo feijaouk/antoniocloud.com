@@ -139,3 +139,16 @@ For more professional work detail, please check my [Antonio Feijao UK at LinkedI
 
 ---
 
+## Donations
+
+This is a personal website and opinions expressed are mine.
+
+If I helped you somewho and you want to keep my motivation to write article, or if you just feel like giving me a donation, I promise, you will make me happy :)
+
+* [https://www.paypal.me/feijaouk](https://www.paypal.me/feijaouk)
+
+* [https://monzo.me/antoniofeijao](https://monzo.me/antoniofeijao)
+
+Thank you!
+  [Antonio Cloud](https://www.antoniocloud.com)
+
