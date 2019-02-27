@@ -13,10 +13,11 @@
 [1]: https://feijaouk.files.wordpress.com/2018/11/aws_certified_logo_1176x600_color.png?w=308&h=44 "Antonio Feijao UK, AWS Certified"
 [2]: https://www.antoniocloud.com "Antonio Cloud, Antonio Feijao UK webpage"
 
-[![AWS Badge - Antonio Feijao - AWS Certified Advanced Networking - Specialty certificate][3]][4]
-[![AWS Badge - Antonio Feijao - AWS Certified SysOps Administrator - Associate certificate][5]][6]
-[![AWS Badge - Antonio Feijao - AWS Certified Developer - Associate certificate][7]][8]
-[![AWS Badge - Antonio Feijao - AWS Certified Solutions Architect - Associate certificate][9]][10]
+[![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate][11]][12]
+[![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate][3]][4]
+[![AWS Badge - Antonio Feijao UK - AWS Certified SysOps Administrator - Associate certificate][5]][6]
+[![AWS Badge - Antonio Feijao UK - AWS Certified Developer - Associate certificate][7]][8]
+[![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate][9]][10]
 
 
 [3]: https://www.antoniocloud.com/images/thumbnails/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png "Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated"
@@ -31,18 +32,21 @@
 [9]: https://www.antoniocloud.com/images/thumbnails/Antonio-Feijao-AWS-Certified-Solutions-Architect-Associate.png "Antonio Feijao UK, aws-certified-solutions-architect-associate-certificate"
 [10]: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650
 
+[11]: https://www.antoniocloud.com/images/thumbnails/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, aws-certified-security-specialty-certificated"
+[12]: https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-02-26&ci=AWS00280650
+
 
 ---
 
 ## AWS Certification Validations
 
-- [http://aws.amazon.com/verification][11]
+- [http://aws.amazon.com/verification][21]
   - AWS Certified Developer - Associate - Validation Number `3HNDW6FCLM441Y5F`
   - AWS Certified SysOps Administrator - Associate `JDRY2JY2KMVQQTGB`
   - AWS Certified Solutions Architect - Associate `ZNDTEEB2K2V4QES7`
   - AWS Certified Advanced Networking - Specialty `8CXGM032KMFEQWSP`
 
-[11]: http://aws.amazon.com/verification "AWS Certification Validations"
+[21]: http://aws.amazon.com/verification "AWS Certification Validations"
 
 ---
 
@@ -143,7 +147,7 @@ For more professional work detail, please check my [Antonio Feijao UK at LinkedI
 
 This is a personal website and opinions expressed are mine.
 
-If I helped you somewho and you want to keep my motivation to write article, or if you just feel like giving me a donation, I promise, you will make me happy :)
+If I helped you somehow and/or you want to keep my motivation to write article on internet, or if you just feel like giving me a donation, I promise, you will make me happy :)
 
 
 * [https://monzo.me/AntonioFeijaoUK](https://monzo.me/antoniofeijaouk) - `includes Google Pay`
