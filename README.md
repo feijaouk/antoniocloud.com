@@ -2,7 +2,7 @@
 
 [Amazon Web Services (AWS)](https://aws.amazon.com/ "Amazon Web Services (AWS)")
 
-[AWS Certifications roadmap](https://aws.amazon.com/certification/#roadmap "AWS Certifications roadmap")
+[![AWS Certifications roadmap](https://www.antoniocloud.com/images/thumbnails/Cert-Roadmap-v9.1.png "AWS Certifications roadmap")](https://aws.amazon.com/certification/#roadmap "AWS Certifications roadmap")
 
 ---
 
