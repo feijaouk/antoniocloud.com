@@ -1,12 +1,18 @@
 # [Antonio Feijao’s Certifications](https://www.antoniocloud.com "Antonio Feijao’s Certifications")
 
+
+---
+
+## AWS Certifications
+
 [Amazon Web Services (AWS)](https://aws.amazon.com/ "Amazon Web Services (AWS)")
 
 [![AWS Certifications roadmap](https://www.antoniocloud.com/images/thumbnails/Cert-Roadmap-v9.1.png "AWS Certifications roadmap")](https://aws.amazon.com/certification/#roadmap "AWS Certifications roadmap")
 
+
 ---
 
-## Antonio Feijao, AWS Certified
+## Antonio Feijao UK (Antonio CLoud), AWS Certifications and Specialties
 
 [![AWS Badge - Antonio Feijao - AWS Certified][1]][2]
 
@@ -53,6 +59,7 @@
   
 [21]: http://aws.amazon.com/verification "AWS Certification Validations"
 
+
 ---
 
 ### AWS Certified Advanced Networking – Specialty
@@ -81,6 +88,7 @@
 
 [https://aws.amazon.com/certification/certified-solutions-architect-associate/](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
+
 ---
 
 ## Redhat Enterprise Linux
@@ -88,6 +96,7 @@
 ### RedHat Linux – System Administrator Certified
 
 - Antonio Feijao, RedHat Linux - System Administrator Certified
+
 
 ---
 
@@ -100,6 +109,7 @@
 ![https://www.sololearn.com/Certificate/1073-1638920/pdf/](https://feijaouk.files.wordpress.com/2018/11/antonio-feijao-sololearn-python3.png?w=618&h=436)
 
 Antonio Feijao, Python 3, Python3, Programming language and coding
+
 
 ---
 
@@ -145,6 +155,7 @@ SKILLS - Cloud Resources ; DHCP ; EIGRP ; FHRP ; GRE ; IPv4 And IPv6 Addressing 
 ## Antonio Feijao Linkedin page
 
 For more professional work detail, please check my [Antonio Feijao UK at LinkedIn](https://www.linkedin.com/in/antoniofeijaouk/)
+
 
 ---
 
