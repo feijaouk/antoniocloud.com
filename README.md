@@ -41,11 +41,16 @@
 ## AWS Certification Validations
 
 - [http://aws.amazon.com/verification][21]
-  - AWS Certified Developer - Associate - Validation Number `3HNDW6FCLM441Y5F`
-  - AWS Certified SysOps Administrator - Associate `JDRY2JY2KMVQQTGB`
-  - AWS Certified Solutions Architect - Associate `ZNDTEEB2K2V4QES7`
+  - AWS Certified Security - Specialty `7J5LWZ3KJ1E41MSP`
   - AWS Certified Advanced Networking - Specialty `8CXGM032KMFEQWSP`
-
+  
+  - AWS Certified Solutions Architect - Associate `ZNDTEEB2K2V4QES7`
+  - AWS Certified SysOps Administrator - Associate `JDRY2JY2KMVQQTGB`
+  - AWS Certified Developer - Associate `3HNDW6FCLM441Y5F`
+  
+  - AWS Certified Cloud Practitioner `JRYKX2MCLJ1QQZ99`
+  
+  
 [21]: http://aws.amazon.com/verification "AWS Certification Validations"
 
 ---
