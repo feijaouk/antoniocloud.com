@@ -161,6 +161,7 @@ For more professional work detail, please check my [Antonio Feijao UK at LinkedI
 
 ## Donations
 
+
 This is a personal website and opinions expressed are mine.
 
 If I helped you somehow and/or you want to keep my motivation to write article on internet, or if you just feel like giving me a donation, I promise, you will make me happy :)
