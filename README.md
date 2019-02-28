@@ -19,12 +19,13 @@
 [1]: https://feijaouk.files.wordpress.com/2018/11/aws_certified_logo_1176x600_color.png?w=308&h=44 "Antonio Feijao UK, AWS Certified"
 [2]: https://www.antoniocloud.com "Antonio Cloud, Antonio Feijao UK webpage"
 
-[![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate][11]][12]
+
 [![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate][3]][4]
+[![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate][11]][12]
 
 [![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate][9]][10]
-[![AWS Badge - Antonio Feijao UK - AWS Certified SysOps Administrator - Associate certificate][5]][6]
 [![AWS Badge - Antonio Feijao UK - AWS Certified Developer - Associate certificate][7]][8]
+[![AWS Badge - Antonio Feijao UK - AWS Certified SysOps Administrator - Associate certificate][5]][6]
 
 [![AWS Badge - Antonio Feijao UK - AWS Certified Cloud Practitioner certificate][13]][14]
 
@@ -57,12 +58,12 @@
 ## AWS Certification Validations
 
 - [http://aws.amazon.com/verification][21]
-  - AWS Certified Security - Specialty `7J5LWZ3KJ1E41MSP`
   - AWS Certified Advanced Networking - Specialty `8CXGM032KMFEQWSP`
-  
+  - AWS Certified Security - Specialty `7J5LWZ3KJ1E41MSP`
+
   - AWS Certified Solutions Architect - Associate `ZNDTEEB2K2V4QES7`
-  - AWS Certified SysOps Administrator - Associate `JDRY2JY2KMVQQTGB`
   - AWS Certified Developer - Associate `3HNDW6FCLM441Y5F`
+  - AWS Certified SysOps Administrator - Associate `JDRY2JY2KMVQQTGB`
   
   - AWS Certified Cloud Practitioner `JRYKX2MCLJ1QQZ99`
   
