@@ -21,9 +21,13 @@
 
 [![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate][11]][12]
 [![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate][3]][4]
+
+[![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate][9]][10]
 [![AWS Badge - Antonio Feijao UK - AWS Certified SysOps Administrator - Associate certificate][5]][6]
 [![AWS Badge - Antonio Feijao UK - AWS Certified Developer - Associate certificate][7]][8]
-[![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate][9]][10]
+
+[![AWS Badge - Antonio Feijao UK - AWS Certified Cloud Practitioner certificate][13]][14]
+
 
 
 [3]: https://www.antoniocloud.com/images/thumbnails/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png "Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated"
@@ -40,6 +44,12 @@
 
 [11]: https://www.antoniocloud.com/images/thumbnails/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, aws-certified-security-specialty-certificated"
 [12]: https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-02-26&ci=AWS00280650
+
+
+[13]: https://www.antoniocloud.com/images/thumbnails/Antonio-Feijao-AWS-Certified-Cloud-Practitioner.png "Antonio Feijao UK, AWS Certified Cloud Practitioner"
+[14]: https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-02-25&ci=AWS00280650
+
+
 
 
 ---
