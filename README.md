@@ -107,6 +107,7 @@
 ### RedHat Linux – System Administrator Certified
 
 - Antonio Feijao, RedHat Linux - System Administrator Certified
+
 ![Antonio Feijao RedHat Linux - System Administrator Certified](https://www.antoniocloud.com/images/thumbnails/antonio-feijao-redhat-certified-sys-admin.png)
 
 ---
@@ -138,9 +139,11 @@ Antonio Feijao, Python 3, Python3, Programming language and coding
 ## Cisco Systems Networking
 
 ### Antonio Feijao cisco_ccna_security
+
 - Antonio Feijao Cisco CCNA Security
 
 Cisco Certified Network Associate Security (CCNA Security)
+
 ![Antonio Feijao Cisco Certified Network Associate Security](https://www.antoniocloud.com/images/thumbnails/cisco_ccna_security.png)
 
 > "This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management."
@@ -168,7 +171,8 @@ SKILLS - Cloud Resources ; DHCP ; EIGRP ; FHRP ; GRE ; IPv4 And IPv6 Addressing 
 
 ## Antonio Feijao Linkedin page
 
-For more professional work detail, please check my [Antonio Feijao UK at LinkedIn](https://www.linkedin.com/in/antoniofeijaouk/)
+For more professional work detail,
+please check my [Antonio Feijao UK at LinkedIn](https://www.linkedin.com/in/antoniofeijaouk/)
 
 
 ---
