@@ -183,23 +183,17 @@ SKILLS - Cloud Resources ; DHCP ; EIGRP ; FHRP ; GRE ; IPv4 And IPv6 Addressing 
 ```
 
 
----
-
-## Antonio Feijao Linkedin page
-
-For more professional work detail,
-please check my [Antonio Feijao UK at LinkedIn](https://www.linkedin.com/in/antoniofeijaouk/)
-
 
 ---
 
 ## Donations
 
-This is a personal website and opinions expressed are mine.
+` This is a personal website and opinions expressed are mine. `
 
 If I helped you somehow and/or you want to keep my motivation to write article on internet, or if you just feel like giving me a donation, I promise, you will make me happy :)
 
 * [https://monzo.me/AntonioFeijaoUK](https://monzo.me/antoniofeijaouk) - `includes Google Pay`
+
 * [https://www.paypal.me/FeijaoUK](https://www.paypal.me/feijaouk)
 
 
