@@ -107,7 +107,7 @@
 ### RedHat Linux – System Administrator Certified
 
 - Antonio Feijao, RedHat Linux - System Administrator Certified
-![Antonio-Feijao-redhat-certified-sys-admin](../images/thumbnails/antonio-feijao-redhat-certified-sys-admin.png)
+![Antonio Feijao RedHat Linux - System Administrator Certified](https://www.antoniocloud.com/images/thumbnails/antonio-feijao-redhat-certified-sys-admin.png)
 
 ---
 
