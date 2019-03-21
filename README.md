@@ -2,7 +2,9 @@
 
 ---
 
-## Welcome to my website/blog page - AntonioCloud.com
+## Welcome
+
+` Welcome to my website/blog page - [AntonioCloud.com](https://www.antoniocloud.com) `
 
 [![Antonio Feijao, Antonio Cloud, FeijaoUK](https://www.antoniocloud.com/images/thumbnails/Antonio_Feijao_cover_photo.jpg)](https://www.antoniocloud.com)
 
@@ -28,7 +30,7 @@
 
 ---
 
-## Antonio Feijao UK (Antonio CLoud), AWS Certifications and Specialties
+## AWS Certifications and Specialties
 
 [![AWS Badge - Antonio Feijao - AWS Certified][1]][2]
 
@@ -154,7 +156,7 @@ Antonio Feijao, Python 3, Python3, Programming language and coding
 
 ## Cisco Systems Networking
 
-### Antonio Feijao cisco_ccna_security
+### Cisco CCNA Security
 
 - Antonio Feijao Cisco CCNA Security
 
@@ -169,7 +171,7 @@ SKILLS - 802.1x Authentication ; Anti-Malware ; CCNA ; Content Security ; Endpoi
 ```
 
 
-### Antonio Feijao Cisco CCNA_Routing and Switching
+### Cisco CCNA_Routing and Switching
 - Antonio Feijao Cisco CCNA_Routing and Switching
 
 Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
