@@ -141,7 +141,7 @@ Antonio Feijao, Python 3, Python3, Programming language and coding
 - Antonio Feijao Cisco CCNA Security
 
 Cisco Certified Network Associate Security (CCNA Security)
-![Antonio Feijao Cisco Certified Network Associate Security](../images/thumbnails/cisco_ccna_security.png)
+![Antonio Feijao Cisco Certified Network Associate Security](https://www.antoniocloud.com/images/thumbnails/cisco_ccna_security.png)
 
 > "This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management."
 
@@ -155,7 +155,7 @@ SKILLS - 802.1x Authentication ; Anti-Malware ; CCNA ; Content Security ; Endpoi
 
 Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
 
-![Antonio Feijao Cisco Certified Network Associate Routing and Switching](../images/thumbnails/cisco_ccna_r_26s.png)
+![Antonio Feijao Cisco Certified Network Associate Routing and Switching](https://www.antoniocloud.com/images/thumbnails/cisco_ccna_r_26s.png)
 
 > "This certification validates the skills required of associate-level network professionals to understand network fundamentals, lan switching technologies, ipv4 and ipv6 routing technologies, wan technologies, infrastructure services, security, and management."
 
@@ -175,17 +175,17 @@ For more professional work detail, please check my [Antonio Feijao UK at LinkedI
 
 ## Donations
 
-
 This is a personal website and opinions expressed are mine.
 
 If I helped you somehow and/or you want to keep my motivation to write article on internet, or if you just feel like giving me a donation, I promise, you will make me happy :)
 
-
 * [https://monzo.me/AntonioFeijaoUK](https://monzo.me/antoniofeijaouk) - `includes Google Pay`
-
 * [https://www.paypal.me/FeijaoUK](https://www.paypal.me/feijaouk)
 
 
+---
+
 Thank you!
+
   [Antonio Cloud](https://www.antoniocloud.com)
 
