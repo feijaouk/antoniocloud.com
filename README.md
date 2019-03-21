@@ -4,12 +4,12 @@
 
 ## Welcome
 
-` Welcome to my website/blog page - [AntonioCloud.com](https://www.antoniocloud.com) `
+__Welcome to my website/blog page__ [AntonioCloud.com](https://www.antoniocloud.com)
 
 [![Antonio Feijao, Antonio Cloud, FeijaoUK](https://www.antoniocloud.com/images/thumbnails/Antonio_Feijao_cover_photo.jpg)](https://www.antoniocloud.com)
 
 
-> This is a personal stream, opinions expressed are mine.
+> __This is a personal stream, opinions expressed are mine.__
 
 
 * [Antonio on Twitter @AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK)
