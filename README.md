@@ -1,5 +1,21 @@
 # [Antonio Feijao’s Certifications](https://www.antoniocloud.com "Antonio Feijao’s Certifications")
 
+--
+
+## Welcome to my website/blog page - AntonioCloud.com
+
+[![Antonio Feijao, Antonio Cloud, FeijaoUK](https://www.antoniocloud.com/images/thumbnails/Antonio_Feijao_cover_photo.jpg)](https://www.antoniocloud.com)
+
+
+> This is a personal stream, opinions expressed are mine.
+
+
+* [Antonio on Twitter @AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK)
+
+* [Antonio on LinkedIn @AntonioFeijaoUK](https://www.linkedin.com/in/antoniofeijaouk/)
+
+* [Antonio on Github @AntonioFeijaoUK](https://github.com/AntonioFeijaoUK)
+
 
 ---
 
