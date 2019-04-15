@@ -9,7 +9,7 @@ __Welcome to my website/blog page__ [AntonioCloud.com](https://www.antoniocloud.
 [![Antonio Feijao, Antonio Cloud, FeijaoUK](https://www.antoniocloud.com/images/thumbnails/Antonio_Feijao_cover_photo.jpg)](https://www.antoniocloud.com)
 
 
-> __This is a personal stream, opinions expressed are mine.__
+> __ [AntonioCloud.com](https://www.antoniocloud.com) is a personal website and includes personal streams. Opinions expressed are not necessarily those of [AWS](https://aws.amazon.com)__
 
 
 * [Antonio on Twitter @AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK)
