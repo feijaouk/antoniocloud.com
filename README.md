@@ -4,13 +4,14 @@
 
 ## Welcome
 
-__ Welcome to my website/blog page __ [AntonioCloud.com](https://www.antoniocloud.com)
+Welcome to my personal website [AntonioCloud.com](https://www.antoniocloud.com)
 
 [![Antonio Feijao, Antonio Cloud, FeijaoUK](https://www.antoniocloud.com/images/thumbnails/Antonio_Feijao_cover_photo.jpg)](https://www.antoniocloud.com)
 
-
-> __ [AntonioCloud.com](https://www.antoniocloud.com) is a personal website and includes personal streams. Opinions expressed are not necessarily those of [AWS](https://aws.amazon.com) __
-
+>
+> __ [AntonioCloud.com](https://www.antoniocloud.com) is a personal website and includes personal streams.
+> Opinions expressed are not necessarily those of [AWS](https://aws.amazon.com) __
+>
 
 * [Antonio on Twitter @AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK)
 
