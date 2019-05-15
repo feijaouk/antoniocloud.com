@@ -8,15 +8,12 @@ Welcome to my personal website [AntonioCloud.com](https://www.antoniocloud.com)
 
 [![Antonio Feijao, Antonio Cloud, FeijaoUK](https://www.antoniocloud.com/images/thumbnails/Antonio_Feijao_cover_photo.jpg)](https://www.antoniocloud.com)
 
+> 
+> Disclaimer: [AntonioCloud.com](https://www.antoniocloud.com) is a personal website. The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
 >
-> [AntonioCloud.com](https://www.antoniocloud.com) is a personal website and includes personal streams.
-> Opinions expressed are not necessarily those of [AWS](https://aws.amazon.com)
->
-
-* [Antonio on Twitter @AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK)
 
 * [Antonio on LinkedIn @AntonioFeijaoUK](https://www.linkedin.com/in/antoniofeijaouk/)
-
+* [Antonio on Twitter @AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK)
 * [Antonio on Github @AntonioFeijaoUK](https://github.com/AntonioFeijaoUK)
 
 
