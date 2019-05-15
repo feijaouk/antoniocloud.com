@@ -28,7 +28,7 @@ Welcome to my personal website [AntonioCloud.com](https://www.antoniocloud.com)
 
 ---
 
-## AWS Certifications and Specialties
+## Antonio's AWS Certifications and AWS Specialties
 
 [![AWS Badge - Antonio Feijao - AWS Certified][1]][2]
 
