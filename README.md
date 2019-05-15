@@ -8,9 +8,7 @@ Welcome to my personal website [AntonioCloud.com](https://www.antoniocloud.com)
 
 [![Antonio Feijao, Antonio Cloud, FeijaoUK](https://www.antoniocloud.com/images/thumbnails/Antonio_Feijao_cover_photo.jpg)](https://www.antoniocloud.com)
 
-> 
 > Disclaimer: [AntonioCloud.com](https://www.antoniocloud.com) is a personal website. The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
->
 
 * [Antonio on LinkedIn @AntonioFeijaoUK](https://www.linkedin.com/in/antoniofeijaouk/)
 * [Antonio on Twitter @AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK)
@@ -96,17 +94,11 @@ Welcome to my personal website [AntonioCloud.com](https://www.antoniocloud.com)
 [https://aws.amazon.com/certification/certified-advanced-networking-specialty/](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
 
 
-### AWS Certified SysOps Administrator – Associate
+### AWS Certified Security - Specialty
 
-> “The AWS Certified SysOps Administrator – Associate exam validates technical expertise in deployment, management, and operations on the AWS platform.”
+> "Description The AWS Certified Security - Specialty exam measures a candidate’s ability in the area of security as it pertains to design, implementation, and troubleshooting."
 
-[https://aws.amazon.com/certification/certified-sysops-admin-associate/](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
-
-
-### AWS Certified Developer – Associate
-> “The AWS Certified Developer – Associate exam validates technical expertise in developing and maintaining applications on the AWS platform.”
-
-[https://aws.amazon.com/certification/certified-developer-associate/](https://aws.amazon.com/certification/certified-developer-associate/)
+[https://aws.amazon.com/certification/certified-security-specialty/](https://aws.amazon.com/certification/certified-security-specialty/)
 
 
 ### AWS Certified Solutions Architect – Associate
@@ -114,6 +106,27 @@ Welcome to my personal website [AntonioCloud.com](https://www.antoniocloud.com)
 > “The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform.”
 
 [https://aws.amazon.com/certification/certified-solutions-architect-associate/](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+
+### AWS Certified Developer – Associate
+
+> “The AWS Certified Developer – Associate exam validates technical expertise in developing and maintaining applications on the AWS platform.”
+
+[https://aws.amazon.com/certification/certified-developer-associate/](https://aws.amazon.com/certification/certified-developer-associate/)
+
+
+### AWS Certified SysOps Administrator – Associate
+
+> “The AWS Certified SysOps Administrator – Associate exam validates technical expertise in deployment, management, and operations on the AWS platform.”
+
+[https://aws.amazon.com/certification/certified-sysops-admin-associate/](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
+
+
+### AWS Certified Cloud Practitioner
+
+> "The AWS Cloud Practitioner exam enables individuals with an overall understanding of the AWS Cloud to validate their knowledge with an industry-recognized credential. It provides individuals in a larger variety of cloud and technology roles with a way to validate their AWS Cloud knowledge and enhance their professional credibility."
+
+[https://aws.amazon.com/certification/certified-cloud-practitioner/](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 
 ---
