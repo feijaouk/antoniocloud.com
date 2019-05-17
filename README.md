@@ -10,10 +10,10 @@ Welcome to my personal website [AntonioCloud.com](https://www.antoniocloud.com)
 
 > Disclaimer: [AntonioCloud.com](https://www.antoniocloud.com) is a personal website. The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
 
-* [Antonio on LinkedIn](https://www.linkedin.com/in/antoniofeijaouk/)
-* [Antonio on Twitter](https://twitter.com/AntonioFeijaoUK)
-* [Antonio on Github](https://github.com/AntonioFeijaoUK)
-
+* [AntonioFeijaoUK on LinkedIn](https://www.linkedin.com/in/antoniofeijaouk/)
+* [AntonioFeijaoUK on Twitter](https://twitter.com/antoniofeijaouk)
+* [AntonioFeijaoUK on Github](https://github.com/antoniofeijaouk)
+* [AntonioFeijaoUK on Instagram](https://www.instagram.com/antoniofeijaouk/)
 
 ---
 
