@@ -5,11 +5,14 @@
 ```bash
 git close
 
+git status
+
 git add .
 
-git commit
+git commit -am "messange/comment about changes"
 
 git push
+
 ```
 
 ## git with ssh key
