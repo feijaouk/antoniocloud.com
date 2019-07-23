@@ -11,12 +11,132 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.antoniocloud.com/assets/images/thumbnails/readme/</loc>
+     <loc>https://www.antoniocloud.com/about-me/about-antonio-certification/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/about-me/about-antonio/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/about-me/about-antoniocloud.com/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/about-me/about/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/about-me/certification/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/about-me/contact/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/about-me/imprint/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/assets/images_small/readme/</loc>
      <lastmod>2019-07-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://www.antoniocloud.com/blog/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2018-12-01-Hello-World/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2018-12-02-welcome-to-jekyll/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2018-12-03-welcome-to-jekyll/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2018-31-25-merry-christmas/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-02-clamav/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-03-random-post/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-07-welcome-to-jekyll/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-08-start-a-carrier-in-it-and-cloud/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-10-free-online-aws-cloud-training-technical-courses/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-11-financial-learning/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-16-fail2ban-integration-with-abuseipdb/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-16-thank-you-for-jekyll-now/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-24-iptables-block-ip/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-29-dig-troubleshooting-dns-records-and-domain/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-30-what-is-my-ip-ipinfo/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-31-finally-a-theme/</loc>
+     <lastmod>2019-07-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.antoniocloud.com/blog/2019-01-31-my-girlfriend/</loc>
      <lastmod>2019-07-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -66,92 +186,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.antoniocloud.com/networking/2019-05-22-mkdocs/</loc>
+     <loc>https://www.antoniocloud.com/blog/find-all-instances-in-all-regions.sh/</loc>
      <lastmod>2019-07-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.antoniocloud.com/networking/2019-05-29-stranger-things-alphabet-wall-lights/</loc>
+     <loc>https://www.antoniocloud.com/blog/github-basics/</loc>
      <lastmod>2019-07-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.antoniocloud.com/networking/2019-06-05-python3-learning/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/networking/2019-06-12-aws-iam-roles-and-tokes/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/networking/2019-06-19-aws-taking-advantage-of-the-backbone/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/networking/2019-06-26-aws-transit-gateway-to-vpc/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/networking/2019-07-03-aws-online-digital-training/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/networking/2019-07-10-aws-security-certification-specialty/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/networking/2019-07-17-aws-database-conversion-tool/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-05-22-mkdocs/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-05-29-stranger-things-alphabet-wall-lights/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-06-05-python3-learning/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-06-12-aws-iam-roles-and-tokes/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-06-19-aws-taking-advantage-of-the-backbone/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-06-26-aws-transit-gateway-to-vpc/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-07-03-aws-online-digital-training/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-07-10-aws-security-certification-specialty/</loc>
-     <lastmod>2019-07-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://www.antoniocloud.com/raspberrypi/2019-07-17-aws-database-conversion-tool/</loc>
+     <loc>https://www.antoniocloud.com/projects/project-01-az/</loc>
      <lastmod>2019-07-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
