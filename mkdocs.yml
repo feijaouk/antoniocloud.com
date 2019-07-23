@@ -1,0 +1,47 @@
+# Project information
+site_name: 'Antonio Cloud'
+site_description: 'Antonio Cloud, personal website by Antonio Feijao UK, technology, aws, python, rpi, raspberry pi, linux, open source, security'
+site_author: 'Antonio Feijao UK'
+site_url: 'https://www.antoniocloud.com/'
+
+# Theme
+theme:
+  name: 'material'
+  language: 'en'
+  logo:
+    icon: 'cloud_done'
+  favicon: 'assets/images/favicon.ico'
+  palette:
+    primary: 'blue'
+    accent: 'indigo'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  feature:
+    tabs: true
+
+# Customization    
+extra:
+  manifest: 'manifest.webmanifest'
+  social:
+    - type: 'github'
+      link: 'https://github.com/antoniofeijaouk'
+    - type: 'twitter'
+      link: 'https://twitter.com/antoniofeijaouk'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/in/antoniofeijaouk'
+  disqus: 'antoniofeijaouk'
+  search:
+    tokenizer: '[\s\-\.]+'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - meta
+
+# Copyright
+copyright: 'Copyright &copy; 2019 Antonio Feijao'
