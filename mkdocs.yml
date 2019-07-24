@@ -24,13 +24,15 @@ theme:
 extra:
   manifest: 'manifest.webmanifest'
   social:
-    - type: 'github'
-      link: 'https://github.com/antoniofeijaouk'
-    - type: 'twitter'
-      link: 'https://twitter.com/antoniofeijaouk'
     - type: 'linkedin'
-      link: 'https://linkedin.com/in/antoniofeijaouk'
-  disqus: 'antoniofeijaouk'
+      link: 'https://linkedin.com/in/antoniofeijaouk/'
+    - type: 'github'
+      link: 'https://github.com/antoniofeijaouk/'
+    - type: 'twitter'
+      link: 'https://twitter.com/antoniofeijaouk/'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/AntonioFeijaoUK/'
+  disqus: 'antoniocloud'
   search:
     tokenizer: '[\s\-\.]+'
 
@@ -42,6 +44,7 @@ markdown_extensions:
   - toc:
       permalink: true
   - meta
+  - fontawesome_markdown
 
 # Copyright
 copyright: 'Copyright &copy; 2019 Antonio Feijao'
