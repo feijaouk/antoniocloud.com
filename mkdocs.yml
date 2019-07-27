@@ -10,7 +10,7 @@ theme:
   language: 'en'
   logo:
     icon: 'cloud_done'
-  favicon: 'assets/images/favicon.ico'
+  favicon: './assets/images/favicon.ico'
   palette:
     primary: 'blue'
     accent: 'indigo'

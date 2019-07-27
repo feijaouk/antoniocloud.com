@@ -1,5 +1,5 @@
 ---
-title: Stranger Things Alphabet Wall Lights
+title: Stranger Things Alphabet
 summary: Stranger Things Alphabet Wall Lights with Raspberry PI Python 3 and Neopixels
 authors:
     - Antonio Feijao UK

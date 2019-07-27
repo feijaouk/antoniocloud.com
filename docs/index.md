@@ -9,7 +9,7 @@ blank-value:
 base_url: /
 ---
 
-!!! success
+!!! home
     Hi and welcome to my personal website.
     [Antonio Cloud](https://www.antoniocloud.com/) is my personal website created and maintained by [Antonio Feijao UK](/about-me/).
 
@@ -17,27 +17,31 @@ base_url: /
 
     I am passionate about technology in general and I will use this page to share learnings with you and possible create positive discussions where I can learn from you too.
 
----
-
-## Disclaimer
-
-!!! warning
+!!! Disclaimer
     [AntonioCloud.com](https://www.antoniocloud.com) is a personal website.
     
     The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
 
----
 
 ## Albert Einstein
 
 You will find some quotes about [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) my website.
 
-> The only source of knowledge is experience.
->
-> by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
+!!! quote
+    The only source of knowledge is experience.
+    
+    by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
----
 
-## Icons Font Awesome
-
-* <https://fontawesome.com/icons?d=gallery&s=brands,solid&m=free>
+!!! donations
+    This is a personal website and opinions expressed are mine.
+    
+    I build this page during my own personal time and if you found any information on my page that helped you, or you just want to make me happy, feel free to do a donation.
+    
+    You will make me happy and will motivate me to write more content :)
+    
+    [https://monzo.me/AntonioFeijaoUK](https://monzo.me/antoniofeijaouk)
+    
+    [https://www.paypal.me/FeijaoUK](https://www.paypal.me/feijaouk)
+    
+    Thank you!

@@ -1,5 +1,5 @@
 ---
-title: Linux dig command and troubleshooting dns records and domain
+title: dig dns records
 summary: A brief description... summary
 authors:
     - Antonio Feijao UK

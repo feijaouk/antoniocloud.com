@@ -1,5 +1,5 @@
 ---
-title: Python 3 learn
+title: Python 3
 summary: Python 3 and how I learn to code in Python 3 by doing something usefull and fun
 authors:
     - Antonio Feijao UK

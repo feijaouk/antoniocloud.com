@@ -1,5 +1,5 @@
 ---
-title: What is my public IP, ipinfo.io json format
+title: Public IP
 summary: A brief description... summary
 authors:
     - Antonio Feijao UK

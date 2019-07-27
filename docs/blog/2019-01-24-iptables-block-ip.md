@@ -1,5 +1,5 @@
 ---
-title: iptables and block malicious abusive IPs
+title: Block abusive IPs
 summary: A brief description... summary
 authors:
     - Antonio Feijao UK

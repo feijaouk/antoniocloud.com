@@ -1,4 +1,4 @@
-# Merry Christmas!
+# Merry Christmas
 
 ```python
 
