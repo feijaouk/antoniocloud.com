@@ -128,13 +128,12 @@ _ <https://www.amazon.jobs/en-gb/working/working-amazon>
 
 _ <https://www.simplilearn.com/what-a-day-in-the-life-of-an-aws-solutions-architect-look-like-article>
 
-Good explanation on the site above, with except on the following sentence: 
+Good explanation on the site above, with except on the following sentence: <s>"Some AWS Solutions Architects are focused more on products and not on the customers."</s>
 
-!!! quote
-    
-    "Some AWS Solutions Architects are focused more on products and not on the customers."
-    
+At Amazon and AWS, the company culture starts with **Customer Obsession**!
 
-At AWS and Amazon, the companies culture starts with the customer. We would prioritize the customer instead of the product. 
+We prioritize the customer instead of the product. Check out Amazon Culture and Principles
+
+- <https://www.amazon.jobs/en-gb/principles>
 
 - <https://aws.amazon.com/careers/culture/>
