@@ -7,4 +7,4 @@ date: 2019-01-31
 some_url: https://www.antoniocloud.com
 ---
 
-Check the [training/](./training) sections !
+* Check the [training/](/training/) tab!

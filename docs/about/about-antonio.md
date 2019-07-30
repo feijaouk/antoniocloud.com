@@ -97,16 +97,18 @@ I am am passionate with tech in generally and is a pleasure to me when I help ot
 I built this page to practice and get experience.
 
 !!! quote
+    
     The only source of knowledge is experience.
     
     by Albert Einstein
+
 ---
 
 ## Albert Einstein famous quote
 
-* https://quotesblog.net/albert-einstein-images-quotes-and-wallpapers/
+- <https://quotesblog.net/albert-einstein-images-quotes-and-wallpapers/>
 
-* http://www.motivateamazebegreat.com/2013/12/einstein-visual-quotes-that-will.html
+- <http://www.motivateamazebegreat.com/2013/12/einstein-visual-quotes-that-will.html>
 
 ---
 
@@ -116,25 +118,23 @@ My passions also include #travel, #spacetravel, #cultures, #outdoors, #coding, #
 
 ---
 
-## What Solutions Architect do?
+## What Solutions Architect do
 
-* <https://www.amazon.jobs/en-gb/job_categories/solutions-architect>
+_ <https://www.amazon.jobs/en-gb/job_categories/solutions-architect>
 
-* <https://youtu.be/IBqqYWr4t94> - "What's It Like to Be a Solution Architect at AWS? Hear from Our Very Own."
+- <https://youtu.be/IBqqYWr4t94> - "What's It Like to Be a Solution Architect at AWS? Hear from Our Very Own."
 
-* <https://www.amazon.jobs/en-gb/working/working-amazon>
+_ <https://www.amazon.jobs/en-gb/working/working-amazon>
 
-* <https://www.simplilearn.com/what-a-day-in-the-life-of-an-aws-solutions-architect-look-like-article>
+_ <https://www.simplilearn.com/what-a-day-in-the-life-of-an-aws-solutions-architect-look-like-article>
 
 Good explanation on the site above, with except on the following sentence: 
 
-> <s>"Some AWS Solutions Architects are focused more on products and not on the customers."</s>
-
+!!! quote
+    
+    "Some AWS Solutions Architects are focused more on products and not on the customers."
+    
 
 At AWS and Amazon, the companies culture starts with the customer. We would prioritize the customer instead of the product. 
 
-* <https://aws.amazon.com/careers/culture/>
-
----
-
-
+- <https://aws.amazon.com/careers/culture/>

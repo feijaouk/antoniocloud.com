@@ -18,19 +18,11 @@ Why not, right?
 ## Proof of Concept
 
 What I used:
-  - 1x Raspberry PI 3b+ with power supply
-  - 1x Pack of 50 addressable RGB LEDs from Amazon - (LINKS)[LINKS]
-  - 1x Power supply 5V for the Raspberry PI
-  - 1x Power supply 5v for the LEDs
-  - 1x breadboard with a couple electric cables
 
----
+* 1x Raspberry PI 3b+ with power supply
+* 1x Pack of 50 addressable RGB LEDs from Amazon - (LINKS)[LINKS]
+* 1x Power supply 5V for the Raspberry PI
+* 1x Power supply 5v for the LEDs
+* 1x breadboard with a couple electric cables
 
-## Disclaimer
-
-> Options are mine..
-
-
----
-
-
+(...)

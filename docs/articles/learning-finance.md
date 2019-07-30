@@ -7,9 +7,6 @@ date: 2019-01-11
 some_url: https://www.antoniocloud.com
 ---
 
-
-
 ## Financial learning
 
-
-[https://www.youtube.com/user/RealEstateTrainingTF/videos](https://www.youtube.com/user/RealEstateTrainingTF/videos)
+* <https://www.youtube.com/user/RealEstateTrainingTF/videos>

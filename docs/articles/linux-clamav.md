@@ -8,8 +8,8 @@ sudo clamscan -v --infected -r --remove .
 
 ## explanation
 
-- `sudo`       - run the command as superuser or root
-- `clamscan`   - runs the ClamAV scanner
-- `-v`         - run in verbose mode
-- `--infected` - only output infected files (unless you also specified the verbose)
-- `--remove`   - removes (deletes) infected detected files
+* `sudo`       - run the command as superuser or root
+* `clamscan`   - runs the ClamAV scanner
+* `-v`         - run in verbose mode
+* `--infected` - only output infected files (unless you also specified the verbose)
+* `--remove`   - removes (deletes) infected detected files

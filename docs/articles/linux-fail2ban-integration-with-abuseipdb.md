@@ -12,7 +12,7 @@ some_url: https://www.antoniocloud.com
 
 ## Integrating AbuseIPDB with Fail2Ban - Automatically Report Bad IPs
 
-[https://www.abuseipdb.com/fail2ban.html](https://www.abuseipdb.com/fail2ban.html)
+* <https://www.abuseipdb.com/fail2ban.html>
 
 
 
