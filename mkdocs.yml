@@ -38,6 +38,9 @@ extra:
   search:
     tokenizer: '[\s\-\.]+'
 
+extra_css:
+  - 'assets/stylesheets/extra.css'
+
 # Extensions
 markdown_extensions:
   - admonition

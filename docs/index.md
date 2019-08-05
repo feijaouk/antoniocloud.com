@@ -9,7 +9,7 @@ blank-value:
 base_url: /
 ---
 
-## Home 
+## Home
 
 !!! home
     Hi and welcome to my personal website.
@@ -19,13 +19,12 @@ base_url: /
 
     I am passionate about technology in general and I will use this page to share learnings with you and possible create positive discussions where I can learn from you too.
 
-## Discaimer
+## Disclaimer
 
 !!! Disclaimer
     [AntonioCloud.com](https://www.antoniocloud.com) is a personal website.
     
     The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
-
 
 ## Albert Einstein
 
@@ -35,7 +34,6 @@ You will find some quotes about [Albert Einstein](https://en.wikipedia.org/wiki/
     The only source of knowledge is experience.
     
     by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
-
 
 ## Buy me a drink
 
