@@ -25,7 +25,7 @@ some_url: https://www.antoniocloud.com
 - <https://github.com/angelarw/aws-hands-on-workshops>
 - <https://search-sa-log-solutions.s3-us-east-2.amazonaws.com/logstash/html/Lab_Guide_ABD326.html>
 - <https://github.com/awslabs/aws-well-architected-labs>
-
+- <https://github.com/awslabs/aws-well-architected-labs>
 ---
 
 ## edX - AWS Free Courses from Amazon Web Services
