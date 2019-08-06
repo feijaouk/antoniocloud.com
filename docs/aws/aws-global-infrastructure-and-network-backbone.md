@@ -12,7 +12,7 @@ site_url: https://www.antoniocloud/aws/
 * [https://infrastructure.aws/](https://infrastructure.aws/)
 > "The Most Extensive, Reliable and Secure Global Cloud Infrastructure Available. See how we do it."
 
-![AWS Global Infrastructure](/images/aws-map.png)
+![AWS Global Infrastructure](../images/aws-map.png)
 > image by aws [https://infrastructure.aws/](https://infrastructure.aws/)
 
 - AWS Regions
