@@ -2,9 +2,11 @@
 site_name: 'Antonio Cloud'
 site_description: 'Antonio Cloud, personal website by Antonio Feijao UK, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking'
 site_author: 'Antonio Feijao UK'
+
 site_url: 'https://www.antoniocloud.com/'
+
 repo_name: 'www.antoniocloud.com'
-repo_url: 'https://github.com/AntonioFeijaoUK/www.antoniofeijaouk.com'
+repo_url: 'https://github.com/AntonioFeijaoUK/www.antoniocloud.com'
 
 # Theme
 theme:

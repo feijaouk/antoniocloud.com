@@ -1,5 +1,5 @@
 ---
-title: AWS Infrastructure and Network Backbone
+title: AWS Global Infrastructure and Network Backbone
 summary: AWS Infrastructure and Network Backbone to build a global connection.
 authors:
     - Antonio Feijao UK

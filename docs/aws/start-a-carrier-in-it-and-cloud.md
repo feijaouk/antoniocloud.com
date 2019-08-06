@@ -8,4 +8,4 @@ site_url: https://www.antoniocloud/
 base_url: /aws/
 ---
 
-* Check the [training/](/training/) tab!
+* Check the [training](/training/) tab!
