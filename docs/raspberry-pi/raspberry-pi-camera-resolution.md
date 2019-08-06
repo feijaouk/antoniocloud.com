@@ -4,16 +4,18 @@
 
 ```bash
 
-**lsusb | grep -i cam**
+lsusb | grep -i cam
+
 Bus 001 Device 004: ID 046d:0825 Logitech, Inc. Webcam C270
 
 ```
 
-Now, use the Bus and Device numbers with `-v` option for verbose and filter for `"Width|Height"` and `grep` command.
+- Now, use the Bus and Device numbers with `-v` option for verbose and filter for `"Width|Height"` and `grep` command.
 
 ```bash
 
 $ lsusb -s 001:002 -v | egrep "Width|Height"
+
     wWidth    640
     wHeight   480
     wWidth    1280
@@ -38,10 +40,9 @@ echo "Maximum --> Height <-- will come on top" && lsusb -s 001:004 -v | grep "He
 
 ## v4l2-ctl 
 
-or another elegant option if available
+- or another elegant option if available to you is :
 
 `v4l2-ctl --list-formats-ext`
-
 
 ## some credits go to
 

@@ -8,7 +8,7 @@ date: 2019-07-24
 some_url: /
 ---
 
-![Antonio Feijao UK](../assets/images/Antonio-Feijao-cover-photo.jpg)
+![Antonio Feijao UK](/images/Antonio-Feijao-cover-photo.jpg)
 
 ## Connect
 

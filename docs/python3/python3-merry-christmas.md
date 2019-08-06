@@ -2,7 +2,7 @@
 
 ```python
 
-var="Merry Christmas Everyobe!"
+var="Merry Christmas Everyone!"
 
 print (var)
 

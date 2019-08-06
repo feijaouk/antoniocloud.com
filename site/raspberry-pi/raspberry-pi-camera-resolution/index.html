@@ -10,7 +10,7 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
-        <meta name="description" content="Antonio Cloud, personal website by Antonio Feijao UK, technology, aws, python, rpi, raspberry pi, linux, open source, security">
+        <meta name="description" content="Antonio Cloud, personal website by Antonio Feijao UK, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking">
       
       
         <link rel="canonical" href="https://www.antoniocloud.com/raspberry-pi/raspberry-pi-camera-resolution/">
@@ -37,7 +37,7 @@
       
         <meta name="lang:search.tokenizer" content="[\s\-\.]+">
       
-      <link rel="shortcut icon" href="../../assets/images/favicon.ico">
+      <link rel="shortcut icon" href="/images/favicon.ico">
       <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.0.1">
     
     
@@ -481,8 +481,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../aws/aws-network-taking-advantage-of-the-backbone/" title="AWS  Network Backbone" class="md-nav__link">
-      AWS  Network Backbone
+    <a href="../../aws/aws-network-taking-advantage-of-the-backbone/" title="AWS Infrastructure and Network Backbone" class="md-nav__link">
+      AWS Infrastructure and Network Backbone
     </a>
   </li>
 
@@ -505,8 +505,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../aws/learninig-start-a-carrier-in-it-and-cloud/" title="Learning Training to start a carrier in IT" class="md-nav__link">
-      Learning Training to start a carrier in IT
+    <a href="../../aws/start-a-carrier-in-it-and-cloud/" title="Start a carrier in IT and Cloud" class="md-nav__link">
+      Start a carrier in IT and Cloud
     </a>
   </li>
 
@@ -1054,13 +1054,17 @@
                 
                 <h1 id="raspberry-pi-maximum-camera-resolution">Raspberry Pi Maximum Camera resolution<a class="headerlink" href="#raspberry-pi-maximum-camera-resolution" title="Permanent link">&para;</a></h1>
 <h2 id="linux-command-lsusb">Linux command lsusb<a class="headerlink" href="#linux-command-lsusb" title="Permanent link">&para;</a></h2>
-<div class="codehilite"><pre><span></span>**lsusb <span class="p">|</span> grep -i cam**
+<div class="codehilite"><pre><span></span>lsusb <span class="p">|</span> grep -i cam
+
 Bus <span class="m">001</span> Device <span class="m">004</span>: ID 046d:0825 Logitech, Inc. Webcam C270
 </pre></div>
 
 
-<p>Now, use the Bus and Device numbers with <code>-v</code> option for verbose and filter for <code>"Width|Height"</code> and <code>grep</code> command.</p>
+<ul>
+<li>Now, use the Bus and Device numbers with <code>-v</code> option for verbose and filter for <code>"Width|Height"</code> and <code>grep</code> command.</li>
+</ul>
 <div class="codehilite"><pre><span></span>$ lsusb -s <span class="m">001</span>:002 -v <span class="p">|</span> egrep <span class="s2">&quot;Width|Height&quot;</span>
+
     wWidth    <span class="m">640</span>
     wHeight   <span class="m">480</span>
     wWidth    <span class="m">1280</span>
@@ -1079,7 +1083,9 @@ Bus <span class="m">001</span> Device <span class="m">004</span>: ID 046d:0825 L
 
 
 <h2 id="v4l2-ctl">v4l2-ctl<a class="headerlink" href="#v4l2-ctl" title="Permanent link">&para;</a></h2>
-<p>or another elegant option if available</p>
+<ul>
+<li>or another elegant option if available to you is :</li>
+</ul>
 <p><code>v4l2-ctl --list-formats-ext</code></p>
 <h2 id="some-credits-go-to">some credits go to<a class="headerlink" href="#some-credits-go-to" title="Permanent link">&para;</a></h2>
 <p><a href="https://askubuntu.com/questions/214977/how-can-i-find-out-the-supported-webcam-resolutions">https://askubuntu.com/questions/214977/how-can-i-find-out-the-supported-webcam-resolutions</a></p>

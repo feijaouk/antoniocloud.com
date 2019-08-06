@@ -3,13 +3,13 @@
 ## Some basic git command
 
 ```bash
-git close
+git clone
 
 git status
 
 git add .
 
-git commit -am "messange/comment about changes"
+git commit -am "message/comment about changes"
 
 git push
 
@@ -22,4 +22,4 @@ git pull
 
 1. first create your ssh key `ssh-keygen -b 4096`
 2. add the `.pub` key into your repository
-3. check this set - <https://medium.com/@czarpino/how-to-tell-git-which-ssh-key-to-use-c8574fb243fd>
+3. check this setup - <https://medium.com/@czarpino/how-to-tell-git-which-ssh-key-to-use-c8574fb243fd>
