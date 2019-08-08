@@ -33,10 +33,11 @@ Official Documentations - <https://docs.aws.amazon.com/AmazonCloudWatch/latest/l
 
 `{ $.eventSource = "signin.amazonaws.com" && $.responseElements.ConsoleLogin = "Failure" }`
 
-- exclude IP address that yo know
+- exclude know IP address
 
 `{ ($.sourceIPAddress != "52.123.123.5") && ($.sourceIPAddress != "33.123.123.*") && ($.sourceIPAddress != "*.amazonaws.com") }`
 
 - AWS login without using MFA
 
 `{ $.eventSource="signin.amazonaws.com" && $.additionalEventData.MFAUsed="No" }`
+
