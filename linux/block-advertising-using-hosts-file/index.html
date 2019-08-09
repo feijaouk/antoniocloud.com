@@ -978,11 +978,62 @@
                 
                 
                 <h1 id="blocking-advertising-and-pops-using-hosts-file">Blocking advertising and pops using hosts file<a class="headerlink" href="#blocking-advertising-and-pops-using-hosts-file" title="Permanent link">&para;</a></h1>
-<p>check script file on github <a href="../block-ads-v3.sh">block-ads-v3.sh</a></p>
+<p>Full script file on github <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/blob/master/docs/linux/block-ads-v3.sh">block-ads-v3.sh</a></p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>Remember, do not execute or run what you do not understand, use at your own risk!</p>
 </div>
+<div class="codehilite"><pre><span></span><span class="ch">#!/bin/bash</span>
+
+<span class="c1">#</span>
+<span class="c1"># Version 2018-11-09 11:24</span>
+<span class="c1"># Author #AntonioFeijaoUK</span>
+<span class="c1">#</span>
+<span class="c1"># Purpose:  Script to automate the update on /etc/hosts with entries about malicious or advertising domains sites,</span>
+<span class="c1">#           so that my computer or DNS-Server resolves these domains to 0.0.0.0, therefore avoiding/blocking the connection.</span>
+<span class="c1">#</span>
+<span class="c1"># Result:   &quot;Cleaner&quot; web-pages, safer navigation, faster loading pages as the extra mess/ads will not download.</span>
+<span class="c1">#</span>
+<span class="c1"># Updates:</span>
+<span class="c1">#   2019-02-06 - Updated clean up script  awk &#39;{print $1}&#39;</span>
+<span class="c1">#</span>
+
+
+<span class="nb">echo</span> -e <span class="s2">&quot;\n\n ...initiating LIST var with list of URLs... \n\n&quot;</span>
+
+
+<span class="nv">LIST</span><span class="o">=</span><span class="s2">&quot;https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts</span>
+<span class="s2">https://mirror1.malwaredomains.com/files/justdomains</span>
+<span class="s2">http://sysctl.org/cameleon/hosts</span>
+<span class="s2">https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist</span>
+<span class="s2">https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt</span>
+<span class="s2">https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt</span>
+<span class="s2">https://hosts-file.net/ad_servers.txt&quot;</span>
+
+
+<span class="c1">#echo ${LIST}</span>
+
+<span class="nb">echo</span> -e <span class="s2">&quot;\n\n ...going through the list and curl the domains to block... \n\n&quot;</span>
+
+<span class="nv">COUNT</span><span class="o">=</span><span class="m">1</span>
+
+<span class="k">for</span> URL in <span class="k">$(</span><span class="nb">echo</span> <span class="si">${</span><span class="nv">LIST</span><span class="si">}</span><span class="k">)</span> <span class="p">;</span> <span class="k">do</span>
+  <span class="nb">echo</span> -e <span class="s2">&quot;\n\n ...curl URL --&gt;  </span><span class="si">${</span><span class="nv">URL</span><span class="si">}</span><span class="s2"> ... \n\n&quot;</span>
+  curl <span class="si">${</span><span class="nv">URL</span><span class="si">}</span> --output <span class="s2">&quot;list_</span><span class="si">${</span><span class="nv">COUNT</span><span class="si">}</span><span class="s2">.txt&quot;</span>
+  <span class="nv">COUNT</span><span class="o">=</span><span class="k">$((</span> <span class="si">${</span><span class="nv">COUNT</span><span class="si">}</span> <span class="o">+</span> <span class="m">1</span> <span class="k">))</span>
+<span class="k">done</span>
+
+
+<span class="nb">echo</span> -e <span class="s2">&quot;\n\n ...aggregating and clearing up the lists, removing duplicates... \n\n&quot;</span>
+
+cat -v list_* <span class="p">|</span> grep -v ^# <span class="p">|</span> grep -v ^$ <span class="p">|</span> sed -e <span class="s1">&#39;s/\^M//g&#39;</span> <span class="p">|</span> sed s/<span class="s1">&#39;127.0.0.1&#39;</span>//g <span class="p">|</span> sed s/<span class="s1">&#39;0.0.0.0&#39;</span>//g <span class="p">|</span>  awk <span class="s1">&#39;{print $1}&#39;</span> <span class="p">|</span> sed <span class="s1">&#39;s/[[:blank:]]//g&#39;</span> <span class="p">|</span> sort <span class="p">|</span> uniq <span class="p">|</span> sort &gt; domains-list-to-block.txt
+
+
+
+<span class="nb">echo</span> -e <span class="s2">&quot;\n\n ...adding 0.0.0.0 to the domains lists to protect from connection to the real IP... \n\n&quot;</span>
+
+<span class="k">for</span> DOMAIN in <span class="k">$(</span>cat domains-lis
+</pre></div>
                 
                   
                 
