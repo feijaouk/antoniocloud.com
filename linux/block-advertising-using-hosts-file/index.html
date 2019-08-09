@@ -13,7 +13,7 @@
         <meta name="description" content="Antonio Cloud, personal website by Antonio Feijao UK, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking">
       
       
-        <link rel="canonical" href="https://www.antoniocloud.com/linux/linux-iptables-block-ip/">
+        <link rel="canonical" href="https://www.antoniocloud.com/linux/block-advertising-using-hosts-file/">
       
       
         <meta name="author" content="Antonio Feijao UK">
@@ -42,7 +42,7 @@
     
     
       
-        <title>Linux iptables Block abusive IPs</title>
+        <title>Blocking advertising and pops using hosts file - Antonio Cloud</title>
       
     
     
@@ -112,7 +112,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#syntax-for-linux-iptables-command-to-block-or-drop-an-ip-address" tabindex="1" class="md-skip">
+      <a href="#blocking-advertising-and-pops-using-hosts-file" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -137,7 +137,7 @@
               Antonio Cloud
             </span>
             <span class="md-header-nav__topic">
-              Linux iptables Block abusive IPs
+              Blocking advertising and pops using hosts file
             </span>
           
         </div>
@@ -565,11 +565,20 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../block-advertising-using-hosts-file/" title="Blocking advertising and pops using hosts file" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Blocking advertising and pops using hosts file" class="md-nav__link md-nav__link--active">
       Blocking advertising and pops using hosts file
     </a>
+    
   </li>
 
         
@@ -637,79 +646,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-    
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        Linux iptables Block abusive IPs
-      </label>
-    
-    <a href="./" title="Linux iptables Block abusive IPs" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../linux-iptables-block-ip/" title="Linux iptables Block abusive IPs" class="md-nav__link">
       Linux iptables Block abusive IPs
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary">
-  
-  
-  
-    <label class="md-nav__title" for="__toc">Table of contents</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#syntax-for-linux-iptables-command-to-block-or-drop-an-ip-address" title="Syntax for Linux iptables command to block or drop an ip address" class="md-nav__link">
-    Syntax for Linux iptables command to block or drop an ip address
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#example-for-linux-iptables-command-to-block-and-ip" title="Example for Linux iptables command to block and ip" class="md-nav__link">
-    Example for Linux iptables command to block and ip
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#example-for-linux-iptables-command-to-block-a-port-for-a-specific-ip-address" title="Example for Linux iptables command to block a port for a specific ip address" class="md-nav__link">
-    Example for Linux iptables command to block a port for a specific ip address
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#example-to-remove-or-unblock-and-ip-address-from-the-iptables-list" title="Example to remove or unblock and ip address from the iptables list" class="md-nav__link">
-    Example to remove or unblock and ip address from the iptables list
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#remember-to-safe-your-iptables" title="Remember to safe your iptables!" class="md-nav__link">
-    Remember to safe your iptables!
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-        <li class="md-nav__item">
-          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
-            Comments
-          </a>
-        </li>
-      
-    </ul>
-  
-</nav>
-    
   </li>
 
         
@@ -1020,56 +961,8 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
   
-    <label class="md-nav__title" for="__toc">Table of contents</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#syntax-for-linux-iptables-command-to-block-or-drop-an-ip-address" title="Syntax for Linux iptables command to block or drop an ip address" class="md-nav__link">
-    Syntax for Linux iptables command to block or drop an ip address
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#example-for-linux-iptables-command-to-block-and-ip" title="Example for Linux iptables command to block and ip" class="md-nav__link">
-    Example for Linux iptables command to block and ip
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#example-for-linux-iptables-command-to-block-a-port-for-a-specific-ip-address" title="Example for Linux iptables command to block a port for a specific ip address" class="md-nav__link">
-    Example for Linux iptables command to block a port for a specific ip address
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#example-to-remove-or-unblock-and-ip-address-from-the-iptables-list" title="Example to remove or unblock and ip address from the iptables list" class="md-nav__link">
-    Example to remove or unblock and ip address from the iptables list
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#remember-to-safe-your-iptables" title="Remember to safe your iptables!" class="md-nav__link">
-    Remember to safe your iptables!
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-        <li class="md-nav__item">
-          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
-            Comments
-          </a>
-        </li>
-      
-    </ul>
   
 </nav>
                   </div>
@@ -1081,24 +974,15 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/edit/master/docs/linux/linux-iptables-block-ip.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/edit/master/docs/linux/block-advertising-using-hosts-file.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                  <h1>Linux iptables Block abusive IPs</h1>
-                
-                <p>Linux iptables, quick, simple and effective way to block an ip address or subnet range.</p>
-<h2 id="syntax-for-linux-iptables-command-to-block-or-drop-an-ip-address">Syntax for Linux iptables command to block or drop an ip address<a class="headerlink" href="#syntax-for-linux-iptables-command-to-block-or-drop-an-ip-address" title="Permanent link">&para;</a></h2>
-<p><code>iptables -A INPUT -s IP-ADDRESS -j DROP</code></p>
-<h2 id="example-for-linux-iptables-command-to-block-and-ip">Example for Linux iptables command to block and ip<a class="headerlink" href="#example-for-linux-iptables-command-to-block-and-ip" title="Permanent link">&para;</a></h2>
-<p><code># iptables -A INPUT -s 65.55.44.100 -j DROP</code></p>
-<h2 id="example-for-linux-iptables-command-to-block-a-port-for-a-specific-ip-address">Example for Linux iptables command to block a port for a specific ip address<a class="headerlink" href="#example-for-linux-iptables-command-to-block-a-port-for-a-specific-ip-address" title="Permanent link">&para;</a></h2>
-<p><code># iptables -A INPUT -s 65.55.44.100 -p tcp --destination-port 25 -j DROP</code></p>
-<h2 id="example-to-remove-or-unblock-and-ip-address-from-the-iptables-list">Example to remove or unblock and ip address from the iptables list<a class="headerlink" href="#example-to-remove-or-unblock-and-ip-address-from-the-iptables-list" title="Permanent link">&para;</a></h2>
-<p><code># iptables -D INPUT -s xx.xxx.xx.xx -j DROP</code>
-<code># iptables -D INPUT -s 65.55.44.100 -j DROP</code></p>
-<h2 id="remember-to-safe-your-iptables">Remember to safe your iptables!<a class="headerlink" href="#remember-to-safe-your-iptables" title="Permanent link">&para;</a></h2>
-<p><code># service iptables save</code></p>
-<p><a href="https://www.cyberciti.biz/faq/how-do-i-block-an-ip-on-my-linux-server/">source</a></p>
+                <h1 id="blocking-advertising-and-pops-using-hosts-file">Blocking advertising and pops using hosts file<a class="headerlink" href="#blocking-advertising-and-pops-using-hosts-file" title="Permanent link">&para;</a></h1>
+<p>check script file on github <a href="../block-ads-v3.sh">block-ads-v3.sh</a></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Remember, do not execute or run what you do not understand, use at your own risk!</p>
+</div>
                 
                   
                 
@@ -1111,9 +995,9 @@
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = "https://www.antoniocloud.com/linux/linux-iptables-block-ip/";
+      this.page.url = "https://www.antoniocloud.com/linux/block-advertising-using-hosts-file/";
       this.page.identifier =
-        "linux/linux-iptables-block-ip/";
+        "linux/block-advertising-using-hosts-file/";
     };
     (function() {
       var d = document, s = d.createElement("script");
@@ -1135,7 +1019,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../linux-find-command/" title="Linux find command" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../" title="Linux posts" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -1144,19 +1028,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Linux find command
+                Linux posts
               </span>
             </div>
           </a>
         
         
-          <a href="../linux-what-is-my-ip-ipinfo/" title="Linux Public IP" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../github-basics-command/" title="Github git basic commands" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Linux Public IP
+                Github git basic commands
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
