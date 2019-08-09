@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdocs build
+#mkdocs build
 
 mkdocs gh-deploy
 
