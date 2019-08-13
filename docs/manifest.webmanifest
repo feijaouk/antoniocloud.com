@@ -1,0 +1,21 @@
+{
+  "short_name": "AntonioCloud",
+  "name": "AntonioCloud",
+  "icons": [
+    {
+      "src": "/images/logo.jpg",
+      "type": "image/jpg",
+      "sizes": "any"
+    },
+    {
+      "src": "/images/Antonio-Feijao-UK.jpeg",
+      "type": "image/jpg",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "www.antoniocloud.com",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
