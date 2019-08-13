@@ -1,5 +1,8 @@
 # Linux Clam AntiVirus ClamAV
 
+![ClamAV](https://www.clamav.net/assets/clamav-trademark.png)
+- clamav's logo
+
 - Runs on AmazonLinux, Linux RedHat, Ubuntu, MacOS, Raspberry Pi, ...
 
 ## ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
