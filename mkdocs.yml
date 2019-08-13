@@ -54,7 +54,7 @@ markdown_extensions:
       permalink: true
   - meta
   - fontawesome_markdown
-
+  - pymdownx.details
 # Copyright
 copyright: 'Copyright &copy; 2019 Antonio Feijao'
 
