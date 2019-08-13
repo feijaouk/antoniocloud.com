@@ -10,7 +10,7 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
-        <meta name="description" content="Antonio Cloud, personal website by Antonio Feijao UK, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking">
+        <meta name="description" content="Antonio Cloud, personal website by Antonio Feijao UK, AWS Solutions Architect, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking">
       
       
         <link rel="canonical" href="https://www.antoniocloud.com/posts/">
@@ -74,6 +74,31 @@
       <link rel="stylesheet" href="../assets/stylesheets/extra.css">
     
     
+      
+        
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-131227949-1", "auto")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
       
     
     

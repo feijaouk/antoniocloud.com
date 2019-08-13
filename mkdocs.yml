@@ -1,6 +1,6 @@
 # Project information
 site_name: 'Antonio Cloud'
-site_description: 'Antonio Cloud, personal website by Antonio Feijao UK, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking'
+site_description: 'Antonio Cloud, personal website by Antonio Feijao UK, AWS Solutions Architect, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking'
 site_author: 'Antonio Feijao UK'
 
 site_url: 'https://www.antoniocloud.com/'
@@ -26,6 +26,7 @@ theme:
 
 # Customization    
 extra:
+  disqus: 'antoniocloud'
   manifest: 'manifest.webmanifest'
   social:
     - type: 'linkedin'
@@ -36,13 +37,10 @@ extra:
       link: 'https://twitter.com/antoniofeijaouk/'
     - type: 'instagram'
       link: 'https://www.instagram.com/AntonioFeijaoUK/'
-  disqus: 'antoniocloud'
-  google_analytics:
-  - 'UA-131227949-1'
-  - 'auto'
-  
   search:
     tokenizer: '[\s\-\.]+'
+
+google_analytics: [ 'UA-131227949-1', 'auto']
 
 extra_css:
   - 'assets/stylesheets/extra.css'
