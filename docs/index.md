@@ -27,6 +27,8 @@ base_url: /
     
     The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
 
+![Antonio Feijao UK snorkeling](images/antonio-feijao-uk-snorkeling.jpg)
+
 ## Albert Einstein
 
 You will find some quotes about [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) my website.

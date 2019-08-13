@@ -5,12 +5,12 @@
     {
       "src": "/images/logo.jpg",
       "type": "image/jpg",
-      "sizes": "any"
+      "sizes": "192x192"
     },
     {
-      "src": "/images/Antonio-Feijao-UK.jpeg",
+      "src": "/images/antonio-feijao-uk-snorkeling.jpg",
       "type": "image/jpg",
-      "sizes": "any"
+      "sizes": "512x512"
     }
   ],
   "start_url": "www.antoniocloud.com",
