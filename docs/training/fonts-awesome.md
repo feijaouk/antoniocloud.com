@@ -15,16 +15,14 @@
 
 ## List Fonts Awesome icons working with mkdocs
 
-??? Click to reveal! - grep awk linux commands to build this list
-    
+??? success "Click to reveal command used to create the list below"
     `cat font-awesome.css | tr '.' '\n' | grep before | awk -F ":" '{ print ":" $1 ": - `" $1 "` \n" }'`
     
     As I am using the mkdocs-material theme, so the css file with the icons is in this folder `(...python version..)/site-packages/material/assets/fonts`
 
 
-
-!!! note
-    The below list took me quite a while to find in to create. Do you know a better way?
+!!! help
+    The below list took me quite a while to find and then to create. Do you know a better way?
 
 
 - <https://fontawesome.com/icons?d=gallery&s=fab-,fas-&m=free>

@@ -1,3 +1,5 @@
 # Contact Antonio
 
-:fa-at: `antoniofeijao AT gmail.com`
+??? info "Contact Antonio"
+    :fa-at: `antoniofeijao AT gmail.com`
+
