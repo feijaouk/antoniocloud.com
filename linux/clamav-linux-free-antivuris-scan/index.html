@@ -652,15 +652,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#updates-anti-virus-database-engine" title="updates anti-virus database engine" class="md-nav__link">
-    updates anti-virus database engine
+  <a href="#brief-explanation" title="brief explanation" class="md-nav__link">
+    brief explanation
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#executes-the-scan-antivirus-attention-to-the-remove-flag-this-deletes-files" title="executes the scan-antivirus, --&gt;&gt; ATTENTION to the --remove flag, this deletes files!" class="md-nav__link">
-    executes the scan-antivirus, --&gt;&gt; ATTENTION to the --remove flag, this deletes files!
+  <a href="#offical-manual-command-man-freshclam-man-clamscan" title="offical manual command man freshclam man clamscan" class="md-nav__link">
+    offical manual command man freshclam man clamscan
   </a>
   
 </li>
@@ -1089,15 +1089,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#updates-anti-virus-database-engine" title="updates anti-virus database engine" class="md-nav__link">
-    updates anti-virus database engine
+  <a href="#brief-explanation" title="brief explanation" class="md-nav__link">
+    brief explanation
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#executes-the-scan-antivirus-attention-to-the-remove-flag-this-deletes-files" title="executes the scan-antivirus, --&gt;&gt; ATTENTION to the --remove flag, this deletes files!" class="md-nav__link">
-    executes the scan-antivirus, --&gt;&gt; ATTENTION to the --remove flag, this deletes files!
+  <a href="#offical-manual-command-man-freshclam-man-clamscan" title="offical manual command man freshclam man clamscan" class="md-nav__link">
+    offical manual command man freshclam man clamscan
   </a>
   
 </li>
@@ -1128,10 +1128,14 @@
                 
                 
                 <h1 id="linux-clam-antivirus-clamav">Linux Clam AntiVirus ClamAV<a class="headerlink" href="#linux-clam-antivirus-clamav" title="Permanent link">&para;</a></h1>
-<p><img alt="ClamAV" src="https://www.clamav.net/assets/clamav-trademark.png" />
-- clamav's logo</p>
+<p><img alt="ClamAV" src="https://www.clamav.net/assets/clamav-trademark.png" /></p>
 <ul>
-<li>Runs on AmazonLinux, Linux RedHat, Ubuntu, MacOS, Raspberry Pi, ...</li>
+<li>
+<p>clamav's logo</p>
+</li>
+<li>
+<p>Runs on AmazonLinux, Linux RedHat, Ubuntu, MacOS, Raspberry Pi, ...</p>
+</li>
 </ul>
 <h2 id="clamav-is-an-open-source-antivirus-engine-for-detecting-trojans-viruses-malware-other-malicious-threats">ClamAV is an open source antivirus engine for detecting trojans, viruses, malware &amp; other malicious threats.<a class="headerlink" href="#clamav-is-an-open-source-antivirus-engine-for-detecting-trojans-viruses-malware-other-malicious-threats" title="Permanent link">&para;</a></h2>
 <ul>
@@ -1144,14 +1148,19 @@
 <p>AmazonLinux, RedHat, CentOS, Fedora - <code>yum install clamav</code></p>
 <hr />
 <h2 id="using-clamav-freshclam-and-clamscn">Using ClamAV freshclam and clamscn<a class="headerlink" href="#using-clamav-freshclam-and-clamscn" title="Permanent link">&para;</a></h2>
-<p>```sh</p>
-<h2 id="updates-anti-virus-database-engine">updates anti-virus database engine<a class="headerlink" href="#updates-anti-virus-database-engine" title="Permanent link">&para;</a></h2>
-<p>freshclam -v</p>
-<h2 id="executes-the-scan-antivirus-attention-to-the-remove-flag-this-deletes-files">executes the scan-antivirus, --&gt;&gt; ATTENTION to the <code>--remove</code> flag, this deletes files!<a class="headerlink" href="#executes-the-scan-antivirus-attention-to-the-remove-flag-this-deletes-files" title="Permanent link">&para;</a></h2>
-<h2 id="_1"><a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
-<h1 id="consider-running-the-command-first-without-the-remove-flag">consider running the command first without the <code>--remove</code> flag.<a class="headerlink" href="#consider-running-the-command-first-without-the-remove-flag" title="Permanent link">&para;</a></h1>
-<p>sudo clamscan --infected --remove --recursive=yes .</p>
-<p>````</p>
+<div class="codehilite"><pre><span></span><span class="c1">## updates anti-virus database engine</span>
+
+freshclam -v
+
+
+<span class="c1">## executes the scan-antivirus, --&gt;&gt; ATTENTION to the `--remove` flag, this deletes files!</span>
+<span class="c1">##</span>
+<span class="c1"># consider running the command first without the `--remove` flag.</span>
+
+sudo clamscan --infected --remove --recursive<span class="o">=</span>yes .
+</pre></div>
+
+
 <h2 id="brief-explanation">brief explanation<a class="headerlink" href="#brief-explanation" title="Permanent link">&para;</a></h2>
 <ul>
 <li><code>sudo</code>       - run the command as superuser or root</li>
@@ -1160,7 +1169,8 @@
 <li><code>--infected</code> - only output infected files (unless you also specified the verbose)</li>
 <li><code>--remove</code>   - removes (deletes) infected detected files</li>
 </ul>
-<p>use <code>man freshclam</code> or <code>man clamscan</code> for the official manual.</p>
+<h2 id="offical-manual-command-man-freshclam-man-clamscan">offical manual command man freshclam man clamscan<a class="headerlink" href="#offical-manual-command-man-freshclam-man-clamscan" title="Permanent link">&para;</a></h2>
+<p>use <code>man freshclam</code> or <code>man clamscan</code> for the official command line manual.</p>
                 
                   
                 
