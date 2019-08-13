@@ -13,7 +13,7 @@
         <meta name="description" content="Antonio Cloud, personal website by Antonio Feijao UK, AWS Solutions Architect, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking">
       
       
-        <link rel="canonical" href="https://www.antoniocloud.com/linux/linux-clamav/">
+        <link rel="canonical" href="https://www.antoniocloud.com/linux/clamav-linux-free-antivuris-scan/">
       
       
         <meta name="author" content="Antonio Feijao UK">
@@ -42,7 +42,7 @@
     
     
       
-        <title>Linux ClamAV Antivirus - Antonio Cloud</title>
+        <title>Linux Clam AntiVirus ClamAV - Antonio Cloud</title>
       
     
     
@@ -137,7 +137,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#linux-clamav-antivirus" tabindex="1" class="md-skip">
+      <a href="#linux-clam-antivirus-clamav" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -162,7 +162,7 @@
               Antonio Cloud
             </span>
             <span class="md-header-nav__topic">
-              Linux ClamAV Antivirus
+              Linux Clam AntiVirus ClamAV
             </span>
           
         </div>
@@ -602,18 +602,6 @@
           
           
 
-
-  <li class="md-nav__item">
-    <a href="../github-basics-command/" title="Github git basic commands" class="md-nav__link">
-      Github git basic commands
-    </a>
-  </li>
-
-        
-          
-          
-          
-
   
 
 
@@ -625,11 +613,11 @@
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        Linux ClamAV Antivirus
+        Linux Clam AntiVirus ClamAV
       </label>
     
-    <a href="./" title="Linux ClamAV Antivirus" class="md-nav__link md-nav__link--active">
-      Linux ClamAV Antivirus
+    <a href="./" title="Linux Clam AntiVirus ClamAV" class="md-nav__link md-nav__link--active">
+      Linux Clam AntiVirus ClamAV
     </a>
     
       
@@ -643,8 +631,36 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#explanation" title="explanation" class="md-nav__link">
-    explanation
+  <a href="#clamav-is-an-open-source-antivirus-engine-for-detecting-trojans-viruses-malware-other-malicious-threats" title="ClamAV is an open source antivirus engine for detecting trojans, viruses, malware &amp; other malicious threats." class="md-nav__link">
+    ClamAV is an open source antivirus engine for detecting trojans, viruses, malware &amp; other malicious threats.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basic-installation-clamav-linux-open-source-antivirus" title="Basic installation ClamAV Linux open source antivirus" class="md-nav__link">
+    Basic installation ClamAV Linux open source antivirus
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#using-clamav-freshclam-and-clamscn" title="Using ClamAV freshclam and clamscn" class="md-nav__link">
+    Using ClamAV freshclam and clamscn
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#updates-anti-virus-database-engine" title="updates anti-virus database engine" class="md-nav__link">
+    updates anti-virus database engine
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#executes-the-scan-antivirus-attention-to-the-remove-flag-this-deletes-files" title="executes the scan-antivirus, --&gt;&gt; ATTENTION to the --remove flag, this deletes files!" class="md-nav__link">
+    executes the scan-antivirus, --&gt;&gt; ATTENTION to the --remove flag, this deletes files!
   </a>
   
 </li>
@@ -663,6 +679,18 @@
   
 </nav>
     
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../github-basics-command/" title="Github git basic commands" class="md-nav__link">
+      Github git basic commands
+    </a>
   </li>
 
         
@@ -1028,8 +1056,36 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#explanation" title="explanation" class="md-nav__link">
-    explanation
+  <a href="#clamav-is-an-open-source-antivirus-engine-for-detecting-trojans-viruses-malware-other-malicious-threats" title="ClamAV is an open source antivirus engine for detecting trojans, viruses, malware &amp; other malicious threats." class="md-nav__link">
+    ClamAV is an open source antivirus engine for detecting trojans, viruses, malware &amp; other malicious threats.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basic-installation-clamav-linux-open-source-antivirus" title="Basic installation ClamAV Linux open source antivirus" class="md-nav__link">
+    Basic installation ClamAV Linux open source antivirus
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#using-clamav-freshclam-and-clamscn" title="Using ClamAV freshclam and clamscn" class="md-nav__link">
+    Using ClamAV freshclam and clamscn
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#updates-anti-virus-database-engine" title="updates anti-virus database engine" class="md-nav__link">
+    updates anti-virus database engine
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#executes-the-scan-antivirus-attention-to-the-remove-flag-this-deletes-files" title="executes the scan-antivirus, --&gt;&gt; ATTENTION to the --remove flag, this deletes files!" class="md-nav__link">
+    executes the scan-antivirus, --&gt;&gt; ATTENTION to the --remove flag, this deletes files!
   </a>
   
 </li>
@@ -1056,15 +1112,33 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/edit/master/docs/linux/linux-clamav.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/edit/master/docs/linux/clamav-linux-free-antivuris-scan.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="linux-clamav-antivirus">Linux ClamAV Antivirus<a class="headerlink" href="#linux-clamav-antivirus" title="Permanent link">&para;</a></h1>
-<div class="codehilite"><pre><span></span>sudo clamscan -v --infected -r --remove .
-</pre></div>
-
-
-<h2 id="explanation">explanation<a class="headerlink" href="#explanation" title="Permanent link">&para;</a></h2>
+                <h1 id="linux-clam-antivirus-clamav">Linux Clam AntiVirus ClamAV<a class="headerlink" href="#linux-clam-antivirus-clamav" title="Permanent link">&para;</a></h1>
+<ul>
+<li>Runs on AmazonLinux, Linux RedHat, Ubuntu, MacOS, Raspberry Pi, ...</li>
+</ul>
+<h2 id="clamav-is-an-open-source-antivirus-engine-for-detecting-trojans-viruses-malware-other-malicious-threats">ClamAV is an open source antivirus engine for detecting trojans, viruses, malware &amp; other malicious threats.<a class="headerlink" href="#clamav-is-an-open-source-antivirus-engine-for-detecting-trojans-viruses-malware-other-malicious-threats" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Official page - <a href="https://www.clamav.net/">https://www.clamav.net/</a></li>
+</ul>
+<hr />
+<h2 id="basic-installation-clamav-linux-open-source-antivirus">Basic installation ClamAV Linux open source antivirus<a class="headerlink" href="#basic-installation-clamav-linux-open-source-antivirus" title="Permanent link">&para;</a></h2>
+<p>MacOS - <code>brew install clamav</code></p>
+<p>RaspberryPi Ubuntu - <code>apt-get install clamav</code></p>
+<p>AmazonLinux, RedHat, CentOS, Fedora - <code>yum install clamav</code></p>
+<hr />
+<h2 id="using-clamav-freshclam-and-clamscn">Using ClamAV freshclam and clamscn<a class="headerlink" href="#using-clamav-freshclam-and-clamscn" title="Permanent link">&para;</a></h2>
+<p>```sh</p>
+<h2 id="updates-anti-virus-database-engine">updates anti-virus database engine<a class="headerlink" href="#updates-anti-virus-database-engine" title="Permanent link">&para;</a></h2>
+<p>freshclam -v</p>
+<h2 id="executes-the-scan-antivirus-attention-to-the-remove-flag-this-deletes-files">executes the scan-antivirus, --&gt;&gt; ATTENTION to the <code>--remove</code> flag, this deletes files!<a class="headerlink" href="#executes-the-scan-antivirus-attention-to-the-remove-flag-this-deletes-files" title="Permanent link">&para;</a></h2>
+<h2 id="_1"><a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<h1 id="consider-running-the-command-first-without-the-remove-flag">consider running the command first without the <code>--remove</code> flag.<a class="headerlink" href="#consider-running-the-command-first-without-the-remove-flag" title="Permanent link">&para;</a></h1>
+<p>sudo clamscan --infected --remove --recursive=yes .</p>
+<p>````</p>
+<h2 id="brief-explanation">brief explanation<a class="headerlink" href="#brief-explanation" title="Permanent link">&para;</a></h2>
 <ul>
 <li><code>sudo</code>       - run the command as superuser or root</li>
 <li><code>clamscan</code>   - runs the ClamAV scanner</li>
@@ -1072,6 +1146,7 @@
 <li><code>--infected</code> - only output infected files (unless you also specified the verbose)</li>
 <li><code>--remove</code>   - removes (deletes) infected detected files</li>
 </ul>
+<p>use <code>man freshclam</code> or <code>man clamscan</code> for the official manual.</p>
                 
                   
                 
@@ -1084,9 +1159,9 @@
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = "https://www.antoniocloud.com/linux/linux-clamav/";
+      this.page.url = "https://www.antoniocloud.com/linux/clamav-linux-free-antivuris-scan/";
       this.page.identifier =
-        "linux/linux-clamav/";
+        "linux/clamav-linux-free-antivuris-scan/";
     };
     (function() {
       var d = document, s = d.createElement("script");
@@ -1108,7 +1183,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../github-basics-command/" title="Github git basic commands" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../block-advertising-using-hosts-file/" title="Blocking advertising and pops using hosts file" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -1117,19 +1192,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Github git basic commands
+                Blocking advertising and pops using hosts file
               </span>
             </div>
           </a>
         
         
-          <a href="../linux-dig-troubleshooting-dns-records-and-domain/" title="Linux dig dns records" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../github-basics-command/" title="Github git basic commands" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Linux dig dns records
+                Github git basic commands
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
