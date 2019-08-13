@@ -960,9 +960,51 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Font Awesome
+      </label>
+    
     <a href="./" title="Font Awesome" class="md-nav__link md-nav__link--active">
       Font Awesome
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#fonts-awesome-install" title="Fonts Awesome install" class="md-nav__link">
+    Fonts Awesome install
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#list-fonts-awesome-icons-working-with-mkdocs" title="List Fonts Awesome icons working with mkdocs" class="md-nav__link">
+    List Fonts Awesome icons working with mkdocs
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -1001,6 +1043,35 @@
     
   
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#fonts-awesome-install" title="Fonts Awesome install" class="md-nav__link">
+    Fonts Awesome install
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#list-fonts-awesome-icons-working-with-mkdocs" title="List Fonts Awesome icons working with mkdocs" class="md-nav__link">
+    List Fonts Awesome icons working with mkdocs
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1015,7 +1086,26 @@
                 
                 
                 <h1 id="font-awesome">Font Awesome<a class="headerlink" href="#font-awesome" title="Permanent link">&para;</a></h1>
-<p>Fonts Awesome icons</p>
+<hr />
+<h2 id="fonts-awesome-install">Fonts Awesome install<a class="headerlink" href="#fonts-awesome-install" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://pypi.org/project/fontawesome-markdown/">https://pypi.org/project/fontawesome-markdown/</a></li>
+</ul>
+<p><code>pip install fontawesome</code></p>
+<p><code>pip install fontawesome-markdown</code></p>
+<hr />
+<h2 id="list-fonts-awesome-icons-working-with-mkdocs">List Fonts Awesome icons working with mkdocs<a class="headerlink" href="#list-fonts-awesome-icons-working-with-mkdocs" title="Permanent link">&para;</a></h2>
+<p>??? Click to reveal! - grep awk linux commands to build this list</p>
+<div class="codehilite"><pre><span></span>`cat font-awesome.css | tr &#39;.&#39; &#39;\n&#39; | grep before | awk -F &quot;:&quot; &#39;{ print &quot;:&quot; $1 &quot;: - `&quot; $1 &quot;` \n&quot; }&#39;`
+
+As I am using the mkdocs-material theme, so the css file with the icons is in this folder `(...python version..)/site-packages/material/assets/fonts`
+</pre></div>
+
+
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The below list took me quite a while to find in to create. Do you know a better way?</p>
+</div>
 <ul>
 <li>
 <p><a href="https://fontawesome.com/icons?d=gallery&amp;s=fab-,fas-&amp;m=free">https://fontawesome.com/icons?d=gallery&amp;s=fab-,fas-&amp;m=free</a></p>
@@ -1030,1105 +1120,792 @@
 <p><a href="https://pypi.org/project/fontawesome-markdown/">https://pypi.org/project/fontawesome-markdown/</a></p>
 </li>
 </ul>
-<p><code>pip install fontawesome-markdown</code></p>
-<div class="codehilite"><pre><span></span>    <span class="s1">&#39;fas&#39;</span>: <span class="s1">&#39;solid&#39;</span>,
-    <span class="s1">&#39;fa&#39;</span>: <span class="s1">&#39;solid&#39;</span>,
-    <span class="s1">&#39;fab&#39;</span>: <span class="s1">&#39;brands&#39;</span>,
-    <span class="s1">&#39;far&#39;</span>: <span class="s1">&#39;regular&#39;</span>,
-    <span class="s1">&#39;fal&#39;</span>: <span class="s1">&#39;light&#39;</span>,
-</pre></div>
-
-
-<p><i class="fa fa-500px"></i> <code>:fa-accessible-icon:</code> <code>:fa-accusoft:</code> <code>:fa-address-book:</code> <code>:fa-address-card:</code> <i class="fa fa-adjust"></i> <i class="fa fa-adn"></i> <code>:fa-adversal:</code> <code>:fa-affiliatetheme:</code> <code>:fa-air-freshener:</code> <code>:fa-algolia:</code> <i class="fa fa-align-center"></i> <i class="fa fa-align-justify"></i> <i class="fa fa-align-left"></i> <i class="fa fa-align-right"></i> <code>:fa-allergies:</code> <i class="fa fa-amazon"></i> <code>:fa-amazon-pay:</code> <i class="fa fa-ambulance"></i> <i class="fa fa-american-sign-language-interpreting"></i> <code>:fa-amilia:</code> <i class="fa fa-anchor"></i> <i class="fa fa-android"></i> <i class="fa fa-angellist"></i> <i class="fa fa-angle-double-down"></i> <i class="fa fa-angle-double-left"></i> <i class="fa fa-angle-double-right"></i> <i class="fa fa-angle-double-up"></i> <i class="fa fa-angle-down"></i> <i class="fa fa-angle-left"></i> <i class="fa fa-angle-right"></i> <i class="fa fa-angle-up"></i> <code>:fa-angry:</code> <code>:fa-angrycreative:</code> <code>:fa-angular:</code> <code>:fa-app-store:</code> <code>:fa-app-store-ios:</code> <code>:fa-apper:</code> <i class="fa fa-apple"></i> <code>:fa-apple-alt:</code> <code>:fa-apple-pay:</code> <i class="fa fa-archive"></i> <code>:fa-archway:</code> <code>:fa-arrow-alt-circle-down:</code> <code>:fa-arrow-alt-circle-left:</code> <code>:fa-arrow-alt-circle-right:</code> <code>:fa-arrow-alt-circle-up:</code> <i class="fa fa-arrow-circle-down"></i> <i class="fa fa-arrow-circle-left"></i> <i class="fa fa-arrow-circle-right"></i> <i class="fa fa-arrow-circle-up"></i> <i class="fa fa-arrow-down"></i> <i class="fa fa-arrow-left"></i> <i class="fa fa-arrow-right"></i> <i class="fa fa-arrow-up"></i> <i class="fa fa-arrows-alt"></i> <code>:fa-arrows-alt-h:</code> <code>:fa-arrows-alt-v:</code> <i class="fa fa-assistive-listening-systems"></i> <i class="fa fa-asterisk"></i> <code>:fa-asymmetrik:</code> <i class="fa fa-at"></i> <code>:fa-atlas:</code> <code>:fa-atom:</code> <code>:fa-audible:</code> <i class="fa fa-audio-description"></i> <code>:fa-autoprefixer:</code> <code>:fa-avianex:</code> <code>:fa-aviato:</code> <code>:fa-award:</code> <code>:fa-aws:</code> <code>:fa-backspace:</code> <i class="fa fa-backward"></i> <i class="fa fa-balance-scale"></i> <i class="fa fa-ban"></i> <code>:fa-band-aid:</code> <code>:fa-bandcamp:</code> <i class="fa fa-barcode"></i> <i class="fa fa-bars"></i> <code>:fa-baseball-ball:</code> <code>:fa-basketball-ball:</code> <code>:fa-bath:</code> <i class="fa fa-battery-empty"></i> <i class="fa fa-battery-full"></i> <i class="fa fa-battery-half"></i> <i class="fa fa-battery-quarter"></i> <i class="fa fa-battery-three-quarters"></i> <i class="fa fa-bed"></i> <i class="fa fa-beer"></i> <i class="fa fa-behance"></i> <i class="fa fa-behance-square"></i> <i class="fa fa-bell"></i> <i class="fa fa-bell-slash"></i> <code>:fa-bezier-curve:</code> <i class="fa fa-bicycle"></i> <code>:fa-bimobject:</code> <i class="fa fa-binoculars"></i> <i class="fa fa-birthday-cake"></i> <i class="fa fa-bitbucket"></i> <i class="fa fa-bitcoin"></i> <code>:fa-bity:</code> <i class="fa fa-black-tie"></i> <code>:fa-blackberry:</code> <code>:fa-blender:</code> <i class="fa fa-blind"></i> <code>:fa-blogger:</code> <code>:fa-blogger-b:</code> <i class="fa fa-bluetooth"></i> <i class="fa fa-bluetooth-b"></i> <i class="fa fa-bold"></i> <i class="fa fa-bolt"></i> <i class="fa fa-bomb"></i> <code>:fa-bone:</code> <code>:fa-bong:</code> <i class="fa fa-book"></i> <code>:fa-book-open:</code> <code>:fa-book-reader:</code> <i class="fa fa-bookmark"></i> <code>:fa-bowling-ball:</code> <code>:fa-box:</code> <code>:fa-box-open:</code> <code>:fa-boxes:</code> <i class="fa fa-braille"></i> <code>:fa-brain:</code> <i class="fa fa-briefcase"></i> <code>:fa-briefcase-medical:</code> <code>:fa-broadcast-tower:</code> <code>:fa-broom:</code> <code>:fa-brush:</code> <i class="fa fa-btc"></i> <i class="fa fa-bug"></i> <i class="fa fa-building"></i> <i class="fa fa-bullhorn"></i> <i class="fa fa-bullseye"></i> <code>:fa-burn:</code></p>
-<div class="codehilite"><pre><span></span><span class="sb">`</span>:fa-buromobelexperte:<span class="sb">`</span>
-
-:fa-bus:
-
-:fa-bus-alt:
-
-:fa-buysellads:
-
-:fa-calculator:
-
-:fa-calendar:
-
-:fa-calendar-alt:
-
-:fa-calendar-check:
-
-:fa-calendar-minus:
-
-:fa-calendar-plus:
-
-:fa-calendar-times:
-
-:fa-camera:
-
-:fa-camera-retro:
-
-:fa-cannabis:
-
-:fa-capsules:
-
-:fa-car:
-
-:fa-car-alt:
-
-:fa-car-battery:
-
-:fa-car-crash:
-
-:fa-car-side:
-
-:fa-caret-down:
-
-:fa-caret-left:
-
-:fa-caret-right:
-
-:fa-caret-square-down:
-
-:fa-caret-square-left:
-
-:fa-caret-square-right:
-
-:fa-caret-square-up:
-
-:fa-caret-up:
-
-:fa-cart-arrow-down:
-
-:fa-cart-plus:
-
-:fa-cc-amazon-pay:
-
-:fa-cc-amex:
-
-:fa-cc-apple-pay:
-
-:fa-cc-diners-club:
-
-:fa-cc-discover:
-
-:fa-cc-jcb:
-
-:fa-cc-mastercard:
-
-:fa-cc-paypal:
-
-:fa-cc-stripe:
-
-:fa-cc-visa:
-
-:fa-centercode:
-
-:fa-certificate:
-
-:fa-chalkboard:
-
-:fa-chalkboard-teacher:
-
-:fa-charging-station:
-
-:fa-chart-area:
-
-:fa-chart-bar:
-
-:fa-chart-line:
-
-:fa-chart-pie:
-
-:fa-check:
-
-:fa-check-circle:
-
-:fa-check-double:
-
-:fa-check-square:
-
-:fa-chess:
-
-:fa-chess-bishop:
-
-:fa-chess-board:
-
-:fa-chess-king:
-
-:fa-chess-knight:
-
-:fa-chess-pawn:
-
-:fa-chess-queen:
-
-:fa-chess-rook:
-
-:fa-chevron-circle-down:
-
-:fa-chevron-circle-left:
-
-:fa-chevron-circle-right:
-
-:fa-chevron-circle-up:
-
-:fa-chevron-down:
-
-:fa-chevron-left:
-
-:fa-chevron-right:
-
-:fa-chevron-up:
-
-:fa-child:
-
-:fa-chrome:
-
-:fa-church:
-
-:fa-circle:
-
-:fa-circle-notch:
-
-:fa-clipboard:
-
-:fa-clipboard-check:
-
-:fa-clipboard-list:
-
-:fa-clock:
-
-:fa-clone:
-:fa-closed-captioning:
-:fa-cloud:
-:fa-cloud-download-alt:
-:fa-cloud-upload-alt:
-:fa-cloudscale:
-:fa-cloudsmith:
-:fa-cloudversify:
-:fa-cocktail:
-:fa-code:
-:fa-code-branch:
-:fa-codepen:
-:fa-codiepie:
-:fa-coffee:
-:fa-cog:
-:fa-cogs:
-:fa-coins:
-:fa-columns:
-:fa-comment:
-:fa-comment-alt:
-:fa-comment-dots:
-:fa-comment-slash:
-:fa-comments:
-:fa-compact-disc:
-:fa-compass:
-:fa-compress:
-:fa-concierge-bell:
-:fa-connectdevelop:
-:fa-contao:
-:fa-cookie:
-:fa-cookie-bite:
-:fa-copy:
-:fa-copyright:
-:fa-couch:
-:fa-cpanel:
-:fa-creative-commons:
-:fa-creative-commons-by:
-:fa-creative-commons-nc:
-:fa-creative-commons-nc-eu:
-:fa-creative-commons-nc-jp:
-:fa-creative-commons-nd:
-:fa-creative-commons-pd:
-:fa-creative-commons-pd-alt:
-:fa-creative-commons-remix:
-:fa-creative-commons-sa:
-:fa-creative-commons-sampling:
-:fa-creative-commons-sampling-plus:
-:fa-creative-commons-share:
-:fa-credit-card:
-:fa-crop:
-:fa-crop-alt:
-:fa-crosshairs:
-:fa-crow:
-:fa-crown:
-:fa-css3:
-:fa-css3-alt:
-:fa-cube:
-:fa-cubes:
-:fa-cut:
-:fa-cuttlefish:
-:fa-d-and-d:
-:fa-dashcube:
-:fa-database:
-:fa-deaf:
-:fa-delicious:
-:fa-deploydog:
-:fa-deskpro:
-:fa-desktop:
-:fa-deviantart:
-:fa-diagnoses:
-:fa-dice:
-:fa-dice-five:
-:fa-dice-four:
-:fa-dice-one:
-:fa-dice-six:
-:fa-dice-three:
-:fa-dice-two:
-:fa-digg:
-:fa-digital-ocean:
-:fa-digital-tachograph:
-:fa-directions:
-:fa-discord:
-:fa-discourse:
-:fa-divide:
-:fa-dizzy:
-:fa-dna:
-:fa-dochub:
-:fa-docker:
-:fa-dollar-sign:
-:fa-dolly:
-:fa-dolly-flatbed:
-:fa-donate:
-:fa-door-closed:
-:fa-door-open:
-:fa-dot-circle:
-:fa-dove:
-:fa-download:
-:fa-draft2digital:
-:fa-drafting-compass:
-:fa-draw-polygon:
-:fa-dribbble:
-:fa-dribbble-square:
-:fa-dropbox:
-:fa-drum:
-:fa-drum-steelpan:
-:fa-drupal:
-:fa-dumbbell:
-:fa-dyalog:
-:fa-earlybirds:
-:fa-ebay:
-:fa-edge:
-:fa-edit:
-:fa-eject:
-:fa-elementor:
-:fa-ellipsis-h:
-:fa-ellipsis-v:
-:fa-ello:
-:fa-ember:
-:fa-empire:
-:fa-envelope:
-:fa-envelope-open:
-:fa-envelope-square:
-:fa-envira:
-:fa-equals:
-:fa-eraser:
-:fa-erlang:
-:fa-ethereum:
-:fa-etsy:
-:fa-euro-sign:
-:fa-exchange-alt:
-:fa-exclamation:
-:fa-exclamation-circle:
-:fa-exclamation-triangle:
-:fa-expand:
-:fa-expand-arrows-alt:
-:fa-expeditedssl:
-:fa-external-link-alt:
-:fa-external-link-square-alt:
-:fa-eye:
-:fa-eye-dropper:
-:fa-eye-slash:
-:fa-facebook:
-:fa-facebook-f:
-:fa-facebook-messenger:
-:fa-facebook-square:
-:fa-fast-backward:
-:fa-fast-forward:
-:fa-fax:
-:fa-feather:
-:fa-feather-alt:
-:fa-female:
-:fa-fighter-jet:
-:fa-file:
-:fa-file-alt:
-:fa-file-archive:
-:fa-file-audio:
-:fa-file-code:
-:fa-file-contract:
-:fa-file-download:
-:fa-file-excel:
-:fa-file-export:
-:fa-file-image:
-:fa-file-import:
-:fa-file-invoice:
-:fa-file-invoice-dollar:
-:fa-file-medical:
-:fa-file-medical-alt:
-:fa-file-pdf:
-:fa-file-powerpoint:
-:fa-file-prescription:
-:fa-file-signature:
-:fa-file-upload:
-:fa-file-video:
-:fa-file-word:
-:fa-fill:
-:fa-fill-drip:
-:fa-film:
-:fa-filter:
-:fa-fingerprint:
-:fa-fire:
-:fa-fire-extinguisher:
-:fa-firefox:
-:fa-first-aid:
-:fa-first-order:
-:fa-first-order-alt:
-:fa-firstdraft:
-:fa-fish:
-:fa-flag:
-:fa-flag-checkered:
-:fa-flask:
-:fa-flickr:
-:fa-flipboard:
-:fa-flushed:
-:fa-fly:
-:fa-folder:
-:fa-folder-open:
-:fa-font:
-:fa-font-awesome:
-:fa-font-awesome-alt:
-:fa-font-awesome-flag:
-:fa-font-awesome-logo-full:
-:fa-fonticons:
-:fa-fonticons-fi:
-:fa-football-ball:
-:fa-fort-awesome:
-:fa-fort-awesome-alt:
-:fa-forumbee:
-:fa-forward:
-:fa-foursquare:
-:fa-free-code-camp:
-:fa-freebsd:
-:fa-frog:
-:fa-frown:
-:fa-frown-open:
-:fa-fulcrum:
-:fa-futbol:
-:fa-galactic-republic:
-:fa-galactic-senate:
-:fa-gamepad:
-:fa-gas-pump:
-:fa-gavel:
-:fa-gem:
-:fa-genderless:
-:fa-get-pocket:
-:fa-gg:
-:fa-gg-circle:
-:fa-gift:
-:fa-git:
-:fa-git-square:
-:fa-github:
-:fa-github-alt:
-:fa-github-square:
-:fa-gitkraken:
-:fa-gitlab:
-:fa-gitter:
-:fa-glass-martini:
-:fa-glass-martini-alt:
-:fa-glasses:
-:fa-glide:
-:fa-glide-g:
-:fa-globe:
-:fa-globe-africa:
-:fa-globe-americas:
-:fa-globe-asia:
-:fa-gofore:
-:fa-golf-ball:
-:fa-goodreads:
-:fa-goodreads-g:
-:fa-google:
-:fa-google-drive:
-:fa-google-play:
-:fa-google-plus:
-:fa-google-plus-g:
-:fa-google-plus-square:
-:fa-google-wallet:
-:fa-graduation-cap:
-:fa-gratipay:
-:fa-grav:
-:fa-greater-than:
-:fa-greater-than-equal:
-:fa-grimace:
-:fa-grin:
-:fa-grin-alt:
-:fa-grin-beam:
-:fa-grin-beam-sweat:
-:fa-grin-hearts:
-:fa-grin-squint:
-:fa-grin-squint-tears:
-:fa-grin-stars:
-:fa-grin-tears:
-:fa-grin-tongue:
-:fa-grin-tongue-squint:
-:fa-grin-tongue-wink:
-:fa-grin-wink:
-:fa-grip-horizontal:
-:fa-grip-vertical:
-:fa-gripfire:
-:fa-grunt:
-:fa-gulp:
-:fa-h-square:
-:fa-hacker-news:
-:fa-hacker-news-square:
-:fa-hackerrank:
-:fa-hand-holding:
-:fa-hand-holding-heart:
-:fa-hand-holding-usd:
-:fa-hand-lizard:
-:fa-hand-paper:
-:fa-hand-peace:
-:fa-hand-point-down:
-:fa-hand-point-left:
-:fa-hand-point-right:
-:fa-hand-point-up:
-:fa-hand-pointer:
-:fa-hand-rock:
-:fa-hand-scissors:
-:fa-hand-spock:
-:fa-hands:
-:fa-hands-helping:
-:fa-handshake:
-:fa-hashtag:
-:fa-hdd:
-:fa-heading:
-:fa-headphones:
-:fa-headphones-alt:
-:fa-headset:
-:fa-heart:
-:fa-heartbeat:
-:fa-helicopter:
-:fa-highlighter:
-:fa-hips:
-:fa-hire-a-helper:
-:fa-history:
-:fa-hockey-puck:
-:fa-home:
-:fa-hooli:
-:fa-hornbill:
-:fa-hospital:
-:fa-hospital-alt:
-:fa-hospital-symbol:
-:fa-hot-tub:
-:fa-hotel:
-:fa-hotjar:
-:fa-hourglass:
-:fa-hourglass-end:
-:fa-hourglass-half:
-:fa-hourglass-start:
-:fa-houzz:
-:fa-html5:
-:fa-hubspot:
-:fa-i-cursor:
-:fa-id-badge:
-:fa-id-card:
-:fa-id-card-alt:
-:fa-image:
-:fa-images:
-:fa-imdb:
-:fa-inbox:
-:fa-indent:
-:fa-industry:
-:fa-infinity:
-:fa-info:
-:fa-info-circle:
-:fa-instagram:
-:fa-internet-explorer:
-:fa-ioxhost:
-:fa-italic:
-:fa-itunes:
-:fa-itunes-note:
-:fa-java:
-:fa-jedi-order:
-:fa-jenkins:
-:fa-joget:
-:fa-joint:
-:fa-joomla:
-:fa-js:
-:fa-js-square:
-:fa-jsfiddle:
-:fa-kaggle:
-:fa-key:
-:fa-keybase:
-:fa-keyboard:
-:fa-keycdn:
-:fa-kickstarter:
-:fa-kickstarter-k:
-:fa-kiss:
-:fa-kiss-beam:
-:fa-kiss-wink-heart:
-:fa-kiwi-bird:
-:fa-korvue:
-:fa-language:
-:fa-laptop:
-:fa-laptop-code:
-:fa-laravel:
-:fa-lastfm:
-:fa-lastfm-square:
-:fa-laugh:
-:fa-laugh-beam:
-:fa-laugh-squint:
-:fa-laugh-wink:
-:fa-layer-group:
-:fa-leaf:
-:fa-leanpub:
-:fa-lemon:
-:fa-less:
-:fa-less-than:
-:fa-less-than-equal:
-:fa-level-down-alt:
-:fa-level-up-alt:
-:fa-life-ring:
-:fa-lightbulb:
-:fa-line:
-:fa-link:
-:fa-linkedin:
-:fa-linkedin-in:
-:fa-linode:
-:fa-linux:
-:fa-lira-sign:
-:fa-list:
-:fa-list-alt:
-:fa-list-ol:
-:fa-list-ul:
-:fa-location-arrow:
-:fa-lock:
-:fa-lock-open:
-:fa-long-arrow-alt-down:
-:fa-long-arrow-alt-left:
-:fa-long-arrow-alt-right:
-:fa-long-arrow-alt-up:
-:fa-low-vision:
-:fa-luggage-cart:
-:fa-lyft:
-:fa-magento:
-:fa-magic:
-:fa-magnet:
-:fa-mailchimp:
-:fa-male:
-:fa-mandalorian:
-:fa-map:
-:fa-map-marked:
-:fa-map-marked-alt:
-:fa-map-marker:
-:fa-map-marker-alt:
-:fa-map-pin:
-:fa-map-signs:
-:fa-markdown:
-:fa-marker:
-:fa-mars:
-:fa-mars-double:
-:fa-mars-stroke:
-:fa-mars-stroke-h:
-:fa-mars-stroke-v:
-:fa-mastodon:
-:fa-maxcdn:
-:fa-medal:
-:fa-medapps:
-:fa-medium:
-:fa-medium-m:
-:fa-medkit:
-:fa-medrt:
-:fa-meetup:
-:fa-megaport:
-:fa-meh:
-:fa-meh-blank:
-:fa-meh-rolling-eyes:
-:fa-memory:
-:fa-mercury:
-:fa-microchip:
-:fa-microphone:
-:fa-microphone-alt:
-:fa-microphone-alt-slash:
-:fa-microphone-slash:
-:fa-microscope:
-:fa-microsoft:
-:fa-minus:
-:fa-minus-circle:
-:fa-minus-square:
-:fa-mix:
-:fa-mixcloud:
-:fa-mizuni:
-:fa-mobile:
-:fa-mobile-alt:
-:fa-modx:
-:fa-monero:
-:fa-money-bill:
-:fa-money-bill-alt:
-:fa-money-bill-wave:
-:fa-money-bill-wave-alt:
-:fa-money-check:
-:fa-money-check-alt:
-:fa-monument:
-:fa-moon:
-:fa-mortar-pestle:
-:fa-motorcycle:
-:fa-mouse-pointer:
-:fa-music:
-:fa-napster:
-:fa-neos:
-:fa-neuter:
-:fa-newspaper:
-:fa-nimblr:
-:fa-nintendo-switch:
-:fa-node:
-:fa-node-js:
-:fa-not-equal:
-:fa-notes-medical:
-:fa-npm:
-:fa-ns8:
-:fa-nutritionix:
-:fa-object-group:
-:fa-object-ungroup:
-:fa-odnoklassniki:
-:fa-odnoklassniki-square:
-:fa-oil-can:
-:fa-old-republic:
-:fa-opencart:
-:fa-openid:
-:fa-opera:
-:fa-optin-monster:
-:fa-osi:
-:fa-outdent:
-:fa-page4:
-:fa-pagelines:
-:fa-paint-brush:
-:fa-paint-roller:
-:fa-palette:
-:fa-palfed:
-:fa-pallet:
-:fa-paper-plane:
-:fa-paperclip:
-:fa-parachute-box:
-:fa-paragraph:
-:fa-parking:
-:fa-passport:
-:fa-paste:
-:fa-patreon:
-:fa-pause:
-:fa-pause-circle:
-:fa-paw:
-:fa-paypal:
-:fa-pen:
-:fa-pen-alt:
-:fa-pen-fancy:
-:fa-pen-nib:
-:fa-pen-square:
-:fa-pencil-alt:
-:fa-pencil-ruler:
-:fa-people-carry:
-:fa-percent:
-:fa-percentage:
-:fa-periscope:
-:fa-phabricator:
-:fa-phoenix-framework:
-:fa-phoenix-squadron:
-:fa-phone:
-:fa-phone-slash:
-:fa-phone-square:
-:fa-phone-volume:
-:fa-php:
-:fa-pied-piper:
-:fa-pied-piper-alt:
-:fa-pied-piper-hat:
-:fa-pied-piper-pp:
-:fa-piggy-bank:
-:fa-pills:
-:fa-pinterest:
-:fa-pinterest-p:
-:fa-pinterest-square:
-:fa-plane:
-:fa-plane-arrival:
-:fa-plane-departure:
-:fa-play:
-:fa-play-circle:
-:fa-playstation:
-:fa-plug:
-:fa-plus:
-:fa-plus-circle:
-:fa-plus-square:
-:fa-podcast:
-:fa-poo:
-:fa-poop:
-:fa-portrait:
-:fa-pound-sign:
-:fa-power-off:
-:fa-prescription:
-:fa-prescription-bottle:
-:fa-prescription-bottle-alt:
-:fa-print:
-:fa-procedures:
-:fa-product-hunt:
-:fa-project-diagram:
-:fa-pushed:
-:fa-puzzle-piece:
-:fa-python:
-:fa-qq:
-:fa-qrcode:
-:fa-question:
-:fa-question-circle:
-:fa-quidditch:
-:fa-quinscape:
-:fa-quora:
-:fa-quote-left:
-:fa-quote-right:
-:fa-r-project:
-:fa-random:
-:fa-ravelry:
-:fa-react:
-:fa-readme:
-:fa-rebel:
-:fa-receipt:
-:fa-recycle:
-:fa-red-river:
-:fa-reddit:
-:fa-reddit-alien:
-:fa-reddit-square:
-:fa-redo:
-:fa-redo-alt:
-:fa-registered:
-:fa-rendact:
-:fa-renren:
-:fa-reply:
-:fa-reply-all:
-:fa-replyd:
-:fa-researchgate:
-:fa-resolving:
-:fa-retweet:
-:fa-rev:
-:fa-ribbon:
-:fa-road:
-:fa-robot:
-:fa-rocket:
-:fa-rocketchat:
-:fa-rockrms:
-:fa-route:
-:fa-rss:
-:fa-rss-square:
-:fa-ruble-sign:
-:fa-ruler:
-:fa-ruler-combined:
-:fa-ruler-horizontal:
-:fa-ruler-vertical:
-:fa-rupee-sign:
-:fa-sad-cry:
-:fa-sad-tear:
-:fa-safari:
-:fa-sass:
-:fa-save:
-:fa-schlix:
-:fa-school:
-:fa-screwdriver:
-:fa-scribd:
-:fa-search:
-:fa-search-minus:
-:fa-search-plus:
-:fa-searchengin:
-:fa-seedling:
-:fa-sellcast:
-:fa-sellsy:
-:fa-server:
-:fa-servicestack:
-:fa-shapes:
-:fa-share:
-:fa-share-alt:
-:fa-share-alt-square:
-:fa-share-square:
-:fa-shekel-sign:
-:fa-shield-alt:
-:fa-ship:
-:fa-shipping-fast:
-:fa-shirtsinbulk:
-:fa-shoe-prints:
-:fa-shopping-bag:
-:fa-shopping-basket:
-:fa-shopping-cart:
-:fa-shopware:
-:fa-shower:
-:fa-shuttle-van:
-:fa-sign:
-:fa-sign-in-alt:
-:fa-sign-language:
-:fa-sign-out-alt:
-:fa-signal:
-:fa-signature:
-:fa-simplybuilt:
-:fa-sistrix:
-:fa-sitemap:
-:fa-sith:
-:fa-skull:
-:fa-skyatlas:
-:fa-skype:
-:fa-slack:
-:fa-slack-hash:
-:fa-sliders-h:
-:fa-slideshare:
-:fa-smile:
-:fa-smile-beam:
-:fa-smile-wink:
-:fa-smoking:
-:fa-smoking-ban:
-:fa-snapchat:
-:fa-snapchat-ghost:
-:fa-snapchat-square:
-:fa-snowflake:
-:fa-solar-panel:
-:fa-sort:
-:fa-sort-alpha-down:
-:fa-sort-alpha-up:
-:fa-sort-amount-down:
-:fa-sort-amount-up:
-:fa-sort-down:
-:fa-sort-numeric-down:
-:fa-sort-numeric-up:
-:fa-sort-up:
-:fa-soundcloud:
-:fa-spa:
-:fa-space-shuttle:
-:fa-speakap:
-:fa-spinner:
-:fa-splotch:
-:fa-spotify:
-:fa-spray-can:
-:fa-square:
-:fa-square-full:
-:fa-squarespace:
-:fa-stack-exchange:
-:fa-stack-overflow:
-:fa-stamp:
-:fa-star:
-:fa-star-half:
-:fa-star-half-alt:
-:fa-star-of-life:
-:fa-staylinked:
-:fa-steam:
-:fa-steam-square:
-:fa-steam-symbol:
-:fa-step-backward:
-:fa-step-forward:
-:fa-stethoscope:
-:fa-sticker-mule:
-:fa-sticky-note:
-:fa-stop:
-:fa-stop-circle:
-:fa-stopwatch:
-:fa-store:
-:fa-store-alt:
-:fa-strava:
-:fa-stream:
-:fa-street-view:
-:fa-strikethrough:
-:fa-stripe:
-:fa-stripe-s:
-:fa-stroopwafel:
-:fa-studiovinari:
-:fa-stumbleupon:
-:fa-stumbleupon-circle:
-:fa-subscript:
-:fa-subway:
-:fa-suitcase:
-:fa-suitcase-rolling:
-:fa-sun:
-:fa-superpowers:
-:fa-superscript:
-:fa-supple:
-:fa-surprise:
-:fa-swatchbook:
-:fa-swimmer:
-:fa-swimming-pool:
-:fa-sync:
-:fa-sync-alt:
-:fa-syringe:
-:fa-table:
-:fa-table-tennis:
-:fa-tablet:
-:fa-tablet-alt:
-:fa-tablets:
-:fa-tachometer-alt:
-:fa-tag:
-:fa-tags:
-:fa-tape:
-:fa-tasks:
-:fa-taxi:
-:fa-teamspeak:
-:fa-teeth:
-:fa-teeth-open:
-:fa-telegram:
-:fa-telegram-plane:
-:fa-tencent-weibo:
-:fa-terminal:
-:fa-text-height:
-:fa-text-width:
-:fa-th:
-:fa-th-large:
-:fa-th-list:
-:fa-theater-masks:
-:fa-themeco:
-:fa-themeisle:
-:fa-thermometer:
-:fa-thermometer-empty:
-:fa-thermometer-full:
-:fa-thermometer-half:
-:fa-thermometer-quarter:
-:fa-thermometer-three-quarters:
-:fa-thumbs-down:
-:fa-thumbs-up:
-:fa-thumbtack:
-:fa-ticket-alt:
-:fa-times:
-:fa-times-circle:
-:fa-tint:
-:fa-tint-slash:
-:fa-tired:
-:fa-toggle-off:
-:fa-toggle-on:
-:fa-toolbox:
-:fa-tooth:
-:fa-trade-federation:
-:fa-trademark:
-:fa-traffic-light:
-:fa-train:
-:fa-transgender:
-:fa-transgender-alt:
-:fa-trash:
-:fa-trash-alt:
-:fa-tree:
-:fa-trello:
-:fa-tripadvisor:
-:fa-trophy:
-:fa-truck:
-:fa-truck-loading:
-:fa-truck-monster:
-:fa-truck-moving:
-:fa-truck-pickup:
-:fa-tshirt:
-:fa-tty:
-:fa-tumblr:
-:fa-tumblr-square:
-:fa-tv:
-:fa-twitch:
-:fa-twitter:
-:fa-twitter-square:
-:fa-typo3:
-:fa-uber:
-:fa-uikit:
-:fa-umbrella:
-:fa-umbrella-beach:
-:fa-underline:
-:fa-undo:
-:fa-undo-alt:
-:fa-uniregistry:
-:fa-universal-access:
-:fa-university:
-:fa-unlink:
-:fa-unlock:
-:fa-unlock-alt:
-:fa-untappd:
-:fa-upload:
-:fa-usb:
-:fa-user:
-:fa-user-alt:
-:fa-user-alt-slash:
-:fa-user-astronaut:
-:fa-user-check:
-:fa-user-circle:
-:fa-user-clock:
-:fa-user-cog:
-:fa-user-edit:
-:fa-user-friends:
-:fa-user-graduate:
-:fa-user-lock:
-:fa-user-md:
-:fa-user-minus:
-:fa-user-ninja:
-:fa-user-plus:
-:fa-user-secret:
-:fa-user-shield:
-:fa-user-slash:
-:fa-user-tag:
-:fa-user-tie:
-:fa-user-times:
-:fa-users:
-:fa-users-cog:
-:fa-ussunnah:
-:fa-utensil-spoon:
-:fa-utensils:
-:fa-vaadin:
-:fa-vector-square:
-:fa-venus:
-:fa-venus-double:
-:fa-venus-mars:
-:fa-viacoin:
-:fa-viadeo:
-:fa-viadeo-square:
-:fa-vial:
-:fa-vials:
-:fa-viber:
-:fa-video:
-:fa-video-slash:
-:fa-vimeo:
-:fa-vimeo-square:
-:fa-vimeo-v:
-:fa-vine:
-:fa-vk:
-:fa-vnv:
-:fa-volleyball-ball:
-:fa-volume-down:
-:fa-volume-off:
-:fa-volume-up:
-:fa-vuejs:
-:fa-walking:
-:fa-wallet:
-:fa-warehouse:
-:fa-weebly:
-:fa-weibo:
-:fa-weight:
-:fa-weight-hanging:
-:fa-weixin:
-:fa-whatsapp:
-:fa-whatsapp-square:
-:fa-wheelchair:
-:fa-whmcs:
-:fa-wifi:
-:fa-wikipedia-w:
-:fa-window-close:
-:fa-window-maximize:
-:fa-window-minimize:
-:fa-window-restore:
-:fa-windows:
-:fa-wine-glass:
-:fa-wine-glass-alt:
-:fa-wix:
-:fa-wolf-pack-battalion:
-:fa-won-sign:
-:fa-wordpress:
-:fa-wordpress-simple:
-:fa-wpbeginner:
-:fa-wpexplorer:
-:fa-wpforms:
-:fa-wrench:
-:fa-x-ray:
-:fa-xbox:
-:fa-xing:
-:fa-xing-square:
-:fa-y-combinator:
-:fa-yahoo:
-:fa-yandex:
-:fa-yandex-international:
-:fa-yelp:
-:fa-yen-sign:
-:fa-yoast:
-:fa-youtube:
-:fa-youtube-square:
-:fa-zhihu:
-</pre></div>
+<p><i class="fa fa-glass"></i> - <code>fa-glass</code></p>
+<p><i class="fa fa-music"></i> - <code>fa-music</code></p>
+<p><i class="fa fa-search"></i> - <code>fa-search</code></p>
+<p><i class="fa fa-envelope-o"></i> - <code>fa-envelope-o</code></p>
+<p><i class="fa fa-heart"></i> - <code>fa-heart</code></p>
+<p><i class="fa fa-star"></i> - <code>fa-star</code></p>
+<p><i class="fa fa-star-o"></i> - <code>fa-star-o</code></p>
+<p><i class="fa fa-user"></i> - <code>fa-user</code></p>
+<p><i class="fa fa-film"></i> - <code>fa-film</code></p>
+<p><i class="fa fa-th-large"></i> - <code>fa-th-large</code></p>
+<p><i class="fa fa-th"></i> - <code>fa-th</code></p>
+<p><i class="fa fa-th-list"></i> - <code>fa-th-list</code></p>
+<p><i class="fa fa-check"></i> - <code>fa-check</code></p>
+<p><i class="fa fa-remove"></i> - <code>fa-remove</code></p>
+<p><i class="fa fa-close"></i> - <code>fa-close</code></p>
+<p><i class="fa fa-times"></i> - <code>fa-times</code></p>
+<p><i class="fa fa-search-plus"></i> - <code>fa-search-plus</code></p>
+<p><i class="fa fa-search-minus"></i> - <code>fa-search-minus</code></p>
+<p><i class="fa fa-power-off"></i> - <code>fa-power-off</code></p>
+<p><i class="fa fa-signal"></i> - <code>fa-signal</code></p>
+<p><i class="fa fa-gear"></i> - <code>fa-gear</code></p>
+<p><i class="fa fa-cog"></i> - <code>fa-cog</code></p>
+<p><i class="fa fa-trash-o"></i> - <code>fa-trash-o</code></p>
+<p><i class="fa fa-home"></i> - <code>fa-home</code></p>
+<p><i class="fa fa-file-o"></i> - <code>fa-file-o</code></p>
+<p><i class="fa fa-clock-o"></i> - <code>fa-clock-o</code></p>
+<p><i class="fa fa-road"></i> - <code>fa-road</code></p>
+<p><i class="fa fa-download"></i> - <code>fa-download</code></p>
+<p><i class="fa fa-arrow-circle-o-down"></i> - <code>fa-arrow-circle-o-down</code></p>
+<p><i class="fa fa-arrow-circle-o-up"></i> - <code>fa-arrow-circle-o-up</code></p>
+<p><i class="fa fa-inbox"></i> - <code>fa-inbox</code></p>
+<p><i class="fa fa-play-circle-o"></i> - <code>fa-play-circle-o</code></p>
+<p><i class="fa fa-rotate-right"></i> - <code>fa-rotate-right</code></p>
+<p><i class="fa fa-repeat"></i> - <code>fa-repeat</code></p>
+<p><i class="fa fa-refresh"></i> - <code>fa-refresh</code></p>
+<p><i class="fa fa-list-alt"></i> - <code>fa-list-alt</code></p>
+<p><i class="fa fa-lock"></i> - <code>fa-lock</code></p>
+<p><i class="fa fa-flag"></i> - <code>fa-flag</code></p>
+<p><i class="fa fa-headphones"></i> - <code>fa-headphones</code></p>
+<p><i class="fa fa-volume-off"></i> - <code>fa-volume-off</code></p>
+<p><i class="fa fa-volume-down"></i> - <code>fa-volume-down</code></p>
+<p><i class="fa fa-volume-up"></i> - <code>fa-volume-up</code></p>
+<p><i class="fa fa-qrcode"></i> - <code>fa-qrcode</code></p>
+<p><i class="fa fa-barcode"></i> - <code>fa-barcode</code></p>
+<p><i class="fa fa-tag"></i> - <code>fa-tag</code></p>
+<p><i class="fa fa-tags"></i> - <code>fa-tags</code></p>
+<p><i class="fa fa-book"></i> - <code>fa-book</code></p>
+<p><i class="fa fa-bookmark"></i> - <code>fa-bookmark</code></p>
+<p><i class="fa fa-print"></i> - <code>fa-print</code></p>
+<p><i class="fa fa-camera"></i> - <code>fa-camera</code></p>
+<p><i class="fa fa-font"></i> - <code>fa-font</code></p>
+<p><i class="fa fa-bold"></i> - <code>fa-bold</code></p>
+<p><i class="fa fa-italic"></i> - <code>fa-italic</code></p>
+<p><i class="fa fa-text-height"></i> - <code>fa-text-height</code></p>
+<p><i class="fa fa-text-width"></i> - <code>fa-text-width</code></p>
+<p><i class="fa fa-align-left"></i> - <code>fa-align-left</code></p>
+<p><i class="fa fa-align-center"></i> - <code>fa-align-center</code></p>
+<p><i class="fa fa-align-right"></i> - <code>fa-align-right</code></p>
+<p><i class="fa fa-align-justify"></i> - <code>fa-align-justify</code></p>
+<p><i class="fa fa-list"></i> - <code>fa-list</code></p>
+<p><i class="fa fa-dedent"></i> - <code>fa-dedent</code></p>
+<p><i class="fa fa-outdent"></i> - <code>fa-outdent</code></p>
+<p><i class="fa fa-indent"></i> - <code>fa-indent</code></p>
+<p><i class="fa fa-video-camera"></i> - <code>fa-video-camera</code></p>
+<p><i class="fa fa-photo"></i> - <code>fa-photo</code></p>
+<p><i class="fa fa-image"></i> - <code>fa-image</code></p>
+<p><i class="fa fa-picture-o"></i> - <code>fa-picture-o</code></p>
+<p><i class="fa fa-pencil"></i> - <code>fa-pencil</code></p>
+<p><i class="fa fa-map-marker"></i> - <code>fa-map-marker</code></p>
+<p><i class="fa fa-adjust"></i> - <code>fa-adjust</code></p>
+<p><i class="fa fa-tint"></i> - <code>fa-tint</code></p>
+<p><i class="fa fa-edit"></i> - <code>fa-edit</code></p>
+<p><i class="fa fa-pencil-square-o"></i> - <code>fa-pencil-square-o</code></p>
+<p><i class="fa fa-share-square-o"></i> - <code>fa-share-square-o</code></p>
+<p><i class="fa fa-check-square-o"></i> - <code>fa-check-square-o</code></p>
+<p><i class="fa fa-arrows"></i> - <code>fa-arrows</code></p>
+<p><i class="fa fa-step-backward"></i> - <code>fa-step-backward</code></p>
+<p><i class="fa fa-fast-backward"></i> - <code>fa-fast-backward</code></p>
+<p><i class="fa fa-backward"></i> - <code>fa-backward</code></p>
+<p><i class="fa fa-play"></i> - <code>fa-play</code></p>
+<p><i class="fa fa-pause"></i> - <code>fa-pause</code></p>
+<p><i class="fa fa-stop"></i> - <code>fa-stop</code></p>
+<p><i class="fa fa-forward"></i> - <code>fa-forward</code></p>
+<p><i class="fa fa-fast-forward"></i> - <code>fa-fast-forward</code></p>
+<p><i class="fa fa-step-forward"></i> - <code>fa-step-forward</code></p>
+<p><i class="fa fa-eject"></i> - <code>fa-eject</code></p>
+<p><i class="fa fa-chevron-left"></i> - <code>fa-chevron-left</code></p>
+<p><i class="fa fa-chevron-right"></i> - <code>fa-chevron-right</code></p>
+<p><i class="fa fa-plus-circle"></i> - <code>fa-plus-circle</code></p>
+<p><i class="fa fa-minus-circle"></i> - <code>fa-minus-circle</code></p>
+<p><i class="fa fa-times-circle"></i> - <code>fa-times-circle</code></p>
+<p><i class="fa fa-check-circle"></i> - <code>fa-check-circle</code></p>
+<p><i class="fa fa-question-circle"></i> - <code>fa-question-circle</code></p>
+<p><i class="fa fa-info-circle"></i> - <code>fa-info-circle</code></p>
+<p><i class="fa fa-crosshairs"></i> - <code>fa-crosshairs</code></p>
+<p><i class="fa fa-times-circle-o"></i> - <code>fa-times-circle-o</code></p>
+<p><i class="fa fa-check-circle-o"></i> - <code>fa-check-circle-o</code></p>
+<p><i class="fa fa-ban"></i> - <code>fa-ban</code></p>
+<p><i class="fa fa-arrow-left"></i> - <code>fa-arrow-left</code></p>
+<p><i class="fa fa-arrow-right"></i> - <code>fa-arrow-right</code></p>
+<p><i class="fa fa-arrow-up"></i> - <code>fa-arrow-up</code></p>
+<p><i class="fa fa-arrow-down"></i> - <code>fa-arrow-down</code></p>
+<p><i class="fa fa-mail-forward"></i> - <code>fa-mail-forward</code></p>
+<p><i class="fa fa-share"></i> - <code>fa-share</code></p>
+<p><i class="fa fa-expand"></i> - <code>fa-expand</code></p>
+<p><i class="fa fa-compress"></i> - <code>fa-compress</code></p>
+<p><i class="fa fa-plus"></i> - <code>fa-plus</code></p>
+<p><i class="fa fa-minus"></i> - <code>fa-minus</code></p>
+<p><i class="fa fa-asterisk"></i> - <code>fa-asterisk</code></p>
+<p><i class="fa fa-exclamation-circle"></i> - <code>fa-exclamation-circle</code></p>
+<p><i class="fa fa-gift"></i> - <code>fa-gift</code></p>
+<p><i class="fa fa-leaf"></i> - <code>fa-leaf</code></p>
+<p><i class="fa fa-fire"></i> - <code>fa-fire</code></p>
+<p><i class="fa fa-eye"></i> - <code>fa-eye</code></p>
+<p><i class="fa fa-eye-slash"></i> - <code>fa-eye-slash</code></p>
+<p><i class="fa fa-warning"></i> - <code>fa-warning</code></p>
+<p><i class="fa fa-exclamation-triangle"></i> - <code>fa-exclamation-triangle</code></p>
+<p><i class="fa fa-plane"></i> - <code>fa-plane</code></p>
+<p><i class="fa fa-calendar"></i> - <code>fa-calendar</code></p>
+<p><i class="fa fa-random"></i> - <code>fa-random</code></p>
+<p><i class="fa fa-comment"></i> - <code>fa-comment</code></p>
+<p><i class="fa fa-magnet"></i> - <code>fa-magnet</code></p>
+<p><i class="fa fa-chevron-up"></i> - <code>fa-chevron-up</code></p>
+<p><i class="fa fa-chevron-down"></i> - <code>fa-chevron-down</code></p>
+<p><i class="fa fa-retweet"></i> - <code>fa-retweet</code></p>
+<p><i class="fa fa-shopping-cart"></i> - <code>fa-shopping-cart</code></p>
+<p><i class="fa fa-folder"></i> - <code>fa-folder</code></p>
+<p><i class="fa fa-folder-open"></i> - <code>fa-folder-open</code></p>
+<p><i class="fa fa-arrows-v"></i> - <code>fa-arrows-v</code></p>
+<p><i class="fa fa-arrows-h"></i> - <code>fa-arrows-h</code></p>
+<p><i class="fa fa-bar-chart-o"></i> - <code>fa-bar-chart-o</code></p>
+<p><i class="fa fa-bar-chart"></i> - <code>fa-bar-chart</code></p>
+<p><i class="fa fa-twitter-square"></i> - <code>fa-twitter-square</code></p>
+<p><i class="fa fa-facebook-square"></i> - <code>fa-facebook-square</code></p>
+<p><i class="fa fa-camera-retro"></i> - <code>fa-camera-retro</code></p>
+<p><i class="fa fa-key"></i> - <code>fa-key</code></p>
+<p><i class="fa fa-gears"></i> - <code>fa-gears</code></p>
+<p><i class="fa fa-cogs"></i> - <code>fa-cogs</code></p>
+<p><i class="fa fa-comments"></i> - <code>fa-comments</code></p>
+<p><i class="fa fa-thumbs-o-up"></i> - <code>fa-thumbs-o-up</code></p>
+<p><i class="fa fa-thumbs-o-down"></i> - <code>fa-thumbs-o-down</code></p>
+<p><i class="fa fa-star-half"></i> - <code>fa-star-half</code></p>
+<p><i class="fa fa-heart-o"></i> - <code>fa-heart-o</code></p>
+<p><i class="fa fa-sign-out"></i> - <code>fa-sign-out</code></p>
+<p><i class="fa fa-linkedin-square"></i> - <code>fa-linkedin-square</code></p>
+<p><i class="fa fa-thumb-tack"></i> - <code>fa-thumb-tack</code></p>
+<p><i class="fa fa-external-link"></i> - <code>fa-external-link</code></p>
+<p><i class="fa fa-sign-in"></i> - <code>fa-sign-in</code></p>
+<p><i class="fa fa-trophy"></i> - <code>fa-trophy</code></p>
+<p><i class="fa fa-github-square"></i> - <code>fa-github-square</code></p>
+<p><i class="fa fa-upload"></i> - <code>fa-upload</code></p>
+<p><i class="fa fa-lemon-o"></i> - <code>fa-lemon-o</code></p>
+<p><i class="fa fa-phone"></i> - <code>fa-phone</code></p>
+<p><i class="fa fa-square-o"></i> - <code>fa-square-o</code></p>
+<p><i class="fa fa-bookmark-o"></i> - <code>fa-bookmark-o</code></p>
+<p><i class="fa fa-phone-square"></i> - <code>fa-phone-square</code></p>
+<p><i class="fa fa-twitter"></i> - <code>fa-twitter</code></p>
+<p><i class="fa fa-facebook-f"></i> - <code>fa-facebook-f</code></p>
+<p><i class="fa fa-facebook"></i> - <code>fa-facebook</code></p>
+<p><i class="fa fa-github"></i> - <code>fa-github</code></p>
+<p><i class="fa fa-unlock"></i> - <code>fa-unlock</code></p>
+<p><i class="fa fa-credit-card"></i> - <code>fa-credit-card</code></p>
+<p><i class="fa fa-feed"></i> - <code>fa-feed</code></p>
+<p><i class="fa fa-rss"></i> - <code>fa-rss</code></p>
+<p><i class="fa fa-hdd-o"></i> - <code>fa-hdd-o</code></p>
+<p><i class="fa fa-bullhorn"></i> - <code>fa-bullhorn</code></p>
+<p><i class="fa fa-bell"></i> - <code>fa-bell</code></p>
+<p><i class="fa fa-certificate"></i> - <code>fa-certificate</code></p>
+<p><i class="fa fa-hand-o-right"></i> - <code>fa-hand-o-right</code></p>
+<p><i class="fa fa-hand-o-left"></i> - <code>fa-hand-o-left</code></p>
+<p><i class="fa fa-hand-o-up"></i> - <code>fa-hand-o-up</code></p>
+<p><i class="fa fa-hand-o-down"></i> - <code>fa-hand-o-down</code></p>
+<p><i class="fa fa-arrow-circle-left"></i> - <code>fa-arrow-circle-left</code></p>
+<p><i class="fa fa-arrow-circle-right"></i> - <code>fa-arrow-circle-right</code></p>
+<p><i class="fa fa-arrow-circle-up"></i> - <code>fa-arrow-circle-up</code></p>
+<p><i class="fa fa-arrow-circle-down"></i> - <code>fa-arrow-circle-down</code></p>
+<p><i class="fa fa-globe"></i> - <code>fa-globe</code></p>
+<p><i class="fa fa-wrench"></i> - <code>fa-wrench</code></p>
+<p><i class="fa fa-tasks"></i> - <code>fa-tasks</code></p>
+<p><i class="fa fa-filter"></i> - <code>fa-filter</code></p>
+<p><i class="fa fa-briefcase"></i> - <code>fa-briefcase</code></p>
+<p><i class="fa fa-arrows-alt"></i> - <code>fa-arrows-alt</code></p>
+<p><i class="fa fa-group"></i> - <code>fa-group</code></p>
+<p><i class="fa fa-users"></i> - <code>fa-users</code></p>
+<p><i class="fa fa-chain"></i> - <code>fa-chain</code></p>
+<p><i class="fa fa-link"></i> - <code>fa-link</code></p>
+<p><i class="fa fa-cloud"></i> - <code>fa-cloud</code></p>
+<p><i class="fa fa-flask"></i> - <code>fa-flask</code></p>
+<p><i class="fa fa-cut"></i> - <code>fa-cut</code></p>
+<p><i class="fa fa-scissors"></i> - <code>fa-scissors</code></p>
+<p><i class="fa fa-copy"></i> - <code>fa-copy</code></p>
+<p><i class="fa fa-files-o"></i> - <code>fa-files-o</code></p>
+<p><i class="fa fa-paperclip"></i> - <code>fa-paperclip</code></p>
+<p><i class="fa fa-save"></i> - <code>fa-save</code></p>
+<p><i class="fa fa-floppy-o"></i> - <code>fa-floppy-o</code></p>
+<p><i class="fa fa-square"></i> - <code>fa-square</code></p>
+<p><i class="fa fa-navicon"></i> - <code>fa-navicon</code></p>
+<p><i class="fa fa-reorder"></i> - <code>fa-reorder</code></p>
+<p><i class="fa fa-bars"></i> - <code>fa-bars</code></p>
+<p><i class="fa fa-list-ul"></i> - <code>fa-list-ul</code></p>
+<p><i class="fa fa-list-ol"></i> - <code>fa-list-ol</code></p>
+<p><i class="fa fa-strikethrough"></i> - <code>fa-strikethrough</code></p>
+<p><i class="fa fa-underline"></i> - <code>fa-underline</code></p>
+<p><i class="fa fa-table"></i> - <code>fa-table</code></p>
+<p><i class="fa fa-magic"></i> - <code>fa-magic</code></p>
+<p><i class="fa fa-truck"></i> - <code>fa-truck</code></p>
+<p><i class="fa fa-pinterest"></i> - <code>fa-pinterest</code></p>
+<p><i class="fa fa-pinterest-square"></i> - <code>fa-pinterest-square</code></p>
+<p><i class="fa fa-google-plus-square"></i> - <code>fa-google-plus-square</code></p>
+<p><i class="fa fa-google-plus"></i> - <code>fa-google-plus</code></p>
+<p><i class="fa fa-money"></i> - <code>fa-money</code></p>
+<p><i class="fa fa-caret-down"></i> - <code>fa-caret-down</code></p>
+<p><i class="fa fa-caret-up"></i> - <code>fa-caret-up</code></p>
+<p><i class="fa fa-caret-left"></i> - <code>fa-caret-left</code></p>
+<p><i class="fa fa-caret-right"></i> - <code>fa-caret-right</code></p>
+<p><i class="fa fa-columns"></i> - <code>fa-columns</code></p>
+<p><i class="fa fa-unsorted"></i> - <code>fa-unsorted</code></p>
+<p><i class="fa fa-sort"></i> - <code>fa-sort</code></p>
+<p><i class="fa fa-sort-down"></i> - <code>fa-sort-down</code></p>
+<p><i class="fa fa-sort-desc"></i> - <code>fa-sort-desc</code></p>
+<p><i class="fa fa-sort-up"></i> - <code>fa-sort-up</code></p>
+<p><i class="fa fa-sort-asc"></i> - <code>fa-sort-asc</code></p>
+<p><i class="fa fa-envelope"></i> - <code>fa-envelope</code></p>
+<p><i class="fa fa-linkedin"></i> - <code>fa-linkedin</code></p>
+<p><i class="fa fa-rotate-left"></i> - <code>fa-rotate-left</code></p>
+<p><i class="fa fa-undo"></i> - <code>fa-undo</code></p>
+<p><i class="fa fa-legal"></i> - <code>fa-legal</code></p>
+<p><i class="fa fa-gavel"></i> - <code>fa-gavel</code></p>
+<p><i class="fa fa-dashboard"></i> - <code>fa-dashboard</code></p>
+<p><i class="fa fa-tachometer"></i> - <code>fa-tachometer</code></p>
+<p><i class="fa fa-comment-o"></i> - <code>fa-comment-o</code></p>
+<p><i class="fa fa-comments-o"></i> - <code>fa-comments-o</code></p>
+<p><i class="fa fa-flash"></i> - <code>fa-flash</code></p>
+<p><i class="fa fa-bolt"></i> - <code>fa-bolt</code></p>
+<p><i class="fa fa-sitemap"></i> - <code>fa-sitemap</code></p>
+<p><i class="fa fa-umbrella"></i> - <code>fa-umbrella</code></p>
+<p><i class="fa fa-paste"></i> - <code>fa-paste</code></p>
+<p><i class="fa fa-clipboard"></i> - <code>fa-clipboard</code></p>
+<p><i class="fa fa-lightbulb-o"></i> - <code>fa-lightbulb-o</code></p>
+<p><i class="fa fa-exchange"></i> - <code>fa-exchange</code></p>
+<p><i class="fa fa-cloud-download"></i> - <code>fa-cloud-download</code></p>
+<p><i class="fa fa-cloud-upload"></i> - <code>fa-cloud-upload</code></p>
+<p><i class="fa fa-user-md"></i> - <code>fa-user-md</code></p>
+<p><i class="fa fa-stethoscope"></i> - <code>fa-stethoscope</code></p>
+<p><i class="fa fa-suitcase"></i> - <code>fa-suitcase</code></p>
+<p><i class="fa fa-bell-o"></i> - <code>fa-bell-o</code></p>
+<p><i class="fa fa-coffee"></i> - <code>fa-coffee</code></p>
+<p><i class="fa fa-cutlery"></i> - <code>fa-cutlery</code></p>
+<p><i class="fa fa-file-text-o"></i> - <code>fa-file-text-o</code></p>
+<p><i class="fa fa-building-o"></i> - <code>fa-building-o</code></p>
+<p><i class="fa fa-hospital-o"></i> - <code>fa-hospital-o</code></p>
+<p><i class="fa fa-ambulance"></i> - <code>fa-ambulance</code></p>
+<p><i class="fa fa-medkit"></i> - <code>fa-medkit</code></p>
+<p><i class="fa fa-fighter-jet"></i> - <code>fa-fighter-jet</code></p>
+<p><i class="fa fa-beer"></i> - <code>fa-beer</code></p>
+<p><i class="fa fa-h-square"></i> - <code>fa-h-square</code></p>
+<p><i class="fa fa-plus-square"></i> - <code>fa-plus-square</code></p>
+<p><i class="fa fa-angle-double-left"></i> - <code>fa-angle-double-left</code></p>
+<p><i class="fa fa-angle-double-right"></i> - <code>fa-angle-double-right</code></p>
+<p><i class="fa fa-angle-double-up"></i> - <code>fa-angle-double-up</code></p>
+<p><i class="fa fa-angle-double-down"></i> - <code>fa-angle-double-down</code></p>
+<p><i class="fa fa-angle-left"></i> - <code>fa-angle-left</code></p>
+<p><i class="fa fa-angle-right"></i> - <code>fa-angle-right</code></p>
+<p><i class="fa fa-angle-up"></i> - <code>fa-angle-up</code></p>
+<p><i class="fa fa-angle-down"></i> - <code>fa-angle-down</code></p>
+<p><i class="fa fa-desktop"></i> - <code>fa-desktop</code></p>
+<p><i class="fa fa-laptop"></i> - <code>fa-laptop</code></p>
+<p><i class="fa fa-tablet"></i> - <code>fa-tablet</code></p>
+<p><i class="fa fa-mobile-phone"></i> - <code>fa-mobile-phone</code></p>
+<p><i class="fa fa-mobile"></i> - <code>fa-mobile</code></p>
+<p><i class="fa fa-circle-o"></i> - <code>fa-circle-o</code></p>
+<p><i class="fa fa-quote-left"></i> - <code>fa-quote-left</code></p>
+<p><i class="fa fa-quote-right"></i> - <code>fa-quote-right</code></p>
+<p><i class="fa fa-spinner"></i> - <code>fa-spinner</code></p>
+<p><i class="fa fa-circle"></i> - <code>fa-circle</code></p>
+<p><i class="fa fa-mail-reply"></i> - <code>fa-mail-reply</code></p>
+<p><i class="fa fa-reply"></i> - <code>fa-reply</code></p>
+<p><i class="fa fa-github-alt"></i> - <code>fa-github-alt</code></p>
+<p><i class="fa fa-folder-o"></i> - <code>fa-folder-o</code></p>
+<p><i class="fa fa-folder-open-o"></i> - <code>fa-folder-open-o</code></p>
+<p><i class="fa fa-smile-o"></i> - <code>fa-smile-o</code></p>
+<p><i class="fa fa-frown-o"></i> - <code>fa-frown-o</code></p>
+<p><i class="fa fa-meh-o"></i> - <code>fa-meh-o</code></p>
+<p><i class="fa fa-gamepad"></i> - <code>fa-gamepad</code></p>
+<p><i class="fa fa-keyboard-o"></i> - <code>fa-keyboard-o</code></p>
+<p><i class="fa fa-flag-o"></i> - <code>fa-flag-o</code></p>
+<p><i class="fa fa-flag-checkered"></i> - <code>fa-flag-checkered</code></p>
+<p><i class="fa fa-terminal"></i> - <code>fa-terminal</code></p>
+<p><i class="fa fa-code"></i> - <code>fa-code</code></p>
+<p><i class="fa fa-mail-reply-all"></i> - <code>fa-mail-reply-all</code></p>
+<p><i class="fa fa-reply-all"></i> - <code>fa-reply-all</code></p>
+<p><i class="fa fa-star-half-empty"></i> - <code>fa-star-half-empty</code></p>
+<p><i class="fa fa-star-half-full"></i> - <code>fa-star-half-full</code></p>
+<p><i class="fa fa-star-half-o"></i> - <code>fa-star-half-o</code></p>
+<p><i class="fa fa-location-arrow"></i> - <code>fa-location-arrow</code></p>
+<p><i class="fa fa-crop"></i> - <code>fa-crop</code></p>
+<p><i class="fa fa-code-fork"></i> - <code>fa-code-fork</code></p>
+<p><i class="fa fa-unlink"></i> - <code>fa-unlink</code></p>
+<p><i class="fa fa-chain-broken"></i> - <code>fa-chain-broken</code></p>
+<p><i class="fa fa-question"></i> - <code>fa-question</code></p>
+<p><i class="fa fa-info"></i> - <code>fa-info</code></p>
+<p><i class="fa fa-exclamation"></i> - <code>fa-exclamation</code></p>
+<p><i class="fa fa-superscript"></i> - <code>fa-superscript</code></p>
+<p><i class="fa fa-subscript"></i> - <code>fa-subscript</code></p>
+<p><i class="fa fa-eraser"></i> - <code>fa-eraser</code></p>
+<p><i class="fa fa-puzzle-piece"></i> - <code>fa-puzzle-piece</code></p>
+<p><i class="fa fa-microphone"></i> - <code>fa-microphone</code></p>
+<p><i class="fa fa-microphone-slash"></i> - <code>fa-microphone-slash</code></p>
+<p><i class="fa fa-shield"></i> - <code>fa-shield</code></p>
+<p><i class="fa fa-calendar-o"></i> - <code>fa-calendar-o</code></p>
+<p><i class="fa fa-fire-extinguisher"></i> - <code>fa-fire-extinguisher</code></p>
+<p><i class="fa fa-rocket"></i> - <code>fa-rocket</code></p>
+<p><i class="fa fa-maxcdn"></i> - <code>fa-maxcdn</code></p>
+<p><i class="fa fa-chevron-circle-left"></i> - <code>fa-chevron-circle-left</code></p>
+<p><i class="fa fa-chevron-circle-right"></i> - <code>fa-chevron-circle-right</code></p>
+<p><i class="fa fa-chevron-circle-up"></i> - <code>fa-chevron-circle-up</code></p>
+<p><i class="fa fa-chevron-circle-down"></i> - <code>fa-chevron-circle-down</code></p>
+<p><i class="fa fa-html5"></i> - <code>fa-html5</code></p>
+<p><i class="fa fa-css3"></i> - <code>fa-css3</code></p>
+<p><i class="fa fa-anchor"></i> - <code>fa-anchor</code></p>
+<p><i class="fa fa-unlock-alt"></i> - <code>fa-unlock-alt</code></p>
+<p><i class="fa fa-bullseye"></i> - <code>fa-bullseye</code></p>
+<p><i class="fa fa-ellipsis-h"></i> - <code>fa-ellipsis-h</code></p>
+<p><i class="fa fa-ellipsis-v"></i> - <code>fa-ellipsis-v</code></p>
+<p><i class="fa fa-rss-square"></i> - <code>fa-rss-square</code></p>
+<p><i class="fa fa-play-circle"></i> - <code>fa-play-circle</code></p>
+<p><i class="fa fa-ticket"></i> - <code>fa-ticket</code></p>
+<p><i class="fa fa-minus-square"></i> - <code>fa-minus-square</code></p>
+<p><i class="fa fa-minus-square-o"></i> - <code>fa-minus-square-o</code></p>
+<p><i class="fa fa-level-up"></i> - <code>fa-level-up</code></p>
+<p><i class="fa fa-level-down"></i> - <code>fa-level-down</code></p>
+<p><i class="fa fa-check-square"></i> - <code>fa-check-square</code></p>
+<p><i class="fa fa-pencil-square"></i> - <code>fa-pencil-square</code></p>
+<p><i class="fa fa-external-link-square"></i> - <code>fa-external-link-square</code></p>
+<p><i class="fa fa-share-square"></i> - <code>fa-share-square</code></p>
+<p><i class="fa fa-compass"></i> - <code>fa-compass</code></p>
+<p><i class="fa fa-toggle-down"></i> - <code>fa-toggle-down</code></p>
+<p><i class="fa fa-caret-square-o-down"></i> - <code>fa-caret-square-o-down</code></p>
+<p><i class="fa fa-toggle-up"></i> - <code>fa-toggle-up</code></p>
+<p><i class="fa fa-caret-square-o-up"></i> - <code>fa-caret-square-o-up</code></p>
+<p><i class="fa fa-toggle-right"></i> - <code>fa-toggle-right</code></p>
+<p><i class="fa fa-caret-square-o-right"></i> - <code>fa-caret-square-o-right</code></p>
+<p><i class="fa fa-euro"></i> - <code>fa-euro</code></p>
+<p><i class="fa fa-eur"></i> - <code>fa-eur</code></p>
+<p><i class="fa fa-gbp"></i> - <code>fa-gbp</code></p>
+<p><i class="fa fa-dollar"></i> - <code>fa-dollar</code></p>
+<p><i class="fa fa-usd"></i> - <code>fa-usd</code></p>
+<p><i class="fa fa-rupee"></i> - <code>fa-rupee</code></p>
+<p><i class="fa fa-inr"></i> - <code>fa-inr</code></p>
+<p><i class="fa fa-cny"></i> - <code>fa-cny</code></p>
+<p><i class="fa fa-rmb"></i> - <code>fa-rmb</code></p>
+<p><i class="fa fa-yen"></i> - <code>fa-yen</code></p>
+<p><i class="fa fa-jpy"></i> - <code>fa-jpy</code></p>
+<p><i class="fa fa-ruble"></i> - <code>fa-ruble</code></p>
+<p><i class="fa fa-rouble"></i> - <code>fa-rouble</code></p>
+<p><i class="fa fa-rub"></i> - <code>fa-rub</code></p>
+<p><i class="fa fa-won"></i> - <code>fa-won</code></p>
+<p><i class="fa fa-krw"></i> - <code>fa-krw</code></p>
+<p><i class="fa fa-bitcoin"></i> - <code>fa-bitcoin</code></p>
+<p><i class="fa fa-btc"></i> - <code>fa-btc</code></p>
+<p><i class="fa fa-file"></i> - <code>fa-file</code></p>
+<p><i class="fa fa-file-text"></i> - <code>fa-file-text</code></p>
+<p><i class="fa fa-sort-alpha-asc"></i> - <code>fa-sort-alpha-asc</code></p>
+<p><i class="fa fa-sort-alpha-desc"></i> - <code>fa-sort-alpha-desc</code></p>
+<p><i class="fa fa-sort-amount-asc"></i> - <code>fa-sort-amount-asc</code></p>
+<p><i class="fa fa-sort-amount-desc"></i> - <code>fa-sort-amount-desc</code></p>
+<p><i class="fa fa-sort-numeric-asc"></i> - <code>fa-sort-numeric-asc</code></p>
+<p><i class="fa fa-sort-numeric-desc"></i> - <code>fa-sort-numeric-desc</code></p>
+<p><i class="fa fa-thumbs-up"></i> - <code>fa-thumbs-up</code></p>
+<p><i class="fa fa-thumbs-down"></i> - <code>fa-thumbs-down</code></p>
+<p><i class="fa fa-youtube-square"></i> - <code>fa-youtube-square</code></p>
+<p><i class="fa fa-youtube"></i> - <code>fa-youtube</code></p>
+<p><i class="fa fa-xing"></i> - <code>fa-xing</code></p>
+<p><i class="fa fa-xing-square"></i> - <code>fa-xing-square</code></p>
+<p><i class="fa fa-youtube-play"></i> - <code>fa-youtube-play</code></p>
+<p><i class="fa fa-dropbox"></i> - <code>fa-dropbox</code></p>
+<p><i class="fa fa-stack-overflow"></i> - <code>fa-stack-overflow</code></p>
+<p><i class="fa fa-instagram"></i> - <code>fa-instagram</code></p>
+<p><i class="fa fa-flickr"></i> - <code>fa-flickr</code></p>
+<p><i class="fa fa-adn"></i> - <code>fa-adn</code></p>
+<p><i class="fa fa-bitbucket"></i> - <code>fa-bitbucket</code></p>
+<p><i class="fa fa-bitbucket-square"></i> - <code>fa-bitbucket-square</code></p>
+<p><i class="fa fa-tumblr"></i> - <code>fa-tumblr</code></p>
+<p><i class="fa fa-tumblr-square"></i> - <code>fa-tumblr-square</code></p>
+<p><i class="fa fa-long-arrow-down"></i> - <code>fa-long-arrow-down</code></p>
+<p><i class="fa fa-long-arrow-up"></i> - <code>fa-long-arrow-up</code></p>
+<p><i class="fa fa-long-arrow-left"></i> - <code>fa-long-arrow-left</code></p>
+<p><i class="fa fa-long-arrow-right"></i> - <code>fa-long-arrow-right</code></p>
+<p><i class="fa fa-apple"></i> - <code>fa-apple</code></p>
+<p><i class="fa fa-windows"></i> - <code>fa-windows</code></p>
+<p><i class="fa fa-android"></i> - <code>fa-android</code></p>
+<p><i class="fa fa-linux"></i> - <code>fa-linux</code></p>
+<p><i class="fa fa-dribbble"></i> - <code>fa-dribbble</code></p>
+<p><i class="fa fa-skype"></i> - <code>fa-skype</code></p>
+<p><i class="fa fa-foursquare"></i> - <code>fa-foursquare</code></p>
+<p><i class="fa fa-trello"></i> - <code>fa-trello</code></p>
+<p><i class="fa fa-female"></i> - <code>fa-female</code></p>
+<p><i class="fa fa-male"></i> - <code>fa-male</code></p>
+<p><i class="fa fa-gittip"></i> - <code>fa-gittip</code></p>
+<p><i class="fa fa-gratipay"></i> - <code>fa-gratipay</code></p>
+<p><i class="fa fa-sun-o"></i> - <code>fa-sun-o</code></p>
+<p><i class="fa fa-moon-o"></i> - <code>fa-moon-o</code></p>
+<p><i class="fa fa-archive"></i> - <code>fa-archive</code></p>
+<p><i class="fa fa-bug"></i> - <code>fa-bug</code></p>
+<p><i class="fa fa-vk"></i> - <code>fa-vk</code></p>
+<p><i class="fa fa-weibo"></i> - <code>fa-weibo</code></p>
+<p><i class="fa fa-renren"></i> - <code>fa-renren</code></p>
+<p><i class="fa fa-pagelines"></i> - <code>fa-pagelines</code></p>
+<p><i class="fa fa-stack-exchange"></i> - <code>fa-stack-exchange</code></p>
+<p><i class="fa fa-arrow-circle-o-right"></i> - <code>fa-arrow-circle-o-right</code></p>
+<p><i class="fa fa-arrow-circle-o-left"></i> - <code>fa-arrow-circle-o-left</code></p>
+<p><i class="fa fa-toggle-left"></i> - <code>fa-toggle-left</code></p>
+<p><i class="fa fa-caret-square-o-left"></i> - <code>fa-caret-square-o-left</code></p>
+<p><i class="fa fa-dot-circle-o"></i> - <code>fa-dot-circle-o</code></p>
+<p><i class="fa fa-wheelchair"></i> - <code>fa-wheelchair</code></p>
+<p><i class="fa fa-vimeo-square"></i> - <code>fa-vimeo-square</code></p>
+<p><i class="fa fa-turkish-lira"></i> - <code>fa-turkish-lira</code></p>
+<p><i class="fa fa-try"></i> - <code>fa-try</code></p>
+<p><i class="fa fa-plus-square-o"></i> - <code>fa-plus-square-o</code></p>
+<p><i class="fa fa-space-shuttle"></i> - <code>fa-space-shuttle</code></p>
+<p><i class="fa fa-slack"></i> - <code>fa-slack</code></p>
+<p><i class="fa fa-envelope-square"></i> - <code>fa-envelope-square</code></p>
+<p><i class="fa fa-wordpress"></i> - <code>fa-wordpress</code></p>
+<p><i class="fa fa-openid"></i> - <code>fa-openid</code></p>
+<p><i class="fa fa-institution"></i> - <code>fa-institution</code></p>
+<p><i class="fa fa-bank"></i> - <code>fa-bank</code></p>
+<p><i class="fa fa-university"></i> - <code>fa-university</code></p>
+<p><i class="fa fa-mortar-board"></i> - <code>fa-mortar-board</code></p>
+<p><i class="fa fa-graduation-cap"></i> - <code>fa-graduation-cap</code></p>
+<p><i class="fa fa-yahoo"></i> - <code>fa-yahoo</code></p>
+<p><i class="fa fa-google"></i> - <code>fa-google</code></p>
+<p><i class="fa fa-reddit"></i> - <code>fa-reddit</code></p>
+<p><i class="fa fa-reddit-square"></i> - <code>fa-reddit-square</code></p>
+<p><i class="fa fa-stumbleupon-circle"></i> - <code>fa-stumbleupon-circle</code></p>
+<p><i class="fa fa-stumbleupon"></i> - <code>fa-stumbleupon</code></p>
+<p><i class="fa fa-delicious"></i> - <code>fa-delicious</code></p>
+<p><i class="fa fa-digg"></i> - <code>fa-digg</code></p>
+<p><i class="fa fa-pied-piper-pp"></i> - <code>fa-pied-piper-pp</code></p>
+<p><i class="fa fa-pied-piper-alt"></i> - <code>fa-pied-piper-alt</code></p>
+<p><i class="fa fa-drupal"></i> - <code>fa-drupal</code></p>
+<p><i class="fa fa-joomla"></i> - <code>fa-joomla</code></p>
+<p><i class="fa fa-language"></i> - <code>fa-language</code></p>
+<p><i class="fa fa-fax"></i> - <code>fa-fax</code></p>
+<p><i class="fa fa-building"></i> - <code>fa-building</code></p>
+<p><i class="fa fa-child"></i> - <code>fa-child</code></p>
+<p><i class="fa fa-paw"></i> - <code>fa-paw</code></p>
+<p><i class="fa fa-spoon"></i> - <code>fa-spoon</code></p>
+<p><i class="fa fa-cube"></i> - <code>fa-cube</code></p>
+<p><i class="fa fa-cubes"></i> - <code>fa-cubes</code></p>
+<p><i class="fa fa-behance"></i> - <code>fa-behance</code></p>
+<p><i class="fa fa-behance-square"></i> - <code>fa-behance-square</code></p>
+<p><i class="fa fa-steam"></i> - <code>fa-steam</code></p>
+<p><i class="fa fa-steam-square"></i> - <code>fa-steam-square</code></p>
+<p><i class="fa fa-recycle"></i> - <code>fa-recycle</code></p>
+<p><i class="fa fa-automobile"></i> - <code>fa-automobile</code></p>
+<p><i class="fa fa-car"></i> - <code>fa-car</code></p>
+<p><i class="fa fa-cab"></i> - <code>fa-cab</code></p>
+<p><i class="fa fa-taxi"></i> - <code>fa-taxi</code></p>
+<p><i class="fa fa-tree"></i> - <code>fa-tree</code></p>
+<p><i class="fa fa-spotify"></i> - <code>fa-spotify</code></p>
+<p><i class="fa fa-deviantart"></i> - <code>fa-deviantart</code></p>
+<p><i class="fa fa-soundcloud"></i> - <code>fa-soundcloud</code></p>
+<p><i class="fa fa-database"></i> - <code>fa-database</code></p>
+<p><i class="fa fa-file-pdf-o"></i> - <code>fa-file-pdf-o</code></p>
+<p><i class="fa fa-file-word-o"></i> - <code>fa-file-word-o</code></p>
+<p><i class="fa fa-file-excel-o"></i> - <code>fa-file-excel-o</code></p>
+<p><i class="fa fa-file-powerpoint-o"></i> - <code>fa-file-powerpoint-o</code></p>
+<p><i class="fa fa-file-photo-o"></i> - <code>fa-file-photo-o</code></p>
+<p><i class="fa fa-file-picture-o"></i> - <code>fa-file-picture-o</code></p>
+<p><i class="fa fa-file-image-o"></i> - <code>fa-file-image-o</code></p>
+<p><i class="fa fa-file-zip-o"></i> - <code>fa-file-zip-o</code></p>
+<p><i class="fa fa-file-archive-o"></i> - <code>fa-file-archive-o</code></p>
+<p><i class="fa fa-file-sound-o"></i> - <code>fa-file-sound-o</code></p>
+<p><i class="fa fa-file-audio-o"></i> - <code>fa-file-audio-o</code></p>
+<p><i class="fa fa-file-movie-o"></i> - <code>fa-file-movie-o</code></p>
+<p><i class="fa fa-file-video-o"></i> - <code>fa-file-video-o</code></p>
+<p><i class="fa fa-file-code-o"></i> - <code>fa-file-code-o</code></p>
+<p><i class="fa fa-vine"></i> - <code>fa-vine</code></p>
+<p><i class="fa fa-codepen"></i> - <code>fa-codepen</code></p>
+<p><i class="fa fa-jsfiddle"></i> - <code>fa-jsfiddle</code></p>
+<p><i class="fa fa-life-bouy"></i> - <code>fa-life-bouy</code></p>
+<p><i class="fa fa-life-buoy"></i> - <code>fa-life-buoy</code></p>
+<p><i class="fa fa-life-saver"></i> - <code>fa-life-saver</code></p>
+<p><i class="fa fa-support"></i> - <code>fa-support</code></p>
+<p><i class="fa fa-life-ring"></i> - <code>fa-life-ring</code></p>
+<p><i class="fa fa-circle-o-notch"></i> - <code>fa-circle-o-notch</code></p>
+<p><i class="fa fa-ra"></i> - <code>fa-ra</code></p>
+<p><i class="fa fa-resistance"></i> - <code>fa-resistance</code></p>
+<p><i class="fa fa-rebel"></i> - <code>fa-rebel</code></p>
+<p><i class="fa fa-ge"></i> - <code>fa-ge</code></p>
+<p><i class="fa fa-empire"></i> - <code>fa-empire</code></p>
+<p><i class="fa fa-git-square"></i> - <code>fa-git-square</code></p>
+<p><i class="fa fa-git"></i> - <code>fa-git</code></p>
+<p><i class="fa fa-y-combinator-square"></i> - <code>fa-y-combinator-square</code></p>
+<p><i class="fa fa-yc-square"></i> - <code>fa-yc-square</code></p>
+<p><i class="fa fa-hacker-news"></i> - <code>fa-hacker-news</code></p>
+<p><i class="fa fa-tencent-weibo"></i> - <code>fa-tencent-weibo</code></p>
+<p><i class="fa fa-qq"></i> - <code>fa-qq</code></p>
+<p><i class="fa fa-wechat"></i> - <code>fa-wechat</code></p>
+<p><i class="fa fa-weixin"></i> - <code>fa-weixin</code></p>
+<p><i class="fa fa-send"></i> - <code>fa-send</code></p>
+<p><i class="fa fa-paper-plane"></i> - <code>fa-paper-plane</code></p>
+<p><i class="fa fa-send-o"></i> - <code>fa-send-o</code></p>
+<p><i class="fa fa-paper-plane-o"></i> - <code>fa-paper-plane-o</code></p>
+<p><i class="fa fa-history"></i> - <code>fa-history</code></p>
+<p><i class="fa fa-circle-thin"></i> - <code>fa-circle-thin</code></p>
+<p><i class="fa fa-header"></i> - <code>fa-header</code></p>
+<p><i class="fa fa-paragraph"></i> - <code>fa-paragraph</code></p>
+<p><i class="fa fa-sliders"></i> - <code>fa-sliders</code></p>
+<p><i class="fa fa-share-alt"></i> - <code>fa-share-alt</code></p>
+<p><i class="fa fa-share-alt-square"></i> - <code>fa-share-alt-square</code></p>
+<p><i class="fa fa-bomb"></i> - <code>fa-bomb</code></p>
+<p><i class="fa fa-soccer-ball-o"></i> - <code>fa-soccer-ball-o</code></p>
+<p><i class="fa fa-futbol-o"></i> - <code>fa-futbol-o</code></p>
+<p><i class="fa fa-tty"></i> - <code>fa-tty</code></p>
+<p><i class="fa fa-binoculars"></i> - <code>fa-binoculars</code></p>
+<p><i class="fa fa-plug"></i> - <code>fa-plug</code></p>
+<p><i class="fa fa-slideshare"></i> - <code>fa-slideshare</code></p>
+<p><i class="fa fa-twitch"></i> - <code>fa-twitch</code></p>
+<p><i class="fa fa-yelp"></i> - <code>fa-yelp</code></p>
+<p><i class="fa fa-newspaper-o"></i> - <code>fa-newspaper-o</code></p>
+<p><i class="fa fa-wifi"></i> - <code>fa-wifi</code></p>
+<p><i class="fa fa-calculator"></i> - <code>fa-calculator</code></p>
+<p><i class="fa fa-paypal"></i> - <code>fa-paypal</code></p>
+<p><i class="fa fa-google-wallet"></i> - <code>fa-google-wallet</code></p>
+<p><i class="fa fa-cc-visa"></i> - <code>fa-cc-visa</code></p>
+<p><i class="fa fa-cc-mastercard"></i> - <code>fa-cc-mastercard</code></p>
+<p><i class="fa fa-cc-discover"></i> - <code>fa-cc-discover</code></p>
+<p><i class="fa fa-cc-amex"></i> - <code>fa-cc-amex</code></p>
+<p><i class="fa fa-cc-paypal"></i> - <code>fa-cc-paypal</code></p>
+<p><i class="fa fa-cc-stripe"></i> - <code>fa-cc-stripe</code></p>
+<p><i class="fa fa-bell-slash"></i> - <code>fa-bell-slash</code></p>
+<p><i class="fa fa-bell-slash-o"></i> - <code>fa-bell-slash-o</code></p>
+<p><i class="fa fa-trash"></i> - <code>fa-trash</code></p>
+<p><i class="fa fa-copyright"></i> - <code>fa-copyright</code></p>
+<p><i class="fa fa-at"></i> - <code>fa-at</code></p>
+<p><i class="fa fa-eyedropper"></i> - <code>fa-eyedropper</code></p>
+<p><i class="fa fa-paint-brush"></i> - <code>fa-paint-brush</code></p>
+<p><i class="fa fa-birthday-cake"></i> - <code>fa-birthday-cake</code></p>
+<p><i class="fa fa-area-chart"></i> - <code>fa-area-chart</code></p>
+<p><i class="fa fa-pie-chart"></i> - <code>fa-pie-chart</code></p>
+<p><i class="fa fa-line-chart"></i> - <code>fa-line-chart</code></p>
+<p><i class="fa fa-lastfm"></i> - <code>fa-lastfm</code></p>
+<p><i class="fa fa-lastfm-square"></i> - <code>fa-lastfm-square</code></p>
+<p><i class="fa fa-toggle-off"></i> - <code>fa-toggle-off</code></p>
+<p><i class="fa fa-toggle-on"></i> - <code>fa-toggle-on</code></p>
+<p><i class="fa fa-bicycle"></i> - <code>fa-bicycle</code></p>
+<p><i class="fa fa-bus"></i> - <code>fa-bus</code></p>
+<p><i class="fa fa-ioxhost"></i> - <code>fa-ioxhost</code></p>
+<p><i class="fa fa-angellist"></i> - <code>fa-angellist</code></p>
+<p><i class="fa fa-cc"></i> - <code>fa-cc</code></p>
+<p><i class="fa fa-shekel"></i> - <code>fa-shekel</code></p>
+<p><i class="fa fa-sheqel"></i> - <code>fa-sheqel</code></p>
+<p><i class="fa fa-ils"></i> - <code>fa-ils</code></p>
+<p><i class="fa fa-meanpath"></i> - <code>fa-meanpath</code></p>
+<p><i class="fa fa-buysellads"></i> - <code>fa-buysellads</code></p>
+<p><i class="fa fa-connectdevelop"></i> - <code>fa-connectdevelop</code></p>
+<p><i class="fa fa-dashcube"></i> - <code>fa-dashcube</code></p>
+<p><i class="fa fa-forumbee"></i> - <code>fa-forumbee</code></p>
+<p><i class="fa fa-leanpub"></i> - <code>fa-leanpub</code></p>
+<p><i class="fa fa-sellsy"></i> - <code>fa-sellsy</code></p>
+<p><i class="fa fa-shirtsinbulk"></i> - <code>fa-shirtsinbulk</code></p>
+<p><i class="fa fa-simplybuilt"></i> - <code>fa-simplybuilt</code></p>
+<p><i class="fa fa-skyatlas"></i> - <code>fa-skyatlas</code></p>
+<p><i class="fa fa-cart-plus"></i> - <code>fa-cart-plus</code></p>
+<p><i class="fa fa-cart-arrow-down"></i> - <code>fa-cart-arrow-down</code></p>
+<p><i class="fa fa-diamond"></i> - <code>fa-diamond</code></p>
+<p><i class="fa fa-ship"></i> - <code>fa-ship</code></p>
+<p><i class="fa fa-user-secret"></i> - <code>fa-user-secret</code></p>
+<p><i class="fa fa-motorcycle"></i> - <code>fa-motorcycle</code></p>
+<p><i class="fa fa-street-view"></i> - <code>fa-street-view</code></p>
+<p><i class="fa fa-heartbeat"></i> - <code>fa-heartbeat</code></p>
+<p><i class="fa fa-venus"></i> - <code>fa-venus</code></p>
+<p><i class="fa fa-mars"></i> - <code>fa-mars</code></p>
+<p><i class="fa fa-mercury"></i> - <code>fa-mercury</code></p>
+<p><i class="fa fa-intersex"></i> - <code>fa-intersex</code></p>
+<p><i class="fa fa-transgender"></i> - <code>fa-transgender</code></p>
+<p><i class="fa fa-transgender-alt"></i> - <code>fa-transgender-alt</code></p>
+<p><i class="fa fa-venus-double"></i> - <code>fa-venus-double</code></p>
+<p><i class="fa fa-mars-double"></i> - <code>fa-mars-double</code></p>
+<p><i class="fa fa-venus-mars"></i> - <code>fa-venus-mars</code></p>
+<p><i class="fa fa-mars-stroke"></i> - <code>fa-mars-stroke</code></p>
+<p><i class="fa fa-mars-stroke-v"></i> - <code>fa-mars-stroke-v</code></p>
+<p><i class="fa fa-mars-stroke-h"></i> - <code>fa-mars-stroke-h</code></p>
+<p><i class="fa fa-neuter"></i> - <code>fa-neuter</code></p>
+<p><i class="fa fa-genderless"></i> - <code>fa-genderless</code></p>
+<p><i class="fa fa-facebook-official"></i> - <code>fa-facebook-official</code></p>
+<p><i class="fa fa-pinterest-p"></i> - <code>fa-pinterest-p</code></p>
+<p><i class="fa fa-whatsapp"></i> - <code>fa-whatsapp</code></p>
+<p><i class="fa fa-server"></i> - <code>fa-server</code></p>
+<p><i class="fa fa-user-plus"></i> - <code>fa-user-plus</code></p>
+<p><i class="fa fa-user-times"></i> - <code>fa-user-times</code></p>
+<p><i class="fa fa-hotel"></i> - <code>fa-hotel</code></p>
+<p><i class="fa fa-bed"></i> - <code>fa-bed</code></p>
+<p><i class="fa fa-viacoin"></i> - <code>fa-viacoin</code></p>
+<p><i class="fa fa-train"></i> - <code>fa-train</code></p>
+<p><i class="fa fa-subway"></i> - <code>fa-subway</code></p>
+<p><i class="fa fa-medium"></i> - <code>fa-medium</code></p>
+<p><i class="fa fa-yc"></i> - <code>fa-yc</code></p>
+<p><i class="fa fa-y-combinator"></i> - <code>fa-y-combinator</code></p>
+<p><i class="fa fa-optin-monster"></i> - <code>fa-optin-monster</code></p>
+<p><i class="fa fa-opencart"></i> - <code>fa-opencart</code></p>
+<p><i class="fa fa-expeditedssl"></i> - <code>fa-expeditedssl</code></p>
+<p><i class="fa fa-battery-4"></i> - <code>fa-battery-4</code></p>
+<p><code>:fa-battery: -</code>fa-battery``</p>
+<p><i class="fa fa-battery-full"></i> - <code>fa-battery-full</code></p>
+<p><i class="fa fa-battery-3"></i> - <code>fa-battery-3</code></p>
+<p><i class="fa fa-battery-three-quarters"></i> - <code>fa-battery-three-quarters</code></p>
+<p><i class="fa fa-battery-2"></i> - <code>fa-battery-2</code></p>
+<p><i class="fa fa-battery-half"></i> - <code>fa-battery-half</code></p>
+<p><i class="fa fa-battery-1"></i> - <code>fa-battery-1</code></p>
+<p><i class="fa fa-battery-quarter"></i> - <code>fa-battery-quarter</code></p>
+<p><i class="fa fa-battery-0"></i> - <code>fa-battery-0</code></p>
+<p><i class="fa fa-battery-empty"></i> - <code>fa-battery-empty</code></p>
+<p><i class="fa fa-mouse-pointer"></i> - <code>fa-mouse-pointer</code></p>
+<p><i class="fa fa-i-cursor"></i> - <code>fa-i-cursor</code></p>
+<p><i class="fa fa-object-group"></i> - <code>fa-object-group</code></p>
+<p><i class="fa fa-object-ungroup"></i> - <code>fa-object-ungroup</code></p>
+<p><i class="fa fa-sticky-note"></i> - <code>fa-sticky-note</code></p>
+<p><i class="fa fa-sticky-note-o"></i> - <code>fa-sticky-note-o</code></p>
+<p><i class="fa fa-cc-jcb"></i> - <code>fa-cc-jcb</code></p>
+<p><i class="fa fa-cc-diners-club"></i> - <code>fa-cc-diners-club</code></p>
+<p><i class="fa fa-clone"></i> - <code>fa-clone</code></p>
+<p><i class="fa fa-balance-scale"></i> - <code>fa-balance-scale</code></p>
+<p><i class="fa fa-hourglass-o"></i> - <code>fa-hourglass-o</code></p>
+<p><i class="fa fa-hourglass-1"></i> - <code>fa-hourglass-1</code></p>
+<p><i class="fa fa-hourglass-start"></i> - <code>fa-hourglass-start</code></p>
+<p><i class="fa fa-hourglass-2"></i> - <code>fa-hourglass-2</code></p>
+<p><i class="fa fa-hourglass-half"></i> - <code>fa-hourglass-half</code></p>
+<p><i class="fa fa-hourglass-3"></i> - <code>fa-hourglass-3</code></p>
+<p><i class="fa fa-hourglass-end"></i> - <code>fa-hourglass-end</code></p>
+<p><i class="fa fa-hourglass"></i> - <code>fa-hourglass</code></p>
+<p><i class="fa fa-hand-grab-o"></i> - <code>fa-hand-grab-o</code></p>
+<p><i class="fa fa-hand-rock-o"></i> - <code>fa-hand-rock-o</code></p>
+<p><i class="fa fa-hand-stop-o"></i> - <code>fa-hand-stop-o</code></p>
+<p><i class="fa fa-hand-paper-o"></i> - <code>fa-hand-paper-o</code></p>
+<p><i class="fa fa-hand-scissors-o"></i> - <code>fa-hand-scissors-o</code></p>
+<p><i class="fa fa-hand-lizard-o"></i> - <code>fa-hand-lizard-o</code></p>
+<p><i class="fa fa-hand-spock-o"></i> - <code>fa-hand-spock-o</code></p>
+<p><i class="fa fa-hand-pointer-o"></i> - <code>fa-hand-pointer-o</code></p>
+<p><i class="fa fa-hand-peace-o"></i> - <code>fa-hand-peace-o</code></p>
+<p><i class="fa fa-trademark"></i> - <code>fa-trademark</code></p>
+<p><i class="fa fa-registered"></i> - <code>fa-registered</code></p>
+<p><i class="fa fa-creative-commons"></i> - <code>fa-creative-commons</code></p>
+<p><i class="fa fa-gg"></i> - <code>fa-gg</code></p>
+<p><i class="fa fa-gg-circle"></i> - <code>fa-gg-circle</code></p>
+<p><i class="fa fa-tripadvisor"></i> - <code>fa-tripadvisor</code></p>
+<p><i class="fa fa-odnoklassniki"></i> - <code>fa-odnoklassniki</code></p>
+<p><i class="fa fa-odnoklassniki-square"></i> - <code>fa-odnoklassniki-square</code></p>
+<p><i class="fa fa-get-pocket"></i> - <code>fa-get-pocket</code></p>
+<p><i class="fa fa-wikipedia-w"></i> - <code>fa-wikipedia-w</code></p>
+<p><i class="fa fa-safari"></i> - <code>fa-safari</code></p>
+<p><i class="fa fa-chrome"></i> - <code>fa-chrome</code></p>
+<p><i class="fa fa-firefox"></i> - <code>fa-firefox</code></p>
+<p><i class="fa fa-opera"></i> - <code>fa-opera</code></p>
+<p><i class="fa fa-internet-explorer"></i> - <code>fa-internet-explorer</code></p>
+<p><i class="fa fa-tv"></i> - <code>fa-tv</code></p>
+<p><i class="fa fa-television"></i> - <code>fa-television</code></p>
+<p><i class="fa fa-contao"></i> - <code>fa-contao</code></p>
+<p><i class="fa fa-500px"></i> - <code>fa-500px</code></p>
+<p><i class="fa fa-amazon"></i> - <code>fa-amazon</code></p>
+<p><i class="fa fa-calendar-plus-o"></i> - <code>fa-calendar-plus-o</code></p>
+<p><i class="fa fa-calendar-minus-o"></i> - <code>fa-calendar-minus-o</code></p>
+<p><i class="fa fa-calendar-times-o"></i> - <code>fa-calendar-times-o</code></p>
+<p><i class="fa fa-calendar-check-o"></i> - <code>fa-calendar-check-o</code></p>
+<p><i class="fa fa-industry"></i> - <code>fa-industry</code></p>
+<p><i class="fa fa-map-pin"></i> - <code>fa-map-pin</code></p>
+<p><i class="fa fa-map-signs"></i> - <code>fa-map-signs</code></p>
+<p><i class="fa fa-map-o"></i> - <code>fa-map-o</code></p>
+<p><i class="fa fa-map"></i> - <code>fa-map</code></p>
+<p><i class="fa fa-commenting"></i> - <code>fa-commenting</code></p>
+<p><i class="fa fa-commenting-o"></i> - <code>fa-commenting-o</code></p>
+<p><i class="fa fa-houzz"></i> - <code>fa-houzz</code></p>
+<p><i class="fa fa-vimeo"></i> - <code>fa-vimeo</code></p>
+<p><i class="fa fa-black-tie"></i> - <code>fa-black-tie</code></p>
+<p><i class="fa fa-fonticons"></i> - <code>fa-fonticons</code></p>
+<p><i class="fa fa-reddit-alien"></i> - <code>fa-reddit-alien</code></p>
+<p><i class="fa fa-edge"></i> - <code>fa-edge</code></p>
+<p><i class="fa fa-credit-card-alt"></i> - <code>fa-credit-card-alt</code></p>
+<p><i class="fa fa-codiepie"></i> - <code>fa-codiepie</code></p>
+<p><i class="fa fa-modx"></i> - <code>fa-modx</code></p>
+<p><i class="fa fa-fort-awesome"></i> - <code>fa-fort-awesome</code></p>
+<p><i class="fa fa-usb"></i> - <code>fa-usb</code></p>
+<p><i class="fa fa-product-hunt"></i> - <code>fa-product-hunt</code></p>
+<p><i class="fa fa-mixcloud"></i> - <code>fa-mixcloud</code></p>
+<p><i class="fa fa-scribd"></i> - <code>fa-scribd</code></p>
+<p><i class="fa fa-pause-circle"></i> - <code>fa-pause-circle</code></p>
+<p><i class="fa fa-pause-circle-o"></i> - <code>fa-pause-circle-o</code></p>
+<p><i class="fa fa-stop-circle"></i> - <code>fa-stop-circle</code></p>
+<p><i class="fa fa-stop-circle-o"></i> - <code>fa-stop-circle-o</code></p>
+<p><i class="fa fa-shopping-bag"></i> - <code>fa-shopping-bag</code></p>
+<p><i class="fa fa-shopping-basket"></i> - <code>fa-shopping-basket</code></p>
+<p><i class="fa fa-hashtag"></i> - <code>fa-hashtag</code></p>
+<p><i class="fa fa-bluetooth"></i> - <code>fa-bluetooth</code></p>
+<p><i class="fa fa-bluetooth-b"></i> - <code>fa-bluetooth-b</code></p>
+<p><i class="fa fa-percent"></i> - <code>fa-percent</code></p>
+<p><i class="fa fa-gitlab"></i> - <code>fa-gitlab</code></p>
+<p><i class="fa fa-wpbeginner"></i> - <code>fa-wpbeginner</code></p>
+<p><i class="fa fa-wpforms"></i> - <code>fa-wpforms</code></p>
+<p><i class="fa fa-envira"></i> - <code>fa-envira</code></p>
+<p><i class="fa fa-universal-access"></i> - <code>fa-universal-access</code></p>
+<p><i class="fa fa-wheelchair-alt"></i> - <code>fa-wheelchair-alt</code></p>
+<p><i class="fa fa-question-circle-o"></i> - <code>fa-question-circle-o</code></p>
+<p><i class="fa fa-blind"></i> - <code>fa-blind</code></p>
+<p><i class="fa fa-audio-description"></i> - <code>fa-audio-description</code></p>
+<p><i class="fa fa-volume-control-phone"></i> - <code>fa-volume-control-phone</code></p>
+<p><i class="fa fa-braille"></i> - <code>fa-braille</code></p>
+<p><i class="fa fa-assistive-listening-systems"></i> - <code>fa-assistive-listening-systems</code></p>
+<p><i class="fa fa-asl-interpreting"></i> - <code>fa-asl-interpreting</code></p>
+<p><i class="fa fa-american-sign-language-interpreting"></i> - <code>fa-american-sign-language-interpreting</code></p>
+<p><i class="fa fa-deafness"></i> - <code>fa-deafness</code></p>
+<p><i class="fa fa-hard-of-hearing"></i> - <code>fa-hard-of-hearing</code></p>
+<p><i class="fa fa-deaf"></i> - <code>fa-deaf</code></p>
+<p><i class="fa fa-glide"></i> - <code>fa-glide</code></p>
+<p><i class="fa fa-glide-g"></i> - <code>fa-glide-g</code></p>
+<p><i class="fa fa-signing"></i> - <code>fa-signing</code></p>
+<p><i class="fa fa-sign-language"></i> - <code>fa-sign-language</code></p>
+<p><i class="fa fa-low-vision"></i> - <code>fa-low-vision</code></p>
+<p><i class="fa fa-viadeo"></i> - <code>fa-viadeo</code></p>
+<p><i class="fa fa-viadeo-square"></i> - <code>fa-viadeo-square</code></p>
+<p><i class="fa fa-snapchat"></i> - <code>fa-snapchat</code></p>
+<p><i class="fa fa-snapchat-ghost"></i> - <code>fa-snapchat-ghost</code></p>
+<p><i class="fa fa-snapchat-square"></i> - <code>fa-snapchat-square</code></p>
+<p><i class="fa fa-pied-piper"></i> - <code>fa-pied-piper</code></p>
+<p><i class="fa fa-first-order"></i> - <code>fa-first-order</code></p>
+<p><i class="fa fa-yoast"></i> - <code>fa-yoast</code></p>
+<p><i class="fa fa-themeisle"></i> - <code>fa-themeisle</code></p>
+<p><i class="fa fa-google-plus-circle"></i> - <code>fa-google-plus-circle</code></p>
+<p><i class="fa fa-google-plus-official"></i> - <code>fa-google-plus-official</code></p>
+<p><i class="fa fa-fa"></i> - <code>fa-fa</code></p>
+<p><i class="fa fa-font-awesome"></i> - <code>fa-font-awesome</code></p>
+<p><code>:fa-handshake-o: -</code>fa-handshake-o``</p>
+<p><code>:fa-envelope-open: -</code>fa-envelope-open``</p>
+<p><code>:fa-envelope-open-o: -</code>fa-envelope-open-o``</p>
+<p><code>:fa-linode: -</code>fa-linode``</p>
+<p><code>:fa-address-book: -</code>fa-address-book``</p>
+<p><code>:fa-address-book-o: -</code>fa-address-book-o``</p>
+<p><code>:fa-vcard: -</code>fa-vcard``</p>
+<p><code>:fa-address-card: -</code>fa-address-card``</p>
+<p><code>:fa-vcard-o: -</code>fa-vcard-o``</p>
+<p><code>:fa-address-card-o: -</code>fa-address-card-o``</p>
+<p><code>:fa-user-circle: -</code>fa-user-circle``</p>
+<p><code>:fa-user-circle-o: -</code>fa-user-circle-o``</p>
+<p><code>:fa-user-o: -</code>fa-user-o``</p>
+<p><code>:fa-id-badge: -</code>fa-id-badge``</p>
+<p><code>:fa-drivers-license: -</code>fa-drivers-license``</p>
+<p><code>:fa-id-card: -</code>fa-id-card``</p>
+<p><code>:fa-drivers-license-o: -</code>fa-drivers-license-o``</p>
+<p><code>:fa-id-card-o: -</code>fa-id-card-o``</p>
+<p><code>:fa-quora: -</code>fa-quora``</p>
+<p><code>:fa-free-code-camp: -</code>fa-free-code-camp``</p>
+<p><code>:fa-telegram: -</code>fa-telegram``</p>
+<p><code>:fa-thermometer-4: -</code>fa-thermometer-4``</p>
+<p><code>:fa-thermometer: -</code>fa-thermometer``</p>
+<p><code>:fa-thermometer-full: -</code>fa-thermometer-full``</p>
+<p><code>:fa-thermometer-3: -</code>fa-thermometer-3``</p>
+<p><code>:fa-thermometer-three-quarters: -</code>fa-thermometer-three-quarters``</p>
+<p><code>:fa-thermometer-2: -</code>fa-thermometer-2``</p>
+<p><code>:fa-thermometer-half: -</code>fa-thermometer-half``</p>
+<p><code>:fa-thermometer-1: -</code>fa-thermometer-1``</p>
+<p><code>:fa-thermometer-quarter: -</code>fa-thermometer-quarter``</p>
+<p><code>:fa-thermometer-0: -</code>fa-thermometer-0``</p>
+<p><code>:fa-thermometer-empty: -</code>fa-thermometer-empty``</p>
+<p><code>:fa-shower: -</code>fa-shower``</p>
+<p><code>:fa-bathtub: -</code>fa-bathtub``</p>
+<p><code>:fa-s15: -</code>fa-s15``</p>
+<p><code>:fa-bath: -</code>fa-bath``</p>
+<p><code>:fa-podcast: -</code>fa-podcast``</p>
+<p><code>:fa-window-maximize: -</code>fa-window-maximize``</p>
+<p><code>:fa-window-minimize: -</code>fa-window-minimize``</p>
+<p><code>:fa-window-restore: -</code>fa-window-restore``</p>
+<p><code>:fa-times-rectangle: -</code>fa-times-rectangle``</p>
+<p><code>:fa-window-close: -</code>fa-window-close``</p>
+<p><code>:fa-times-rectangle-o: -</code>fa-times-rectangle-o``</p>
+<p><code>:fa-window-close-o: -</code>fa-window-close-o``</p>
+<p><code>:fa-bandcamp: -</code>fa-bandcamp``</p>
+<p><code>:fa-grav: -</code>fa-grav``</p>
+<p><code>:fa-etsy: -</code>fa-etsy``</p>
+<p><code>:fa-imdb: -</code>fa-imdb``</p>
+<p><code>:fa-ravelry: -</code>fa-ravelry``</p>
+<p><code>:fa-eercast: -</code>fa-eercast``</p>
+<p><code>:fa-microchip: -</code>fa-microchip``</p>
+<p><code>:fa-snowflake-o: -</code>fa-snowflake-o``</p>
+<p><code>:fa-superpowers: -</code>fa-superpowers``</p>
+<p><code>:fa-wpexplorer: -</code>fa-wpexplorer``</p>
+<p><code>:fa-meetup: -</code>fa-meetup``</p>
                 
                   
                 
