@@ -1095,16 +1095,12 @@
 <p><code>pip install fontawesome-markdown</code></p>
 <hr />
 <h2 id="list-fonts-awesome-icons-working-with-mkdocs">List Fonts Awesome icons working with mkdocs<a class="headerlink" href="#list-fonts-awesome-icons-working-with-mkdocs" title="Permanent link">&para;</a></h2>
-<p>??? Click to reveal! - grep awk linux commands to build this list</p>
-<div class="codehilite"><pre><span></span>`cat font-awesome.css | tr &#39;.&#39; &#39;\n&#39; | grep before | awk -F &quot;:&quot; &#39;{ print &quot;:&quot; $1 &quot;: - `&quot; $1 &quot;` \n&quot; }&#39;`
-
-As I am using the mkdocs-material theme, so the css file with the icons is in this folder `(...python version..)/site-packages/material/assets/fonts`
-</pre></div>
-
-
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>The below list took me quite a while to find in to create. Do you know a better way?</p>
+<details class="success"><summary>Click to reveal command used to create the list below</summary><p><code>cat font-awesome.css | tr '.' '\n' | grep before | awk -F ":" '{ print ":" $1 ": -</code>" $1 "<code>\n" }'</code></p>
+<p>As I am using the mkdocs-material theme, so the css file with the icons is in this folder <code>(...python version..)/site-packages/material/assets/fonts</code></p>
+</details>
+<div class="admonition help">
+<p class="admonition-title">Help</p>
+<p>The below list took me quite a while to find and then to create. Do you know a better way?</p>
 </div>
 <ul>
 <li>
