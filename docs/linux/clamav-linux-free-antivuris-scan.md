@@ -1,6 +1,7 @@
 # Linux Clam AntiVirus ClamAV
 
 ![ClamAV](https://www.clamav.net/assets/clamav-trademark.png)
+
 - clamav's logo
 
 - Runs on AmazonLinux, Linux RedHat, Ubuntu, MacOS, Raspberry Pi, ...
@@ -23,7 +24,7 @@ AmazonLinux, RedHat, CentOS, Fedora - `yum install clamav`
 
 ## Using ClamAV freshclam and clamscn
 
-```sh
+```bash
 
 ## updates anti-virus database engine
 
@@ -36,7 +37,7 @@ freshclam -v
 
 sudo clamscan --infected --remove --recursive=yes .
 
-````
+```
 
 ## brief explanation
 
@@ -46,4 +47,7 @@ sudo clamscan --infected --remove --recursive=yes .
 - `--infected` - only output infected files (unless you also specified the verbose)
 - `--remove`   - removes (deletes) infected detected files
 
-use `man freshclam` or `man clamscan` for the official manual.
+## offical manual command man freshclam man clamscan
+
+use `man freshclam` or `man clamscan` for the official command line manual.
+
