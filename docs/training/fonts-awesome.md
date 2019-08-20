@@ -20,6 +20,30 @@
     
     As I am using the mkdocs-material theme, so the css file with the icons is in this folder `(...python version..)/site-packages/material/assets/fonts`
 
+Using python
+
+```python
+import fontawesome_markdown
+
+fontawesome_markdown.icon_list.icons
+
+('glass',
+ 'music',
+ 'search',
+ 'envelope-o',
+ 'heart',
+ 'star',
+ 'star-o',
+ 'user',
+ 'film',
+ 'th-large',
+ 'th',
+ 'th-list',
+ 'check',
+ (...)
+```
+
+
 
 !!! help
     The below list took me quite a while to find and then to create. Do you know a better way?
