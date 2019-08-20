@@ -13,7 +13,7 @@
         <meta name="description" content="Antonio Cloud, personal website by Antonio Feijao UK, AWS Solutions Architect, technology, aws, python 3, rpi, raspberry pi, linux, open source, security, networking">
       
       
-        <link rel="canonical" href="https://www.antoniocloud.com/linux/linux-find-command/">
+        <link rel="canonical" href="https://www.antoniocloud.com/linux/vim-forgot-sudo-to-save/">
       
       
         <meta name="author" content="Antonio Feijao UK">
@@ -42,7 +42,7 @@
     
     
       
-        <title>Linux find command - Antonio Cloud</title>
+        <title>vim forgot to sudo - Antonio Cloud</title>
       
     
     
@@ -137,7 +137,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#linux-find-command" tabindex="1" class="md-skip">
+      <a href="#vim-forgot-to-sudo" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -162,7 +162,7 @@
               Antonio Cloud
             </span>
             <span class="md-header-nav__topic">
-              Linux find command
+              vim forgot to sudo
             </span>
           
         </div>
@@ -650,20 +650,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-    <a href="./" title="Linux find command" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../linux-find-command/" title="Linux find command" class="md-nav__link">
       Linux find command
     </a>
-    
   </li>
 
         
@@ -695,11 +686,20 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../vim-forgot-sudo-to-save/" title="vim forgot to sudo" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="vim forgot to sudo" class="md-nav__link md-nav__link--active">
       vim forgot to sudo
     </a>
+    
   </li>
 
         
@@ -1035,19 +1035,16 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/edit/master/docs/linux/linux-find-command.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/edit/master/docs/linux/vim-forgot-sudo-to-save.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="linux-find-command">Linux find command<a class="headerlink" href="#linux-find-command" title="Permanent link">&para;</a></h1>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
-<p>Use the flag <code>-exec</code> with care.
-Try the command find without the <code>-exec rm {} \;</code> to see which files are found,</p>
-</div>
-<div class="codehilite"><pre><span></span>find . -type f -name <span class="s1">&#39;desktop.ini&#39;</span> -exec rm <span class="o">{}</span> <span class="se">\;</span>
-
-find . -type f -name <span class="s1">&#39;.DS_Store&#39;</span> -exec rm <span class="o">{}</span> <span class="se">\;</span>
-</pre></div>
+                <h1 id="vim-forgot-to-sudo">vim forgot to sudo<a class="headerlink" href="#vim-forgot-to-sudo" title="Permanent link">&para;</a></h1>
+<p>Forgot to <code>sudo vim</code> before opening the file and now cannot save the file within vim.</p>
+<p>Here is the solution:</p>
+<p><code>:w !sudo tee %</code></p>
+<ul>
+<li>source <a href="https://intelligentbee.com/2017/06/08/save-file-vim-forgetting-use-sudo/">https://intelligentbee.com/2017/06/08/save-file-vim-forgetting-use-sudo/</a></li>
+</ul>
                 
                   
                 
@@ -1060,9 +1057,9 @@ find . -type f -name <span class="s1">&#39;.DS_Store&#39;</span> -exec rm <span 
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = "https://www.antoniocloud.com/linux/linux-find-command/";
+      this.page.url = "https://www.antoniocloud.com/linux/vim-forgot-sudo-to-save/";
       this.page.identifier =
-        "linux/linux-find-command/";
+        "linux/vim-forgot-sudo-to-save/";
     };
     (function() {
       var d = document, s = d.createElement("script");
@@ -1084,7 +1081,7 @@ find . -type f -name <span class="s1">&#39;.DS_Store&#39;</span> -exec rm <span 
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../linux-fail2ban-integration-with-abuseipdb/" title="Linux Fail2Ban" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../linux-what-is-my-ip-ipinfo/" title="Linux Public IP" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -1093,19 +1090,19 @@ find . -type f -name <span class="s1">&#39;.DS_Store&#39;</span> -exec rm <span 
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Linux Fail2Ban
+                Linux Public IP
               </span>
             </div>
           </a>
         
         
-          <a href="../linux-iptables-block-ip/" title="Linux iptables Block abusive IPs" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../../posts/" title="Posts" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Linux iptables Block abusive IPs
+                Posts
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
