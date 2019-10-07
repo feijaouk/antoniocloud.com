@@ -9,6 +9,10 @@ site_url: https://www.antoniocloud/aws/
 
 Official Documentations - <https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/FilterAndPatternSyntax.html>
 
+## Basic sample VPC-flow-logs
+
+- `[version, account, eni, source, destination, srcport, destport="8000", protocol, packets, bytes, windowstart, windowend, action, flowlogstatus]`
+
 ## Basic Expressions Operators
 
 `=`     -- EQUAL
