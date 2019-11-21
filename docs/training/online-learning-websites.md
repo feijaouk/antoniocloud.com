@@ -8,7 +8,7 @@ site_url: https://www.antoniocloud/
 base_url: /training/
 ---
 
-- for AWS training check my other page (aws-online-training)[aws-online-training]
+- for AWS training check my other page [aws-online-training](aws-online-training)
 
 I will continue to update this webpage.
 
