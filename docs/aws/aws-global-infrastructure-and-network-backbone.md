@@ -4,7 +4,8 @@ summary: AWS Infrastructure and Network Backbone to build a global connection.
 authors:
     - Antonio Feijao UK
 date: 2019-06-19
-site_url: https://www.antoniocloud/aws/
+site_url: https://www.antoniocloud/
+base_url: /aws/
 ---
 
 ## AWS Global Infrastructure

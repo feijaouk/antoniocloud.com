@@ -4,7 +4,8 @@ summary: Raspberry Pi transform to run as a router and NAT device
 authors:
     - Antonio Feijao UK
 date: 2019-11-21
-site_url: https://www.antoniofeijao.com
+site_url: https://www.antoniocloud/
+base_url: /raspberry-pi/
 ---
 
 !!! Warning

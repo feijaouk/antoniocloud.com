@@ -42,7 +42,7 @@
     
     
       
-        <title>AWS cli find all ec2 instances in all aws regions - Antonio Cloud</title>
+        <title>AWS cli find all ec2 instances in all aws regions</title>
       
     
     
@@ -136,10 +136,6 @@
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
-    
-      <a href="#aws-cli-find-all-ec2-instances-in-all-aws-regions" tabindex="1" class="md-skip">
-        Skip to content
-      </a>
     
     
       <header class="md-header" data-md-component="header">
@@ -403,8 +399,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../about-antonio/" title="About Antonio" class="md-nav__link">
-      About Antonio
+    <a href="../../about-antonio/" title="About Antonio Feijao UK" class="md-nav__link">
+      About Antonio Feijao UK
     </a>
   </li>
 
@@ -415,8 +411,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../certifications-antonio/" title="Certifications Antonio" class="md-nav__link">
-      Certifications Antonio
+    <a href="../../certifications-antonio/" title="Antonio Feijao UK certification" class="md-nav__link">
+      Antonio Feijao UK certification
     </a>
   </li>
 
@@ -427,8 +423,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../contact-antonio/" title="Contact Antonio" class="md-nav__link">
-      Contact Antonio
+    <a href="../../contact-antonio/" title="Contact Antonio Feijao UK" class="md-nav__link">
+      Contact Antonio Feijao UK
     </a>
   </li>
 
@@ -476,8 +472,6 @@
   <li class="md-nav__item md-nav__item--active">
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
     
     
     <a href="./" title="AWS cli find all ec2 instances in all aws regions" class="md-nav__link md-nav__link--active">
@@ -865,6 +859,18 @@
 
 
   <li class="md-nav__item">
+    <a href="../../python3/python3-http-server/" title="Python3 module http.server" class="md-nav__link">
+      Python3 module http.server
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
     <a href="../../python3/python3-learning/" title="Python 3 learning" class="md-nav__link">
       Python 3 learning
     </a>
@@ -1075,21 +1081,6 @@
               </div>
             
             
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-<nav class="md-nav md-nav--secondary">
-  
-  
-    
-  
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -1098,8 +1089,9 @@
                   <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/edit/master/docs/aws/aws-cli-find-all-instances-in-all-regions.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="aws-cli-find-all-ec2-instances-in-all-aws-regions">AWS cli find all ec2 instances in all aws regions<a class="headerlink" href="#aws-cli-find-all-ec2-instances-in-all-aws-regions" title="Permanent link">&para;</a></h1>
-<p>Lists all ec2 instances in all regions including account owner, instance id, instance type, statues and region.</p>
+                  <h1>AWS cli find all ec2 instances in all aws regions</h1>
+                
+                <p>Lists all ec2 instances in all regions including account owner, instance id, instance type, statues and region.</p>
 <div class="codehilite"><pre><span></span><span class="k">for</span> region in <span class="sb">`</span>aws ec2 describe-regions --output text <span class="p">|</span> cut -f3<span class="sb">`</span><span class="p">;</span> <span class="k">do</span>
     <span class="nb">echo</span> -e <span class="s2">&quot;\nInstances in: &#39;</span><span class="nv">$region</span><span class="s2">&#39;:&quot;</span><span class="p">;</span>
     aws ec2 describe-instances --query <span class="s1">&#39;Reservations[*].Instances[*].[NetworkInterfaces[0].OwnerId, Placement.AvailabilityZone, VpcId, InstanceId, InstanceType, State.Name]&#39;</span> --output text --region <span class="si">${</span><span class="nv">region</span><span class="si">}</span><span class="p">;</span>

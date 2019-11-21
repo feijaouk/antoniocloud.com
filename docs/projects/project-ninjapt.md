@@ -6,7 +6,8 @@ authors:
     - Antonio Feijao UK
 date: 2019-05-22
 blank-value:
-base_url: /
+site_url: https://www.antoniocloud/
+base_url: /projects/
 ---
 
 ## Ninja.pt

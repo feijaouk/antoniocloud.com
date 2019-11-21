@@ -4,7 +4,8 @@ summary: A brief description... summary
 authors:
     - Antonio Feijao UK
 date: 2019-01-24
-some_url: https://www.antoniocloud.com
+site_url: https://www.antoniocloud/
+base_url: /linux/
 ---
 
 Linux iptables, quick, simple and effective way to block an ip address or subnet range.

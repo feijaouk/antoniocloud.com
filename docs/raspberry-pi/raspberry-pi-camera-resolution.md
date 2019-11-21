@@ -4,7 +4,8 @@ summary: Raspberry pi, finding the maximum supported resolution
 authors:
     - Antonio Feijao UK
 date: 2019-06-29
-site_url: https://www.antoniofeijao.com
+site_url: https://www.antoniocloud/
+base_url: /raspberry-pi/
 ---
 
 ## Linux command lsusb
