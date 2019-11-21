@@ -1,6 +1,6 @@
 ---
-title: AWS online cloud training
-summary: AWS online cloud training, list of official and non-official AWS training
+title: AWS online training
+summary: AWS online training, list of official and non-official AWS training
 authors:
     - Antonio Feijao UK
 date: 2019-01-10

@@ -1,5 +1,5 @@
 ---
-title: Training posts
+title: Training
 summary: Antonio Feijao  UK articles page
 authors:
     - Antonio Feijao UK
