@@ -1,4 +1,11 @@
-# Increase the swap memory size
+---
+title: Raspberry Pi increase the swap memory size
+summary: Raspberry Pi increase the swap memory size
+authors:
+    - Antonio Feijao UK
+date: 2019-06-25
+site_url: https://www.antoniofeijao.com
+---
 
 - First edit the swap configuration file
 

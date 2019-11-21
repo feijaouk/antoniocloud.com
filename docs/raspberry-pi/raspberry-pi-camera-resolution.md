@@ -1,4 +1,11 @@
-# Raspberry Pi Maximum Camera resolution
+---
+title: Raspberry Pi Maximum Camera resolution
+summary: Raspberry pi, finding the maximum supported resolution
+authors:
+    - Antonio Feijao UK
+date: 2019-06-29
+site_url: https://www.antoniofeijao.com
+---
 
 ## Linux command lsusb
 
