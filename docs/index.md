@@ -14,7 +14,7 @@ base_url: /
 
 !!! home
     Hi and welcome to my personal website.
-    [Antonio Cloud](https://www.antoniocloud.com/) is my personal website created and maintained by [Antonio Feijao UK](/about-me/).
+    [Antonio Cloud](https://www.antoniocloud.com/) is my personal website created and maintained by [Antonio Feijao UK](/about-antonio/).
 
     I built this website to get hands-on experience and to share some of my personal learnings with others.
 

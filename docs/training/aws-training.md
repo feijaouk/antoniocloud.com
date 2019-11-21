@@ -4,7 +4,8 @@ summary: AWS online cloud training, list of official and non-official AWS traini
 authors:
     - Antonio Feijao UK
 date: 2019-01-10
-some_url: https://www.antoniocloud.com
+site_url: https://www.antoniocloud/
+base_url: /training/
 ---
 
 ## AWS online Learning Library

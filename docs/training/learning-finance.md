@@ -4,7 +4,8 @@ summary: You are responsible for your own finance situation. Ask for finance adv
 authors:
     - Antonio Feijao UK
 date: 2019-01-11
-some_url: https://www.antoniocloud.com
+site_url: https://www.antoniocloud/
+base_url: /training/
 ---
 
 ## Financial learning
