@@ -1,6 +1,6 @@
 ---
-title: Raspberry Pi transform to run as as a router and nat device
-summary: Raspberry Pi transform to run as as a router and nat device
+title: Transform to run as a router and NAT device
+summary: Raspberry Pi transform to run as a router and NAT device
 authors:
     - Antonio Feijao UK
 date: 2019-11-21
@@ -14,7 +14,7 @@ site_url: https://www.antoniofeijao.com
 ## the command below required sudo
 
 echo "-----------------------"
-echo "Update results before..."
+echo "Shows the configs before changes..."
 
 sysctl net.ipv4.ip_forward net.ipv4.conf.eth0.send_redirects
 
@@ -26,13 +26,15 @@ echo "Enabling IPv4 routing packets forward..."
 
 sysctl -q -w net.ipv4.ip_forward=1 net.ipv4.conf.eth0.send_redirects=0
 
+
 echo "-----------------------"
-echo "Enabling PAT..."
+echo "Enabling routing/PAT with ip tables..."
+
 iptables -t nat -C POSTROUTING -o eth0 -j MASQUERADE 2> /dev/null || iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 
 
 echo "-----------------------" 
-echo "Update results after..."
+echo "Show configs after changes..."
 sysctl net.ipv4.ip_forward net.ipv4.conf.eth0.send_redirects
 iptables -n -t nat -L POSTROUTING 
 
