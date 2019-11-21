@@ -42,7 +42,7 @@
     
     
       
-        <title>Raspberry Pi transform to run as as a router and nat device</title>
+        <title>Transform to run as a router and NAT device</title>
       
     
     
@@ -158,7 +158,7 @@
               Antonio Cloud
             </span>
             <span class="md-header-nav__topic">
-              Raspberry Pi transform to run as as a router and nat device
+              Transform to run as a router and NAT device
             </span>
           
         </div>
@@ -918,8 +918,8 @@
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
     
-    <a href="./" title="Raspberry Pi transform to run as as a router and nat device" class="md-nav__link md-nav__link--active">
-      Raspberry Pi transform to run as as a router and nat device
+    <a href="./" title="Transform to run as a router and NAT device" class="md-nav__link md-nav__link--active">
+      Transform to run as a router and NAT device
     </a>
     
   </li>
@@ -1065,7 +1065,7 @@
                   <a href="https://github.com/AntonioFeijaoUK/www.antoniocloud.com/edit/master/docs/raspberry-pi/raspberry-pi-as-a-router-nat.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                  <h1>Raspberry Pi transform to run as as a router and nat device</h1>
+                  <h1>Transform to run as a router and NAT device</h1>
                 
                 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
@@ -1074,7 +1074,7 @@
 <div class="codehilite"><pre><span></span><span class="c1">## the command below required sudo</span>
 
 <span class="nb">echo</span> <span class="s2">&quot;-----------------------&quot;</span>
-<span class="nb">echo</span> <span class="s2">&quot;Update results before...&quot;</span>
+<span class="nb">echo</span> <span class="s2">&quot;Shows the configs before changes...&quot;</span>
 
 sysctl net.ipv4.ip_forward net.ipv4.conf.eth0.send_redirects
 
@@ -1086,13 +1086,15 @@ iptables -n -t nat -L POSTROUTING
 
 sysctl -q -w net.ipv4.ip_forward<span class="o">=</span><span class="m">1</span> net.ipv4.conf.eth0.send_redirects<span class="o">=</span><span class="m">0</span>
 
+
 <span class="nb">echo</span> <span class="s2">&quot;-----------------------&quot;</span>
-<span class="nb">echo</span> <span class="s2">&quot;Enabling PAT...&quot;</span>
+<span class="nb">echo</span> <span class="s2">&quot;Enabling routing/PAT with ip tables...&quot;</span>
+
 iptables -t nat -C POSTROUTING -o eth0 -j MASQUERADE <span class="m">2</span>&gt; /dev/null <span class="o">||</span> iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 
 
 <span class="nb">echo</span> <span class="s2">&quot;-----------------------&quot;</span> 
-<span class="nb">echo</span> <span class="s2">&quot;Update results after...&quot;</span>
+<span class="nb">echo</span> <span class="s2">&quot;Show configs after changes...&quot;</span>
 sysctl net.ipv4.ip_forward net.ipv4.conf.eth0.send_redirects
 iptables -n -t nat -L POSTROUTING 
 
