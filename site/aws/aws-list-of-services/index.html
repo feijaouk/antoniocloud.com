@@ -1091,8 +1091,220 @@
                 
                   <h1>AWS list of services in command line</h1>
                 
-                <p><code>curl https://awspolicygen.s3.amazonaws.com/js/policies.js | sed '1s/[^=]*=//' | jq '[.serviceMap[].StringPrefix]' |
-grep \" | sed 's/\"//g' | sort | uniq</code></p>
+                <p>Simple way to get a list of  AWS Services.
+As of <code>$ date, Tue 26 Nov 2019 18:32:19 GMT</code> there are <code>206</code> service. Checked by using <code>wc -c</code> command at the end of the below script.</p>
+<p><code>curl --silent https://awspolicygen.s3.amazonaws.com/js/policies.js | sed '1s/[^=]*=//' | jq | grep -B1 StringPrefix | grep -v StringPrefix | sed 's/\"//g;s/\-//g;s/: {//g' | grep -v "^$" | sort</code></p>
+<div class="codehilite"><pre><span></span>    <span class="err">AWS</span> <span class="err">Accounts</span>
+    <span class="err">AWS</span> <span class="err">Amplify</span>
+    <span class="err">AWS</span> <span class="err">App</span> <span class="err">Mesh</span>
+    <span class="err">AWS</span> <span class="err">App</span> <span class="err">Mesh</span> <span class="err">Preview</span>
+    <span class="err">AWS</span> <span class="err">AppSync</span>
+    <span class="err">AWS</span> <span class="err">Artifact</span>
+    <span class="err">AWS</span> <span class="err">Auto</span> <span class="err">Scaling</span>
+    <span class="err">AWS</span> <span class="err">Backup</span>
+    <span class="err">AWS</span> <span class="err">Backup</span> <span class="err">storage</span>
+    <span class="err">AWS</span> <span class="err">Batch</span>
+    <span class="err">AWS</span> <span class="err">Billing</span>
+    <span class="err">AWS</span> <span class="err">Budget</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Certificate</span> <span class="err">Manager</span>
+    <span class="err">AWS</span> <span class="err">Certificate</span> <span class="err">Manager</span> <span class="err">Private</span> <span class="err">Certificate</span> <span class="err">Authority</span>
+    <span class="err">AWS</span> <span class="err">Chatbot</span>
+    <span class="err">AWS</span> <span class="err">Cloud</span> <span class="err">Map</span>
+    <span class="err">AWS</span> <span class="err">Cloud</span><span class="mi">9</span>
+    <span class="err">AWS</span> <span class="err">CloudFormation</span>
+    <span class="err">AWS</span> <span class="err">CloudHSM</span>
+    <span class="err">AWS</span> <span class="err">CloudTrail</span>
+    <span class="err">AWS</span> <span class="err">Code</span> <span class="err">Signing</span> <span class="err">for</span> <span class="err">Amazon</span> <span class="err">FreeRTOS</span>
+    <span class="err">AWS</span> <span class="err">CodeBuild</span>
+    <span class="err">AWS</span> <span class="err">CodeCommit</span>
+    <span class="err">AWS</span> <span class="err">CodeDeploy</span>
+    <span class="err">AWS</span> <span class="err">CodePipeline</span>
+    <span class="err">AWS</span> <span class="err">CodeStar</span>
+    <span class="err">AWS</span> <span class="err">CodeStar</span> <span class="err">Notifications</span>
+    <span class="err">AWS</span> <span class="err">Config</span>
+    <span class="err">AWS</span> <span class="err">Cost</span> <span class="err">Explorer</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Cost</span> <span class="err">and</span> <span class="err">Usage</span> <span class="err">Report</span>
+    <span class="err">AWS</span> <span class="err">Data</span> <span class="err">Exchange</span>
+    <span class="err">AWS</span> <span class="err">Database</span> <span class="err">Migration</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">DeepLens</span>
+    <span class="err">AWS</span> <span class="err">DeepRacer</span>
+    <span class="err">AWS</span> <span class="err">Device</span> <span class="err">Farm</span>
+    <span class="err">AWS</span> <span class="err">Direct</span> <span class="err">Connect</span>
+    <span class="err">AWS</span> <span class="err">Directory</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Elastic</span> <span class="err">Beanstalk</span>
+    <span class="err">AWS</span> <span class="err">Elemental</span> <span class="err">MediaConnect</span>
+    <span class="err">AWS</span> <span class="err">Elemental</span> <span class="err">MediaConvert</span>
+    <span class="err">AWS</span> <span class="err">Elemental</span> <span class="err">MediaLive</span>
+    <span class="err">AWS</span> <span class="err">Elemental</span> <span class="err">MediaPackage</span>
+    <span class="err">AWS</span> <span class="err">Elemental</span> <span class="err">MediaPackage</span> <span class="err">VOD</span>
+    <span class="err">AWS</span> <span class="err">Elemental</span> <span class="err">MediaStore</span>
+    <span class="err">AWS</span> <span class="err">Elemental</span> <span class="err">MediaTailor</span>
+    <span class="err">AWS</span> <span class="err">Firewall</span> <span class="err">Manager</span>
+    <span class="err">AWS</span> <span class="err">Global</span> <span class="err">Accelerator</span>
+    <span class="err">AWS</span> <span class="err">Glue</span>
+    <span class="err">AWS</span> <span class="err">Ground</span> <span class="err">Station</span>
+    <span class="err">AWS</span> <span class="err">Health</span> <span class="err">APIs</span> <span class="err">and</span> <span class="err">Notifications</span>
+    <span class="err">AWS</span> <span class="err">IQ</span>
+    <span class="err">AWS</span> <span class="err">IQ</span> <span class="err">Permissions</span>
+    <span class="err">AWS</span> <span class="err">Import</span> <span class="err">Export</span> <span class="err">Disk</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">IoT</span>
+    <span class="err">AWS</span> <span class="err">IoT</span> <span class="mi">1</span><span class="err">Click</span>
+    <span class="err">AWS</span> <span class="err">IoT</span> <span class="err">Analytics</span>
+    <span class="err">AWS</span> <span class="err">IoT</span> <span class="err">Events</span>
+    <span class="err">AWS</span> <span class="err">IoT</span> <span class="err">Greengrass</span>
+    <span class="err">AWS</span> <span class="err">IoT</span> <span class="err">SiteWise</span>
+    <span class="err">AWS</span> <span class="err">IoT</span> <span class="err">Things</span> <span class="err">Graph</span>
+    <span class="err">AWS</span> <span class="err">Key</span> <span class="err">Management</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Lake</span> <span class="err">Formation</span>
+    <span class="err">AWS</span> <span class="err">Lambda</span>
+    <span class="err">AWS</span> <span class="err">License</span> <span class="err">Manager</span>
+    <span class="err">AWS</span> <span class="err">Marketplace</span>
+    <span class="err">AWS</span> <span class="err">Marketplace</span> <span class="err">Catalog</span>
+    <span class="err">AWS</span> <span class="err">Marketplace</span> <span class="err">Entitlement</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Marketplace</span> <span class="err">Image</span> <span class="err">Building</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Marketplace</span> <span class="err">Management</span> <span class="err">Portal</span>
+    <span class="err">AWS</span> <span class="err">Marketplace</span> <span class="err">Metering</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Marketplace</span> <span class="err">Procurement</span> <span class="err">Systems</span> <span class="err">Integration</span>
+    <span class="err">AWS</span> <span class="err">Migration</span> <span class="err">Hub</span>
+    <span class="err">AWS</span> <span class="err">Mobile</span> <span class="err">Hub</span>
+    <span class="err">AWS</span> <span class="err">OpsWorks</span>
+    <span class="err">AWS</span> <span class="err">OpsWorks</span> <span class="err">Configuration</span> <span class="err">Management</span>
+    <span class="err">AWS</span> <span class="err">Organizations</span>
+    <span class="err">AWS</span> <span class="err">Performance</span> <span class="err">Insights</span>
+    <span class="err">AWS</span> <span class="err">Price</span> <span class="err">List</span>
+    <span class="err">AWS</span> <span class="err">Private</span> <span class="err">Marketplace</span>
+    <span class="err">AWS</span> <span class="err">Resource</span> <span class="err">Access</span> <span class="err">Manager</span>
+    <span class="err">AWS</span> <span class="err">Resource</span> <span class="err">Groups</span>
+    <span class="err">AWS</span> <span class="err">RoboMaker</span>
+    <span class="err">AWS</span> <span class="err">SSO</span>
+    <span class="err">AWS</span> <span class="err">SSO</span> <span class="err">Directory</span>
+    <span class="err">AWS</span> <span class="err">Savings</span> <span class="err">Plans</span>
+    <span class="err">AWS</span> <span class="err">Secrets</span> <span class="err">Manager</span>
+    <span class="err">AWS</span> <span class="err">Security</span> <span class="err">Hub</span>
+    <span class="err">AWS</span> <span class="err">Security</span> <span class="err">Token</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Server</span> <span class="err">Migration</span> <span class="err">Service</span>
+    <span class="err">AWS</span> <span class="err">Serverless</span> <span class="err">Application</span> <span class="err">Repository</span>
+    <span class="err">AWS</span> <span class="err">Service</span> <span class="err">Catalog</span>
+    <span class="err">AWS</span> <span class="err">Shield</span>
+    <span class="err">AWS</span> <span class="err">Snowball</span>
+    <span class="err">AWS</span> <span class="err">Step</span> <span class="err">Functions</span>
+    <span class="err">AWS</span> <span class="err">Support</span>
+    <span class="err">AWS</span> <span class="err">Systems</span> <span class="err">Manager</span>
+    <span class="err">AWS</span> <span class="err">Transfer</span> <span class="err">for</span> <span class="err">SFTP</span>
+    <span class="err">AWS</span> <span class="err">Trusted</span> <span class="err">Advisor</span>
+    <span class="err">AWS</span> <span class="err">WAF</span>
+    <span class="err">AWS</span> <span class="err">WAF</span> <span class="err">Regional</span>
+    <span class="err">AWS</span> <span class="err">WellArchitected</span> <span class="err">Tool</span>
+    <span class="err">AWS</span> <span class="err">XRay</span>
+    <span class="err">Alexa</span> <span class="err">for</span> <span class="err">Business</span>
+    <span class="err">Amazon</span> <span class="err">API</span> <span class="err">Gateway</span>
+    <span class="err">Amazon</span> <span class="err">AppStream</span> <span class="mf">2.0</span>
+    <span class="err">Amazon</span> <span class="err">Athena</span>
+    <span class="err">Amazon</span> <span class="err">Chime</span>
+    <span class="err">Amazon</span> <span class="err">Cloud</span> <span class="err">Directory</span>
+    <span class="err">Amazon</span> <span class="err">CloudFront</span>
+    <span class="err">Amazon</span> <span class="err">CloudSearch</span>
+    <span class="err">Amazon</span> <span class="err">CloudWatch</span>
+    <span class="err">Amazon</span> <span class="err">CloudWatch</span> <span class="err">Logs</span>
+    <span class="err">Amazon</span> <span class="err">CloudWatch</span> <span class="err">Synthetics</span>
+    <span class="err">Amazon</span> <span class="err">Cognito</span> <span class="err">Identity</span>
+    <span class="err">Amazon</span> <span class="err">Cognito</span> <span class="err">Sync</span>
+    <span class="err">Amazon</span> <span class="err">Cognito</span> <span class="err">User</span> <span class="err">Pools</span>
+    <span class="err">Amazon</span> <span class="err">Comprehend</span>
+    <span class="err">Amazon</span> <span class="err">Connect</span>
+    <span class="err">Amazon</span> <span class="err">Data</span> <span class="err">Lifecycle</span> <span class="err">Manager</span>
+    <span class="err">Amazon</span> <span class="err">DynamoDB</span>
+    <span class="err">Amazon</span> <span class="err">DynamoDB</span> <span class="err">Accelerator</span> <span class="err">(DAX)</span>
+    <span class="err">Amazon</span> <span class="err">EC</span><span class="mi">2</span>
+    <span class="err">Amazon</span> <span class="err">EC</span><span class="mi">2</span> <span class="err">Auto</span> <span class="err">Scaling</span>
+    <span class="err">Amazon</span> <span class="err">EC</span><span class="mi">2</span> <span class="err">Instance</span> <span class="err">Connect</span>
+    <span class="err">Amazon</span> <span class="err">ElastiCache</span>
+    <span class="err">Amazon</span> <span class="err">Elastic</span> <span class="err">Container</span> <span class="err">Registry</span>
+    <span class="err">Amazon</span> <span class="err">Elastic</span> <span class="err">Container</span> <span class="err">Service</span>
+    <span class="err">Amazon</span> <span class="err">Elastic</span> <span class="err">Container</span> <span class="err">Service</span> <span class="err">for</span> <span class="err">Kubernetes</span>
+    <span class="err">Amazon</span> <span class="err">Elastic</span> <span class="err">File</span> <span class="err">System</span>
+    <span class="err">Amazon</span> <span class="err">Elastic</span> <span class="err">Inference</span>
+    <span class="err">Amazon</span> <span class="err">Elastic</span> <span class="err">MapReduce</span>
+    <span class="err">Amazon</span> <span class="err">Elastic</span> <span class="err">Transcoder</span>
+    <span class="err">Amazon</span> <span class="err">Elasticsearch</span> <span class="err">Service</span>
+    <span class="err">Amazon</span> <span class="err">EventBridge</span>
+    <span class="err">Amazon</span> <span class="err">FSx</span>
+    <span class="err">Amazon</span> <span class="err">Forecast</span>
+    <span class="err">Amazon</span> <span class="err">FreeRTOS</span>
+    <span class="err">Amazon</span> <span class="err">GameLift</span>
+    <span class="err">Amazon</span> <span class="err">Glacier</span>
+    <span class="err">Amazon</span> <span class="err">GroundTruth</span> <span class="err">Labeling</span>
+    <span class="err">Amazon</span> <span class="err">GuardDuty</span>
+    <span class="err">Amazon</span> <span class="err">Inspector</span>
+    <span class="err">Amazon</span> <span class="err">Kinesis</span>
+    <span class="err">Amazon</span> <span class="err">Kinesis</span> <span class="err">Analytics</span>
+    <span class="err">Amazon</span> <span class="err">Kinesis</span> <span class="err">Analytics</span> <span class="err">V</span><span class="mi">2</span>
+    <span class="err">Amazon</span> <span class="err">Kinesis</span> <span class="err">Firehose</span>
+    <span class="err">Amazon</span> <span class="err">Kinesis</span> <span class="err">Video</span> <span class="err">Streams</span>
+    <span class="err">Amazon</span> <span class="err">Lex</span>
+    <span class="err">Amazon</span> <span class="err">Lightsail</span>
+    <span class="err">Amazon</span> <span class="err">MQ</span>
+    <span class="err">Amazon</span> <span class="err">Machine</span> <span class="err">Learning</span>
+    <span class="err">Amazon</span> <span class="err">Macie</span>
+    <span class="err">Amazon</span> <span class="err">Managed</span> <span class="err">Blockchain</span>
+    <span class="err">Amazon</span> <span class="err">Managed</span> <span class="err">Streaming</span> <span class="err">for</span> <span class="err">Kafka</span>
+    <span class="err">Amazon</span> <span class="err">Mechanical</span> <span class="err">Turk</span>
+    <span class="err">Amazon</span> <span class="err">Message</span> <span class="err">Delivery</span> <span class="err">Service</span>
+    <span class="err">Amazon</span> <span class="err">Mobile</span> <span class="err">Analytics</span>
+    <span class="err">Amazon</span> <span class="err">Neptune</span>
+    <span class="err">Amazon</span> <span class="err">Personalize</span>
+    <span class="err">Amazon</span> <span class="err">Pinpoint</span>
+    <span class="err">Amazon</span> <span class="err">Pinpoint</span> <span class="err">Email</span> <span class="err">Service</span>
+    <span class="err">Amazon</span> <span class="err">Pinpoint</span> <span class="err">SMS</span> <span class="err">and</span> <span class="err">Voice</span> <span class="err">Service</span>
+    <span class="err">Amazon</span> <span class="err">Polly</span>
+    <span class="err">Amazon</span> <span class="err">QLDB</span>
+    <span class="err">Amazon</span> <span class="err">QuickSight</span>
+    <span class="err">Amazon</span> <span class="err">RDS</span>
+    <span class="err">Amazon</span> <span class="err">RDS</span> <span class="err">Data</span> <span class="err">API</span>
+    <span class="err">Amazon</span> <span class="err">RDS</span> <span class="err">IAM</span> <span class="err">Authentication</span>
+    <span class="err">Amazon</span> <span class="err">Redshift</span>
+    <span class="err">Amazon</span> <span class="err">Rekognition</span>
+    <span class="err">Amazon</span> <span class="err">Resource</span> <span class="err">Group</span> <span class="err">Tagging</span> <span class="err">API</span>
+    <span class="err">Amazon</span> <span class="err">Route</span> <span class="mi">53</span>
+    <span class="err">Amazon</span> <span class="err">Route</span> <span class="mi">53</span> <span class="err">Resolver</span>
+    <span class="err">Amazon</span> <span class="err">Route</span><span class="mi">53</span> <span class="err">Domains</span>
+    <span class="err">Amazon</span> <span class="err">S</span><span class="mi">3</span>
+    <span class="err">Amazon</span> <span class="err">SES</span>
+    <span class="err">Amazon</span> <span class="err">SNS</span>
+    <span class="err">Amazon</span> <span class="err">SQS</span>
+    <span class="err">Amazon</span> <span class="err">SageMaker</span>
+    <span class="err">Amazon</span> <span class="err">Session</span> <span class="err">Manager</span> <span class="err">Message</span> <span class="err">Gateway</span> <span class="err">Service</span>
+    <span class="err">Amazon</span> <span class="err">Simple</span> <span class="err">Workflow</span> <span class="err">Service</span>
+    <span class="err">Amazon</span> <span class="err">SimpleDB</span>
+    <span class="err">Amazon</span> <span class="err">Storage</span> <span class="err">Gateway</span>
+    <span class="err">Amazon</span> <span class="err">Sumerian</span>
+    <span class="err">Amazon</span> <span class="err">Textract</span>
+    <span class="err">Amazon</span> <span class="err">Transcribe</span>
+    <span class="err">Amazon</span> <span class="err">Translate</span>
+    <span class="err">Amazon</span> <span class="err">WorkDocs</span>
+    <span class="err">Amazon</span> <span class="err">WorkLink</span>
+    <span class="err">Amazon</span> <span class="err">WorkMail</span>
+    <span class="err">Amazon</span> <span class="err">WorkMail</span> <span class="err">Message</span> <span class="err">Flow</span>
+    <span class="err">Amazon</span> <span class="err">WorkSpaces</span>
+    <span class="err">Amazon</span> <span class="err">WorkSpaces</span> <span class="err">Application</span> <span class="err">Manager</span>
+    <span class="err">Application</span> <span class="err">Auto</span> <span class="err">Scaling</span>
+    <span class="err">Application</span> <span class="err">Discovery</span>
+    <span class="err">CloudWatch</span> <span class="err">Application</span> <span class="err">Insights</span>
+    <span class="err">Comprehend</span> <span class="err">Medical</span>
+    <span class="err">Data</span> <span class="err">Pipeline</span>
+    <span class="err">DataSync</span>
+    <span class="err">Database</span> <span class="err">Query</span> <span class="err">Metadata</span> <span class="err">Service</span>
+    <span class="err">Elastic</span> <span class="err">Load</span> <span class="err">Balancing</span>
+    <span class="err">Elastic</span> <span class="err">Load</span> <span class="err">Balancing</span> <span class="err">V</span><span class="mi">2</span>
+    <span class="err">Identity</span> <span class="err">And</span> <span class="err">Access</span> <span class="err">Management</span>
+    <span class="err">Launch</span> <span class="err">Wizard</span>
+    <span class="err">Manage</span> <span class="err">Amazon</span> <span class="err">API</span> <span class="err">Gateway</span>
+    <span class="err">Service</span> <span class="err">Quotas</span>
+</pre></div>
+
+
+<p>other command</p>
+<p><code>curl https://awspolicygen.s3.amazonaws.com/js/policies.js | sed '1s/[^=]*=//' | jq '[.serviceMap[].StringPrefix]' | grep \" | sed 's/\"//g' | sort | uniq</code></p>
                 
                   
                 
