@@ -1100,6 +1100,13 @@
 <li>or use the search bar to search a topic of your choice</li>
 </ul>
 <p>Enjoy and feel free to leave a comment below.</p>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
                 
                   
                 
