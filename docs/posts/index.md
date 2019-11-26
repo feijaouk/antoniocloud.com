@@ -16,12 +16,3 @@ base_url: /posts/
 
 Enjoy and feel free to leave a comment below.
 
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
