@@ -1092,7 +1092,7 @@
                   <h1>AWS list of services in command line</h1>
                 
                 <p>Simple way to get a list of  AWS Services.
-As of <code>$ date, Tue 26 Nov 2019 18:32:19 GMT</code> there are <code>206</code> service. Checked by using <code>wc -c</code> command at the end of the below script.</p>
+As of <code>$ date +%Y-%B-%d, 2019-November-26</code> there are <code>206</code> service. Checked by using <code>wc -c</code> command at the end of the below script.</p>
 <p><code>curl --silent https://awspolicygen.s3.amazonaws.com/js/policies.js | sed '1s/[^=]*=//' | jq | grep -B1 StringPrefix | grep -v StringPrefix | sed 's/\"//g;s/\-//g;s/: {//g' | grep -v "^$" | sort</code></p>
 <div class="codehilite"><pre><span></span>    <span class="err">AWS</span> <span class="err">Accounts</span>
     <span class="err">AWS</span> <span class="err">Amplify</span>
