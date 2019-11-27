@@ -2,7 +2,7 @@
 layout: default
 title: Tags
 permalink: /tags/
-base_url: /antoniocloud
+base_url: /
 ---
 
 {% for tag in site.tags %}

@@ -20,10 +20,10 @@ theme: jekyll-theme-minimal
 #remote_theme: pages-themes/architect
 
 title: Antonio Cloud personal website
-logo: /assets/img/antonio-cloud-logo.jpg
-description: Antonio Cloud personal website
+logo: /assets/img/antonio-feijao-uk-snorkeling.jpg
+description: Antonio Cloud personal website.
     My personal study notes about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python and coding.
-    The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com/) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
+    The opinions expressed here are my own and do not necessarily represent those of current or past employers.
 show_downloads: false
 google_analytics: UA-131227949-1
 #theme: jekyll-theme-minimal

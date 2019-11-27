@@ -1,3 +1,3 @@
-Considering Jekyll for for main website
+Antonio Cloud, Antonio Feijao UK personal website.
 
-<https://antoniofeijaouk.github.io/antoniocloud/>
+<https://www.antoniocloud.com/>
