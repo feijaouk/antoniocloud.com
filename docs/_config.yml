@@ -1,0 +1,29 @@
+# Working out on what theme to use
+
+# verified gitub themes - https://github.com/pages-themes/
+
+#theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-primer
+#theme: jekyll-theme-modernist
+#theme: jekyll-theme-slate
+#theme: jekyll-theme-leap-day
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-time-machine
+#theme: jekyll-theme-tactile
+#theme: jekyll-theme-hacker
+#theme: jekyll-theme-tactile
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-merlot
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-architect
+#remote_theme: pages-themes/architect
+
+title: Antonio Cloud personal website
+logo: /assets/img/antonio-cloud-logo.jpg
+description: Antonio Cloud personal website
+    My personal study notes about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python and coding.
+    The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com/) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
+show_downloads: false
+google_analytics: UA-131227949-1
+#theme: jekyll-theme-minimal
