@@ -2,6 +2,7 @@
 layout: post
 categories: [training, aws]
 tags: [online, training, cloud]
+author_profile: true
 ---
 
 AWS online Learning Library

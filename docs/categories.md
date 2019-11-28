@@ -2,7 +2,7 @@
 layout: default
 title: Categories
 permalink: /categories/
-baseurl: /antoniocloud
+site_url: https://www.antoniocloud/
 ---
 
 {% for category in site.categories %}
