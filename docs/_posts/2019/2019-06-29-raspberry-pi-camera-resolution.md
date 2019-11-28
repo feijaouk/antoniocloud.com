@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Maximum Camera resolution
+layout: post
 summary: Raspberry pi, finding the maximum supported resolution
 authors:
     - Antonio Feijao UK

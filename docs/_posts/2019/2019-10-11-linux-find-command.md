@@ -1,4 +1,8 @@
-# Linux find command
+---
+layout: post
+---
+
+Linux find command
 
 !!! warning
     Use the flag `-exec` with care.

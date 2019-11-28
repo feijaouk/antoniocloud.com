@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Linux iptables Block abusive IPs
 summary: A brief description... summary
 authors:

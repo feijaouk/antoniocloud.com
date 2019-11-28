@@ -1,5 +1,5 @@
 ---
-title: AWS Database Conversion Tool
+layout: post
 summary: AWS Database Conversion Tool
 authors:
     - Antonio Feijao UK

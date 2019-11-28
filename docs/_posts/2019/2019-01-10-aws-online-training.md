@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 categories: [training, aws]
 tags: [online, training, cloud]
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Font Awesome
 summary: Font Awesome
 authors:

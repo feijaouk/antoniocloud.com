@@ -1,6 +1,5 @@
 ---
-layout: default
-baseurl: "/antoniocloud"
+layout: post
 categories [linux, dns]
 tags [linux, dns, bash, shell-scription, block ads]
 ---

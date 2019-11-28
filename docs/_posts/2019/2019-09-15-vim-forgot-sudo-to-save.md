@@ -1,4 +1,8 @@
-# vim forgot to sudo
+---
+layout: post
+---
+
+`vim` forgot to `sudo`
 
 Forgot to `sudo vim` before opening the file and now cannot save the file within vim.
 

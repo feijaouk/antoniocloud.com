@@ -1,4 +1,8 @@
-# vimrc file options
+---
+layout: post
+---
+
+`vimrc` file options
 
 - Remember, if you are using a `colorscheme`, you need to download that scheme. Example, check the link for the
 `happy_hacking`

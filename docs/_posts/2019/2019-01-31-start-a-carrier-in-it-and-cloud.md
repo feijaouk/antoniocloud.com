@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Start a carrier in IT and Cloud
 summary: A brief description... summary
 authors:

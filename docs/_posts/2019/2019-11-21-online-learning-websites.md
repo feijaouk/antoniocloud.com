@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Online learning websites
 summary: Selection of online training websites for programming, coding, linux, mac, github, math
 authors:
@@ -8,7 +9,7 @@ site_url: https://www.antoniocloud/
 base_url: /training/
 ---
 
-- for AWS training check my other page [aws-online-training](aws-online-training)
+AWS training check my other page [aws-online-training](aws-online-training)
 
 I will continue to update this webpage.
 

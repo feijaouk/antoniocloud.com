@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Learning Finance
 summary: You are responsible for your own finance situation. Ask for finance advice from a specialist or professional.
 authors:

@@ -1,5 +1,5 @@
 ---
-title: AWS Networking Transit Gateway to VPC
+layout: post
 summary: aws-transit-gateway-to-vpc
 authors:
     - Antonio Feijao UK

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: S3 cp sync exclude include
 summary: S3 cp sync exclude include
 authors:
