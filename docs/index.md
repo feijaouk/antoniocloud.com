@@ -6,16 +6,17 @@ base_url: https://www.antoniocloud.com
 author_profile: true
 ---
 
-Antonio Cloud personal website.
-    My personal study notes about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python and coding.
-    The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://linkedin.com/in/antoniofeijaouk/).
+Antonio Cloud personal website. Personal notes about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python and coding. *The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://linkedin.com/in/antoniofeijaouk/)*.
 
-- [About](/about/)
-- [Posts](/posts/)
-- [Categories](/categories/)
-- [Tags](/tags/)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
+
+
+List of [Posts](/posts/) on this page | Or list by [Categories](/categories/) or [Tags](/tags/)
+
+[About](/about/)
 
 ---
+
 ## Antonio Cloud blog posts
 
 <ul>
