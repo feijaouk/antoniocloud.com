@@ -8,6 +8,8 @@ site_url: https://www.antoniocloud/
 base_url: /raspberry-pi/
 ---
 
+Raspberry Pi increase the swap memory size
+
 - First edit the swap configuration file
 
 Change the size for your preference, Default is `100`, (100MB)

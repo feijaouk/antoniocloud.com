@@ -1,9 +1,8 @@
 ---
 layout: post
-base_url: "/antoniocloud"
 ---
 
-# Github git basic commands
+Github git basic commands
 
 Some basic git command and working with ssh keys to update the repository
 

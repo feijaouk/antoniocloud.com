@@ -10,7 +10,7 @@ site_url: https://www.antoniocloud/
 base_url: /projects/
 ---
 
-## Ninja.pt
+Ninja.pt
 
 Recovery and decoupling of Linux Centos with MySQL Database and WikiMedia articles.
 

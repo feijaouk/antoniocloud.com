@@ -9,7 +9,7 @@ site_url: https://www.antoniocloud/
 base_url: /training/
 ---
 
-## Internet Assigned Numbers Authority (IANA)
+Internet Assigned Numbers Authority (IANA)
 
 ![iana.org](https://www.iana.org/_img/2015.1/iana-logo-homepage.svg)
 - iana.org's logo

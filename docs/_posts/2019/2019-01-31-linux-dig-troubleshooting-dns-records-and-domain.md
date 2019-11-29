@@ -9,6 +9,6 @@ site_url: https://www.antoniocloud/
 base_url: /linux/
 ---
 
-## Sample usage of Linux dig command for dns troubleshooting
+Sample usage of Linux dig command for dns troubleshooting
 
 `dig DOMAIN RECORD-TYPE @DNS-SERVER`

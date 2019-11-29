@@ -9,7 +9,7 @@ site_url: https://www.antoniocloud/
 base_url: /training/
 ---
 
-## Fonts Awesome install
+Fonts Awesome install
 
 - [https://pypi.org/project/fontawesome-markdown/](https://pypi.org/project/fontawesome-markdown/)
 

@@ -2,6 +2,8 @@
 layout: post
 ---
 
+vimrc file options
+
 `vimrc` file options
 
 - Remember, if you are using a `colorscheme`, you need to download that scheme. Example, check the link for the

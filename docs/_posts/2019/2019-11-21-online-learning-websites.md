@@ -9,7 +9,7 @@ site_url: https://www.antoniocloud/
 base_url: /training/
 ---
 
-AWS training check my other page [aws-online-training](aws-online-training)
+AWS is on another page
 
 I will continue to update this webpage.
 

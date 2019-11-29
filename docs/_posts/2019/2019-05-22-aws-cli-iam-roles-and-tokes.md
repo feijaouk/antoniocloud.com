@@ -11,6 +11,8 @@ site_url: https://www.antoniocloud/
 base_url: /aws/
 ---
 
+AWS cli IAM roles and tokens
+
 ```bash
 
 aws sts assume-role --role-arn arn:aws:iam::ACCOUNT-NUMBER:role/ROLE-NAME --role-session-name "RoleSession1" | \

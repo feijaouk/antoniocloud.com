@@ -8,7 +8,7 @@ site_url: https://www.antoniocloud/
 base_url: /aws/
 ---
 
-## AWS Global Infrastructure
+AWS Global Infrastructure
 
 * [https://infrastructure.aws/](https://infrastructure.aws/)
 > "The Most Extensive, Reliable and Secure Global Cloud Infrastructure Available. See how we do it."

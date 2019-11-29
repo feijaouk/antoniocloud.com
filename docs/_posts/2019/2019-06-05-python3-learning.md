@@ -8,7 +8,7 @@ site_url: https://www.antoniocloud/
 base_url: /python3/
 ---
 
-## Python 3 learning for the first time
+Python 3 learning for the first time
 
 I have a background in `shell scripting`, so when I had to automate something, `bash scripting` would do the job just fine!
 

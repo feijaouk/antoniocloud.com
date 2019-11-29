@@ -9,8 +9,7 @@ site_url: https://www.antoniocloud/
 base_url: /linux/
 ---
 
-
-## making the internet safer, one IP at a time
+Making the internet safer, one IP at a time
 
 ## Integrating AbuseIPDB with Fail2Ban - Automatically Report Bad IPs
 

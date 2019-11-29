@@ -8,7 +8,7 @@ site_url: https://www.antoniocloud/
 base_url: /raspberry-pi/
 ---
 
-## Linux command lsusb
+Linux command lsusb
 
 ```bash
 

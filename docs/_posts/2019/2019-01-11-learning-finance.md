@@ -9,6 +9,6 @@ site_url: https://www.antoniocloud/
 base_url: /training/
 ---
 
-## Financial learning
+Financial learning
 
 * <https://www.youtube.com/user/RealEstateTrainingTF/videos>

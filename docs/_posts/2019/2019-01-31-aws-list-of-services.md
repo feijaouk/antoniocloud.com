@@ -1,6 +1,5 @@
 ---
 layout: post
-layout: post
 title: AWS list of services in command line
 summary: AWS list of services in command line
 authors:

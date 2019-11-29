@@ -8,7 +8,7 @@ site_url: https://www.antoniocloud/
 base_url: /raspberry-pi/
 ---
 
-## Stranger Things Alphabet Wall Lights with Raspberry PI Python 3 and Neopixels
+Stranger Things Alphabet Wall Lights with Raspberry PI Python 3 and Neopixels
 
 It all started with the launch of Stranger Things Season 3.
 
