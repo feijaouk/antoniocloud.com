@@ -38,14 +38,14 @@ base_url: /
 [5]: /assets/img/Antonio-Feijao-AWS-Certified-Solutions-Architect-Associate.png#thumbnail "Antonio Feijao UK, aws-certified-solutions-architect-associate-certificate"
 [6]: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650
 
-[7]: ima/assets/imgges/Antonio-Feijao-AWS-Certified-Developer-Associate.png#thumbnail "Antonio Feijao UK, aws-certified-developer-associate-certificate"
+[7]: /assets/img/Antonio-Feijao-AWS-Certified-Developer-Associate.png#thumbnail "Antonio Feijao UK, aws-certified-developer-associate-certificate"
 [8]: https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-01-29&ci=AWS00280650
 
 [9]: /assets/img/Antonio-Feijao-AWS-Certified-SysOps-Administrator-Associate.png#thumbnail "Antonio Feijao UK, aws-certified-sysops-administrator-associate-certificate"
 [10]: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-11-21&ci=AWS00280650
 
 
-[11]: im/assets/imgages/Antonio-Feijao-AWS-Certified-Cloud-Practitioner.png#thumbnail "Antonio Feijao UK, AWS Certified Cloud Practitioner"
+[11]: /assets/img/Antonio-Feijao-AWS-Certified-Cloud-Practitioner.png#thumbnail "Antonio Feijao UK, AWS Certified Cloud Practitioner"
 [12]: https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-02-25&ci=AWS00280650
 
 ---
