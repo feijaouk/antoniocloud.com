@@ -11,9 +11,9 @@ Antonio Cloud personal website. Personal notes about AWS Cloud, Linux, Networkin
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
 
 
-Check my **[Posts](/pages/posts/)** Or list by **[Categories](/pages/categories/)** or **[Tags](/pages/tags/)**
+Check my **[Posts](/posts/)** Or list by **[Categories](/categories/)** or **[Tags](/tags/)**
 
-[About Antonio](/pages/about/) && [Antonio Certifications](/pages/certifications/)
+[About Antonio](/about/) && [Antonio Certifications](/certifications/)
 
 ---
 
