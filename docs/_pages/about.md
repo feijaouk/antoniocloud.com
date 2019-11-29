@@ -3,10 +3,9 @@ layout: default
 title: About
 permalink: /about/
 site_url: https://www.antoniocloud/
-base_url: /
 ---
 
-![Antonio Feijao UK](/images/Antonio-Feijao-cover-photo.jpg)
+![Antonio Feijao UK](/assets/img/Antonio-Feijao-cover-photo.jpg)
 
 ## Connect
 
@@ -22,29 +21,29 @@ In highschool I followed the technologies path where I learned the fundamentals 
 
 Then, I the pursued a 5 years University degree in [Electronics and Telecommunications Engineering](https://www.isel.pt/en/courses/master-degree/eletronis-and-telecommunications-engineering).
 
-I did learn a lot but was very difficult for me after second here. I had minor background in Electronics.
+I did learn a lot but was very difficult for me after second year. I only had a minor background in Electronics.
 
-Never give up!
+**Never give up!**
 
 So, to improve my electronics skills, while studying at the University, I also enrolled in a 3 years part-time night course in **"Telecommunications and Networking Specialization"**.
 
-The private school was called "Forino", but since then has renamed to [CINEL](https://www.cinel.pt/appv2/O-CINEL/Certificacoes).
+The private school was called "Forino", but since then, it changed the name to [CINEL](https://www.cinel.pt/appv2/O-CINEL/Certificacoes).
 
 It was here that I found my passion for **Networking**. I was a student at Cisco Network Academy for 1.5 years [Cisco NetAcad](https://www.netacad.com/).
 
-After passion my CCNA Routing and Switching Cisco Exam, I got a job offer at [Unisys](https://www.unisys.com/) as a Security Consultant and [Penetration tester](https://en.wikipedia.org/wiki/Penetration_test).
+After successfully pass my CCNA Routing and Switching Cisco Exam, I got a job offer at [Unisys](https://www.unisys.com/) as a Security Consultant and [Penetration tester](https://en.wikipedia.org/wiki/Penetration_test).
 
 I was trained in many areas os security!
 
 Here, I found another passion, **Security**! I learn best practices, tweaking and hardening configurations configurations, Windows, Linux and Networking.
 
-I learned so much I! I actually like to learn new things every day.
+I learned so much here! I actually like to learn new things every day.
 
 As a Security Consultant, I worked with the largest organizations in Portugal in Finance, Banking.
 
 ### Luanda Angola
 
-After 1 year experience as a Security Consultant, I was assigned to a 3 years project in Africa, Angola, City of Luanda - Minister of Defence.
+After 1 year experience as a Security Consultant, I was assigned to a 3 years project in Africa, Angola, City of Luanda, at the Minister of Defence.
 
 Hand-on work, assembling racks and data centre equipment, and yes it had servers, cables, networking devices. This took about 1 months.
 
@@ -74,13 +73,13 @@ I meet amazing people during my stay in Angola.
 
 ### London United Kingdom
 
-After this project, I went back to Portugal. I had learned so much in the past 5 years, but I wanted more.
+After this project, I went back to Portugal. I learned so much in the past 5 years, but I wanted more.
 
 Most of the technical documentation was in English. In some occasions, I had to engage with the Cisco support. I had the feeling that sometimes I was struggling with the English language.
 
 (...)
 
-Fast forwarding, that is why I moved to England.
+Fast forwarding, that is why I moved to England, to work, live and improve the english language.
 
 Living in London, United Kingdom, working as `Solutions Architect` for [AWS](https://aws.amazon.com).
 
