@@ -3,12 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-About Antonio Feijao UK
+# About Antonio Feijao UK
 ![Antonio Feijao UK](/assets/images/Antonio-Feijao-cover-photo.jpg)
 
 ## Connect
 
-:fa-linkedin: [AntonioFeijaoUK](https://www.linkedin.com/in/antoniofeijaouk/) | :fa-github:   [AntonioFeijaoUK](https://github.com/antoniofeijaouk/) | :fa-twitter:  [AntonioFeijaoUK](https://twitter.com/antoniofeijaouk) | :fa-instagram:[AntonioFeijaoUK](https://www.instagram.com/AntonioFeijaoUK/)
+'fas fa-linkedin' [AntonioFeijaoUK](https://www.linkedin.com/in/antoniofeijaouk/) | 'fas fa-github'   [AntonioFeijaoUK](https://github.com/antoniofeijaouk/) | 'fas fa-twitter'  [AntonioFeijaoUK](https://twitter.com/antoniofeijaouk) | ' fas fa-instagram'[AntonioFeijaoUK](https://www.instagram.com/AntonioFeijaoUK/)
+
+---
 
 ## My background story
 
