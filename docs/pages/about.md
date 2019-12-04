@@ -1,8 +1,6 @@
 ---
-layout: default
-title: About
 permalink: /about/
-site_url: https://www.antoniocloud/
+title: "About"
 ---
 
 ![Antonio Feijao UK](/assets/img/Antonio-Feijao-cover-photo.jpg)

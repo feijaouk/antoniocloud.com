@@ -1,27 +1,119 @@
-# Working out on what theme to use
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# verified gitub themes - https://github.com/pages-themes/
-
-#theme: jekyll-theme-dinky
-theme: jekyll-theme-minimal
-#theme: jekyll-theme-primer
-#theme: jekyll-theme-modernist
-#theme: jekyll-theme-slate
-#theme: jekyll-theme-leap-day
-#theme: jekyll-theme-cayman
-#theme: jekyll-theme-time-machine
-#theme: jekyll-theme-tactile
-#theme: jekyll-theme-hacker
-#theme: jekyll-theme-tactile
-#theme: jekyll-theme-midnight
-#theme: jekyll-theme-merlot
-#theme: jekyll-theme-midnight
-#theme: jekyll-theme-architect
-#remote_theme: pages-themes/architect
-
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Antonio Cloud personal website
-logo: /assets/img/antonio-feijao-uk-logo.jpg
-description: Antonio Cloud personal website. Personal notes about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python and coding. The opinions expressed here are my own and do not necessarily represent those of current or past employers.
+email: antoniofeijao@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Antonio Cloud personal website. Personal notes about AWS Cloud, Linux,
+  Networking, Raspberry PI, Cyber Security, Python and coding.
+  The opinions expressed here are my own and do not necessarily represent those of current or past employers.
+twitter_username: AntonioFeijaoUK
+github_username: AntonioFeijaoUK
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Antonio Feijao UK"
+  avatar : "/assets/img/antonio-feijao-uk-logo.jpg"
+  bio    : "Passionate about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python and coding. The opinions expressed here are my own and do not necessarily represent those of current or past employers."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.antoniocloud.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AntonioFeijaoUK"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AntonioFeijaoUK"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/AntonioFeijaoUK"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AntonioFeijaoUK"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AntonioFeijaoUK"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/AntonioFeijaoUK"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
 show_downloads: false
 google_analytics: UA-131227949-1
-#theme: jekyll-theme-minimal
+
