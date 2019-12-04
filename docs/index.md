@@ -6,18 +6,19 @@ layout: home
 author_profile: true
 ---
 
-# Antonio Cloud owned and maintained by Antonio Feijao UK
+> Antonio Cloud owned and maintained by Antonio Feijao UK
 
 ## Disclaimer
 
-> [AntonioCloud.com](https://www.antoniocloud.com) is a personal website.
-> The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
+[AntonioCloud.com](https://www.antoniocloud.com) is a personal website.
+
+The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
 
 ---
 
 ## Buy me a coffee
 
-I update this page during my personal time. If you found anything that helped you, or you just want to make me happy,  and support me, feel free to buy me a drink.
+I update this page during my personal time. If you found anything that helped you, or you just want to support me, them buy me a drink :)
 
 You will make me happy and will motivate me to write more content :)
 

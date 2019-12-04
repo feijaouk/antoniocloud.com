@@ -8,7 +8,7 @@ title: "About"
 
 ## Connect
 
-'fas fa-linkedin' [AntonioFeijaoUK](https://www.linkedin.com/in/antoniofeijaouk/) | 'fas fa-github'   [AntonioFeijaoUK](https://github.com/antoniofeijaouk/) | 'fas fa-twitter'  [AntonioFeijaoUK](https://twitter.com/antoniofeijaouk) | ' fas fa-instagram'[AntonioFeijaoUK](https://www.instagram.com/AntonioFeijaoUK/)
+<i class="fas fa-linkedin">[AntonioFeijaoUK](https://www.linkedin.com/in/antoniofeijaouk/) | <i class="fas fa-github">[AntonioFeijaoUK](https://github.com/antoniofeijaouk/) | <i class="fas fa-twitter">[AntonioFeijaoUK](https://twitter.com/antoniofeijaouk) | <i class="fas fa-instagram">[AntonioFeijaoUK](https://www.instagram.com/AntonioFeijaoUK/)
 
 ---
 
