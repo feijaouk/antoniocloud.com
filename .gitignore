@@ -107,5 +107,4 @@ venv.bak/
 .DS_Store
 
 # local backups
-_bk01/
-_bk02_mkdocs/
+
