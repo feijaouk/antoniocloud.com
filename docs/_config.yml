@@ -115,5 +115,18 @@ tag_archive:
   path: /tags/
 
 show_downloads: false
-google_analytics: UA-131227949-1
 
+
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#comments
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "antoniocloud"
+    
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-131227949-1"
+    anonymize_ip: false # default
