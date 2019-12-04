@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Antonio Feijao UK"
-  avatar : "/assets/img/antonio-feijao-uk-logo.jpg"
+  avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
   bio    : "Passionate about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python and coding. The opinions expressed here are my own and do not necessarily represent those of current or past employers."
   links:
     - label: "Website"
