@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: https://www.antoniocloud.com/
   - title: "Posts"
     url: /posts/
   - title: "Categories"

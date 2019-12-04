@@ -6,67 +6,72 @@ layout: home
 author_profile: true
 ---
 
-Antonio Cloud personal website.
-
-Personal notes about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python and coding.
-
-**The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://linkedin.com/in/antoniofeijaouk/)**.
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
-
-
-Check my **[Posts](/posts/)** Or list by **[Categories](/categories/)** or **[Tags](/tags/)**
-
-[About Antonio](/about/) && [Antonio Certifications](/certifications/)
-
----
-
-## Home
-
-!!! home
-    Hi and welcome to my personal website.
-    [Antonio Cloud](https://www.antoniocloud.com/) is my personal website created and maintained by [Antonio Feijao UK](/about-antonio/).
-
-    I built this website to get hands-on experience and to share some of my personal learnings with others.
-
-    I am passionate about technology in general and I will use this page to share learnings with you and possible create positive discussions where I can learn from you too.
+# Antonio Cloud owned and maintained by Antonio Feijao UK
 
 ## Disclaimer
 
-!!! Disclaimer
-    [AntonioCloud.com](https://www.antoniocloud.com) is a personal website.
-    
-    The opinions expressed here are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
+> [AntonioCloud.com](https://www.antoniocloud.com) is a personal website.
+> The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
 
-![Antonio Feijao UK snorkeling](images/antonio-feijao-uk-snorkeling.jpg)
+---
+
+## Buy me a coffee
+
+I update this page during my personal time. If you found anything that helped you, or you just want to make me happy,  and support me, feel free to buy me a drink.
+
+You will make me happy and will motivate me to write more content :)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
+
+[https://monzo.me/AntonioFeijaoUK](https://monzo.me/antoniofeijaouk)
+
+[https://www.paypal.me/FeijaoUK](https://www.paypal.me/feijaouk)
+
+---
+
+## Welcome
+
+![Antonio Feijao UK snorkeling](/assets/images/antonio-feijao-uk-snorkeling.jpg)
+
+Welcome to [AntonioCloud.com](https://www.antoniocloud.com).
+
+In this website you will find **Antonio Feijao UK**'s personal notes about AWS Cloud, Linux, Networking, Raspberry-Pi, Cyber-Security, Python3 and coding.
+
+I built this website to get hands-on experience and to share some of my personal learnings with others.
+
+I am passionate about technology in general and I will use this page to share learnings with you and possible create positive discussions where I can learn from you too.
+
+---
+
+## Content
+
+Here you find list of **[Posts](/posts/)** or list of **[posts by categories](/categories/)** or list of **[post by tags](/tags/)**
+
+---
+
+## About Antonio
+
+Here you find more [About Antonio Feijao UK](/about/).
+
+---
+
+## Antonio Certifications
+
+Here I have a list of current [Antonio Feijao UK certifications](/certifications/).
+
+---
 
 ## Albert Einstein
 
-You will find some quotes about [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) my website.
+On this page you might find  quotes about [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found many of them inspirational and believe in them.
 
-!!! quote
-    The only source of knowledge is experience.
-    
-    by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
+> The only source of knowledge is experience.
 
-## Buy me a drink
+by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
-Buy-me-a-drink
-    This is a personal website and opinions expressed are mine.
-    
-    I build this page during my own personal time and if you found any information on my page that helped you, or you just want to make me happy, feel free to buy me a drink.
-    
-    You will make me happy and will motivate me to write more content :)
-    
-    [https://monzo.me/AntonioFeijaoUK](https://monzo.me/antoniofeijaouk)
-    
-    [https://www.paypal.me/FeijaoUK](https://www.paypal.me/feijaouk)
-    
-    Thank you!
+---
 
-
-
-## Antonio Cloud blog posts
+## List of post at Antonio Cloud
 
 <ul>
   {% for post in site.posts %}
@@ -76,5 +81,3 @@ Buy-me-a-drink
     </li>
   {% endfor %}
 </ul>
-
----
