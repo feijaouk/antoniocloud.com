@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux Fail2Ban
 summary: A brief description... summary
 authors:

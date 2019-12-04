@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux dig dns records
 summary: A brief description... summary
 authors:

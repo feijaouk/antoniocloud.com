@@ -1,5 +1,4 @@
 ---
-layout: post
 title: dns root zone database
 summary: dns root zone database
 authors:

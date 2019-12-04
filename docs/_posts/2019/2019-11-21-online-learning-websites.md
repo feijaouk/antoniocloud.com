@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Online learning websites
 summary: Selection of online training websites for programming, coding, linux, mac, github, math
 authors:

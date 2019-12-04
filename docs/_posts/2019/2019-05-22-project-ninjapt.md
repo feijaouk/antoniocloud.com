@@ -1,5 +1,4 @@
 ---
-layout: post
 description: Recovery and decoupling of Linux Centos with MySQL Database and WikiMedia articles.
 summary: 
 authors:

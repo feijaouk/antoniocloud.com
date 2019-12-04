@@ -1,5 +1,4 @@
 ---
-layout: post
 summary: AWS CloudWatch logs CloudTrail logs and filters examples
 authors:
     - Antonio Feijao UK

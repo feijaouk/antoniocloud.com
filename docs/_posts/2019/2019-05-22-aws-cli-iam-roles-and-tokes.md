@@ -1,5 +1,4 @@
 ---
-layout: post
 categories: [blog, travel]
 tags: [hot, summer]
 title: AWS cli IAM roles and tokens

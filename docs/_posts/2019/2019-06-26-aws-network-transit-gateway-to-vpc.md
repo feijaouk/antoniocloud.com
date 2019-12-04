@@ -1,5 +1,4 @@
 ---
-layout: post
 summary: aws-transit-gateway-to-vpc
 authors:
     - Antonio Feijao UK

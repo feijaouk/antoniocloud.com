@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 Linux find command

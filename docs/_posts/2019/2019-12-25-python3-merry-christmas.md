@@ -1,5 +1,4 @@
 ---
-layout: post
 categories: [python, christmas]
 tags: [python3, christmas, coding]
 ---

@@ -1,7 +1,6 @@
 ---
-layout: post
-categories [linux, dns]
-tags [linux, dns, bash, shell-scription, block ads]
+categories: [linux, dns]
+tags: [linux, dns, bash, shell-script, block ads]
 ---
 
 

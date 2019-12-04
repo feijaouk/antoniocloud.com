@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 
 Github git basic commands

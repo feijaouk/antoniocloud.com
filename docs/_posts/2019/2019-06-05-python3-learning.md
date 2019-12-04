@@ -1,5 +1,4 @@
 ---
-layout: post
 summary: Python 3 and how I learn to code in Python 3 by doing something useful and fun
 authors:
     - Antonio Feijao UK

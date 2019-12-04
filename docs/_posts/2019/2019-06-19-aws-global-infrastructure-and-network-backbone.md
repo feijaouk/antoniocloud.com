@@ -1,5 +1,4 @@
 ---
-layout: post
 summary: AWS Infrastructure and Network Backbone to build a global connection.
 authors:
     - Antonio Feijao UK

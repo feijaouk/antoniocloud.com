@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux Public IP
 summary: A brief description... summary
 authors:
