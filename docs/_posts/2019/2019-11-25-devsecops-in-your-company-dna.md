@@ -1,8 +1,12 @@
 ---
-title: DevSecOps
-categories: [aws, reinvent, security]
-tags: [aws, devsecops, coding, reinvent]
-base_url: /antoniocloud
+categories:
+    - AWS
+    - Security
+tags:
+    - AWS
+    - DevSecOPs
+    - Coding
+    - Reinvent
 ---
 
 Devsecops in-your-company-dna

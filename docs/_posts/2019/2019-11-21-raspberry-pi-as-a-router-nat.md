@@ -1,11 +1,13 @@
 ---
-title: Transform to run as a router and NAT device
-summary: Raspberry Pi transform to run as a router and NAT device
-authors:
-    - Antonio Feijao UK
-date: 2019-11-21
-site_url: https://www.antoniocloud/
-base_url: /raspberry-pi/
+categories:
+    - Blog
+    - Linux
+    - Raspberry PI
+    - Networking
+tags:
+    - Linux
+    - Raspberry PI
+    - Networking
 ---
 
 Transform to run as a router and NAT device

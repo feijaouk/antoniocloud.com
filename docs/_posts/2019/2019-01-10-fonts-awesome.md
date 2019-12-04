@@ -1,11 +1,5 @@
 ---
-title: Font Awesome
-summary: Font Awesome
-authors:
-    - Antonio Feijao UK
-date: 2019-01-10
-site_url: https://www.antoniocloud/
-base_url: /training/
+
 ---
 
 Fonts Awesome install

@@ -1,5 +1,5 @@
 ---
-layout: default
+
 ---
 
 A quick and simple way to start a webserver on the current directory `Python3` module `http.server`

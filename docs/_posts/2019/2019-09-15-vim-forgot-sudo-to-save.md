@@ -1,5 +1,5 @@
 ---
-layout: default
+
 ---
 
 vim and forgot to sudo and now?

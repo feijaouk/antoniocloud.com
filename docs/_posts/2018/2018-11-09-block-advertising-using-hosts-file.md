@@ -1,10 +1,16 @@
 ---
-categories: [linux, dns]
-tags: [linux, dns, bash, shell-script, block ads]
+categories:
+    - Linux
+    - DNS
+tags:
+    - Linux
+    - DNS
+    - bash
+    - shell-scripting
+    - block advertising
 ---
 
-
-# Blocking advertising and pops using hosts file
+Blocking advertising and pops using hosts file
 
 Full script file on github [block-ads-v3.sh](https://github.com/AntonioFeijaoUK/www.antoniocloud.com/blob/master/docs/linux/block-ads-v3.sh)
 

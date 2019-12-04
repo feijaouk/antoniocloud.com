@@ -1,11 +1,5 @@
 ---
-title: AWS cli find all ec2 instances in all aws regions
-summary: AWS cli find all ec2 instances in all aws regions
-authors:
-    - Antonio Feijao UK
-date: 2019-05-22
-site_url: https://www.antoniocloud/
-base_url: /
+
 categories: [blog]
 tags: [aws, ec2, command-line]
 ---

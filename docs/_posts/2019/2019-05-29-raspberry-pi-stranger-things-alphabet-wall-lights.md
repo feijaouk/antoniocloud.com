@@ -1,10 +1,5 @@
 ---
-summary: Stranger Things Alphabet Wall Lights with Raspberry PI Python 3 and Neopixels
-authors:
-    - Antonio Feijao UK
-date: 2019-05-29
-site_url: https://www.antoniocloud/
-base_url: /raspberry-pi/
+
 ---
 
 Stranger Things Alphabet Wall Lights with Raspberry PI Python 3 and Neopixels

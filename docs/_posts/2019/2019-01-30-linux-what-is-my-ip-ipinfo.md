@@ -1,11 +1,5 @@
 ---
-title: Linux Public IP
-summary: A brief description... summary
-authors:
-    - Antonio Feijao UK
-date: 2019-01-30
-site_url: https://www.antoniocloud/
-base_url: /linux/
+
 ---
 
 Linux Public IP

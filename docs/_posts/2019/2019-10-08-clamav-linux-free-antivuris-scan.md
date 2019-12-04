@@ -1,5 +1,5 @@
 ---
-layout: default
+
 ---
 
 Linux Clam AntiVirus ClamAV

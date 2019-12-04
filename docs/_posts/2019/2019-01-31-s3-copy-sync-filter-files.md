@@ -1,11 +1,5 @@
 ---
-title: S3 cp sync exclude include
-summary: S3 cp sync exclude include
-authors:
-    - Antonio Feijao UK
-date: 2019-01-31
-site_url: https://www.antoniocloud/
-base_url: /aws/
+
 ---
 
 S3 cp sync exclude include

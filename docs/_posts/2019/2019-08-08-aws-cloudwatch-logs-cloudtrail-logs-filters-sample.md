@@ -1,10 +1,5 @@
 ---
-summary: AWS CloudWatch logs CloudTrail logs and filters examples
-authors:
-    - Antonio Feijao UK
-date: 2019-08-08
-site_url: https://www.antoniocloud/
-base_url: /antoniocloud/
+
 ---
 
 AWS CloudWatch logs CloudTrail logs and filters examples

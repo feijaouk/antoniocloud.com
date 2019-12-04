@@ -1,10 +1,5 @@
 ---
-summary: Python 3 and how I learn to code in Python 3 by doing something useful and fun
-authors:
-    - Antonio Feijao UK
-date: 2019-06-05
-site_url: https://www.antoniocloud/
-base_url: /python3/
+
 ---
 
 Python 3 learning for the first time

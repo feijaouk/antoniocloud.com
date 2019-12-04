@@ -1,11 +1,5 @@
 ---
-title: dns root zone database
-summary: dns root zone database
-authors:
-    - Antonio Feijao UK
-date: 2019-01-10
-site_url: https://www.antoniocloud/
-base_url: /training/
+
 ---
 
 Internet Assigned Numbers Authority (IANA)

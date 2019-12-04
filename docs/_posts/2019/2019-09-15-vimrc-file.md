@@ -1,5 +1,5 @@
 ---
-layout: default
+
 ---
 
 vimrc file options

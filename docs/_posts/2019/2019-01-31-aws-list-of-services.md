@@ -1,11 +1,5 @@
 ---
-title: AWS list of services in command line
-summary: AWS list of services in command line
-authors:
-    - Antonio Feijao UK
-date: 2019-01-31
-site_url: https://www.antoniocloud/
-base_url: /aws/
+
 ---
 
 Simple way to get a list of  AWS Services.
