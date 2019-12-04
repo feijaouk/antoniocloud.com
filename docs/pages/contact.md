@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Contact Antonio Feijao UK
 permalink: /contact/
 description: About Antonio Feijao UK

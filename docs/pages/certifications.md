@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Antonio Feijao UK certification
 permalink: /certifications/
 description: About Antonio Feijao UK

@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-![Antonio Feijao UK](/assets/img/Antonio-Feijao-cover-photo.jpg)
+About Antonio Feijao UK
+![Antonio Feijao UK](/assets/images/Antonio-Feijao-cover-photo.jpg)
 
 ## Connect
 
