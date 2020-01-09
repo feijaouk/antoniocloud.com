@@ -2,6 +2,7 @@
 layout: single
 permalink: /about/
 title: "About Antonio Cloud, Antonio Feijao UK"
+author_profile: true
 ---
 
 About Antonio Cloud, Antonio Feijao UK
