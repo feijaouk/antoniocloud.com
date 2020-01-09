@@ -1,14 +1,20 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Antonio Cloud, Antonio Feijao UK"
 ---
 
-# About Antonio Feijao UK
+About Antonio Cloud, Antonio Feijao UK
+
 ![Antonio Feijao UK](/assets/images/Antonio-Feijao-cover-photo.jpg)
+
+---
 
 ## Connect
 
-<i class="fas fa-linkedin">[AntonioFeijaoUK](https://www.linkedin.com/in/antoniofeijaouk/) | <i class="fas fa-github">[AntonioFeijaoUK](https://github.com/antoniofeijaouk/) | <i class="fas fa-twitter">[AntonioFeijaoUK](https://twitter.com/antoniofeijaouk) | <i class="fas fa-instagram">[AntonioFeijaoUK](https://www.instagram.com/AntonioFeijaoUK/)
+- <a href="https://www.linkedin.com/in/antoniofeijaouk/" rel="nofollow">Linkedin</a>
+- <a href="https://twitter.com/antoniofeijaouk" rel="nofollow">Twitter</a>
+- <a href="https://github.com/antoniofeijaouk/)" rel="nofollow">GitHub</a>
+- <a href="ttps://www.instagram.com/AntonioFeijaoUK/" rel="nofollow">Instagram</a>
 
 ---
 
