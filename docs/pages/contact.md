@@ -1,16 +1,11 @@
 ---
-title: Contact Antonio Feijao UK
+title: "Contact Antonio Feijao UK"
 permalink: /contact/
-description: About Antonio Feijao UK
-summary: About Antonio 
-authors:
-    - Antonio Feijao UK
-date: 2019-07-24
-site_url: https://www.antoniocloud/
-base_url: /
+layout: posts
+description: Contact Antonio Feijao UK
+author_profile: true
 ---
 
-- click to see contact
+Here is how to contact Antonio Feijao UK. Please consider treating me, the way you would like to be treated.
 
-??? info "Contact Antonio"
-    :fa-at: `antoniofeijao AT gmail.com`
+    `antoniofeijao AT gmail.com`
