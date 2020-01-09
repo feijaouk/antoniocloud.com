@@ -1,7 +1,7 @@
 ---
+layout: single
 title: "Contact Antonio Feijao UK"
 permalink: /contact/
-layout: posts
 description: Contact Antonio Feijao UK
 author_profile: true
 ---
