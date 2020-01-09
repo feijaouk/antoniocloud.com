@@ -24,10 +24,6 @@ You will make me happy and will motivate me to write more content :)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
 
-[https://monzo.me/AntonioFeijaoUK](https://monzo.me/antoniofeijaouk)
-
-[https://www.paypal.me/FeijaoUK](https://www.paypal.me/feijaouk)
-
 ---
 
 ## Welcome
