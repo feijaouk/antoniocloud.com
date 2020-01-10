@@ -16,7 +16,7 @@ About Antonio Cloud, Antonio Feijao UK
 
 ## Connect
 
-icon: "fab fa-fw fa-github"
+{: "fab fa-fw fa-github"}
 
 - <a href="https://www.linkedin.com/in/antoniofeijaouk/" rel="nofollow">Linkedin</a>
 - <a href="https://twitter.com/antoniofeijaouk" rel="nofollow">Twitter</a>
