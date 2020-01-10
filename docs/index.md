@@ -25,9 +25,9 @@ Antonio Cloud owned and maintained by Antonio Feijao UK.
 
 ## Buy me a coffee
 
-I update this page during my personal time. If you found anything that helped you, or you just want to support me, them buy me a drink :)
+I update this page during my personal time. If you found anything that helped you, or you just want to support me, them buy me coffee!
 
-You will make me happy and will motivate me to write more content :)
+You will make me happy and will motivate me to write more content!
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
 
@@ -53,21 +53,9 @@ Here you find list of **[Posts](/posts/)** or list of **[posts by categories](/c
 
 ---
 
-## About Antonio
-
-Here you find more [About Antonio Feijao UK](/about/).
-
----
-
-## Antonio Certifications
-
-Here I have a list of current [Antonio Feijao UK certifications](/certifications/).
-
----
-
 ## Albert Einstein
 
-On this page you might find  quotes about [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found many of them inspirational and believe in them.
+On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found many of them inspirational and believe in them.
 
 > The only source of knowledge is experience.
 
