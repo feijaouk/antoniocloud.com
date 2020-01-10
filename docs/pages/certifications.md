@@ -18,7 +18,7 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 
 ## Antonio Certifications
 
-![AWS Badge - Antonio Feijao - AWS Certified](/assets/images/aws-certified-logo-1176x600-color.png){: .full}
+![AWS Badge - Antonio Feijao - AWS Certified](/assets/images/aws-certified-logo-1176x600-color.png){: .align-center}
 
 [![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate][1]][2]
 [![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate][3]][4]

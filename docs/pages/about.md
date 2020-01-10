@@ -95,7 +95,7 @@ I built this page to practice and get experience.
 
 > "The only source of knowledge is experience."
 > 
-> by Albert Einstein
+> by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ---
 
