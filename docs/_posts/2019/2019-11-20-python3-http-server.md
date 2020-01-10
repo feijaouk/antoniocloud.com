@@ -1,5 +1,6 @@
 ---
-
+categories: [linux, Python 3]
+tags: [aws, linux, dns]
 ---
 
 A quick and simple way to start a webserver on the current directory `Python3` module `http.server`

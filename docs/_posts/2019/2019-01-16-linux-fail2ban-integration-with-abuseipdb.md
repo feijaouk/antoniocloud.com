@@ -1,5 +1,6 @@
 ---
-
+categories: [linux, security]
+tags: [online, security, internet, advertising]
 ---
 
 Making the internet safer, one IP at a time

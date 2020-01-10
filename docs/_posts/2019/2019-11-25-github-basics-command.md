@@ -1,8 +1,8 @@
 ---
 categories:
-  - Blog
   - Coding
   - Linux
+  - training
 tags:
   - MacOS
   - Linux

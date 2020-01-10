@@ -1,5 +1,6 @@
 ---
-
+categories: [aws, linux, migration]
+tags: [aws, linux, dns, sql, linux, apache, migration]
 ---
 
 Ninja.pt

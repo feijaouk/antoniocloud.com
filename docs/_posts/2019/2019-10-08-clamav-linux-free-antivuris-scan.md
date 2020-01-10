@@ -1,5 +1,6 @@
 ---
-
+categories: [linux, security]
+tags: [linux, security, bash]
 ---
 
 Linux Clam AntiVirus ClamAV

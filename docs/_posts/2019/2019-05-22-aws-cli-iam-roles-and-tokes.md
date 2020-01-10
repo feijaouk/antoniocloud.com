@@ -1,6 +1,6 @@
 ---
-categories: [blog, travel]
-tags: [hot, summer]
+categories: [aws, security, linux]
+tags: [aws, security, authentication, linux]
 
 ---
 

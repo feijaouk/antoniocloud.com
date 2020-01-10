@@ -1,5 +1,6 @@
 ---
-
+categories: [aws]
+tags: [online, aws, cloud, services]
 ---
 
 Simple way to get a list of  AWS Services.

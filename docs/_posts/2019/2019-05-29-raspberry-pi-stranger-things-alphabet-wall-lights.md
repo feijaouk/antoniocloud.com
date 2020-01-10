@@ -1,8 +1,9 @@
 ---
-
+categories: [Raspberry Pi, linux, electronics, Python 3]
+tags: [linux, Python 3, electronics, Raspberry Pi]
 ---
 
-Stranger Things Alphabet Wall Lights with Raspberry PI Python 3 and Neopixels
+Stranger Things Alphabet Wall Lights with Raspberry Pi Python 3 and Neopixels
 
 It all started with the launch of Stranger Things Season 3.
 

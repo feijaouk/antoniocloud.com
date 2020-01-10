@@ -1,6 +1,6 @@
 ---
-categories: [training, aws]
-tags: [online, training, cloud]
+categories: [training, aws, education]
+tags: [online, training, cloud, aws]
 ---
 
 AWS online Learning Library

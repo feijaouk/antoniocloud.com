@@ -1,5 +1,6 @@
 ---
-
+categories: [aws, linux, security]
+tags: [aws, linux, security]
 ---
 
 AWS CloudWatch logs CloudTrail logs and filters examples

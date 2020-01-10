@@ -1,5 +1,6 @@
 ---
-
+categories: [training, linux, webpages]
+tags: [linux, webpages]
 ---
 
 AWS is on another page

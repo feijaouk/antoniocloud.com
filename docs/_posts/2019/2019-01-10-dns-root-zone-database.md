@@ -1,5 +1,6 @@
 ---
-
+categories: [networking]
+tags: [online, training, networking, cisco, firewall, router]
 ---
 
 Internet Assigned Numbers Authority (IANA)

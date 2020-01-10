@@ -1,7 +1,7 @@
 ---
 categories:
     - Linux
-    - DNS
+    - Security
 tags:
     - Linux
     - DNS

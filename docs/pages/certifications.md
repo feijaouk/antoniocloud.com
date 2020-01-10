@@ -1,9 +1,12 @@
 ---
-layout: single
 title: Antonio Feijao UK certifications
+excerpt: "Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifications, Python 3, SQL"
+layout: single
+author_profile: true
 permalink: /certifications/
-description: Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifications
 ---
+
+Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifications, Python 3, SQL
 
 ## AWS Certifications
 

@@ -1,10 +1,9 @@
 ---
 categories:
-    - Python
-    - Christmas
+    - Python 3
 tags:
-    - Python3
-    - Christmas
+    - Python 3
+    - Merry Christmas
     - Coding
 ---
 

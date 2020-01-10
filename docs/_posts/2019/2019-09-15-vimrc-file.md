@@ -1,5 +1,6 @@
 ---
-
+categories: [linux, coding]
+tags: [linux, coding, vim]
 ---
 
 vimrc file options

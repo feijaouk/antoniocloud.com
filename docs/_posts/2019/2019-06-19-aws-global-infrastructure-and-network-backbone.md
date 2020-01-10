@@ -1,5 +1,6 @@
 ---
-
+categories: [aws, training]
+tags: [aws, cloud, training]
 ---
 
 AWS Global Infrastructure

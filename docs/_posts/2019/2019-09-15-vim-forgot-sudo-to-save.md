@@ -1,5 +1,6 @@
 ---
-
+categories: [linux]
+tags: [linux, security, sudo, root]
 ---
 
 vim and forgot to sudo and now?

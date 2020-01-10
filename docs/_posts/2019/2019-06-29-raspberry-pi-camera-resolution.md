@@ -1,5 +1,6 @@
 ---
-
+categories: [linux, Raspberry Pi]
+tags: [linux, webcam, Raspberry Pi, bash]
 ---
 
 Linux command lsusb

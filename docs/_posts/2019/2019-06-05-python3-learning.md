@@ -1,5 +1,6 @@
 ---
-
+categories: [Python 3, linux, bash]
+tags: [linux, dns, Python 3, linux, bash]
 ---
 
 Python 3 learning for the first time

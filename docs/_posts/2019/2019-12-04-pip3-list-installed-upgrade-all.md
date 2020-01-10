@@ -1,10 +1,9 @@
 ---
 categories:
-    - Blog
-    - MacOS
+    - Python 3
     - Linux
 tags:
-    - MacOS
+    - Python 3
     - Linux
     - pip3
     - shell-scripting

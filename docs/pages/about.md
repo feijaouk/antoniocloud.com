@@ -1,8 +1,9 @@
 ---
-layout: single
-permalink: /about/
 title: "About Antonio Cloud, Antonio Feijao UK"
+excerpt: "About Antonio Cloud, Antonio Feijao UK"
+layout: single
 author_profile: true
+permalink: /about/
 ---
 
 About Antonio Cloud, Antonio Feijao UK
@@ -12,6 +13,8 @@ About Antonio Cloud, Antonio Feijao UK
 ---
 
 ## Connect
+
+icon: "fab fa-fw fa-github"
 
 - <a href="https://www.linkedin.com/in/antoniofeijaouk/" rel="nofollow">Linkedin</a>
 - <a href="https://twitter.com/antoniofeijaouk" rel="nofollow">Twitter</a>

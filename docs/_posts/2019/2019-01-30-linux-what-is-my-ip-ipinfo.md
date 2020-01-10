@@ -1,9 +1,9 @@
 ---
-
+categories: [linux, webpage, networking]
+tags: [bash, linux, internet, networking]
 ---
 
 Linux Public IP
-
 
 * <https://ipinfo.io/json>
 

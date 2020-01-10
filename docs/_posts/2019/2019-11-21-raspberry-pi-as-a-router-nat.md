@@ -1,6 +1,5 @@
 ---
 categories:
-    - Blog
     - Linux
     - Raspberry PI
     - Networking

@@ -1,5 +1,6 @@
 ---
-
+categories: [training, finance]
+tags: [online, training, cloud, finance]
 ---
 
 Financial learning

@@ -1,6 +1,5 @@
 ---
-
-categories: [blog]
+categories: [aws, linux]
 tags: [aws, ec2, command-line]
 ---
 
