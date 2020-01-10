@@ -1,11 +1,11 @@
 ---
 title: Antonio Feijao UK certifications
 layout: single
-author_profile: true
+author_profile: false
 permalink: /certifications/
 toc: true
 toc_label: "Antonio's Certifications"
-toc_icon: "cog"
+toc_icon: "address-card"
 ---
 
 Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifications, Python 3, SQL
@@ -17,12 +17,11 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 
 ![AWS Badge - Antonio Feijao - AWS Certified](/assets/images/aws-certified-logo-1176x600-color.png)]
 
-[![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate](/assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png)][2]
-
+[![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate](/assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png "Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated")][2]
 
 [![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate](/assets/images/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, aws-certified-security-specialty-certificated")](https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-02-26&ci=AWS00280650)
 
-[![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate][5]][6]
+[![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate]([5])][6]
 [![AWS Badge - Antonio Feijao UK - AWS Certified Developer - Associate certificate][7]][8]
 [![AWS Badge - Antonio Feijao UK - AWS Certified SysOps Administrator - Associate certificate][9]][10]
 
@@ -30,9 +29,6 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 
 
 [1]: (/assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png
-
-"Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated"
-
 [2]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
 
 [3]: (/assets/images/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, aws-certified-security-specialty-certificated"
@@ -58,17 +54,17 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 
 [http://aws.amazon.com/verification](http://aws.amazon.com/verification "AWS Certification Validations")
 
-- `8CXGM032KMFEQWSP` AWS Certified Advanced Networking **Specialty**
+`8CXGM032KMFEQWSP` AWS Certified Advanced Networking **Specialty**
 
-- `7J5LWZ3KJ1E41MSP` AWS Certified Security **Specialty**
+`7J5LWZ3KJ1E41MSP` AWS Certified Security **Specialty**
 
-- `ZNDTEEB2K2V4QES7` AWS Certified Solutions Architect **Associate**
+`ZNDTEEB2K2V4QES7` AWS Certified Solutions Architect **Associate**
 
-- `3HNDW6FCLM441Y5F` AWS Certified Developer **Associate**
+`3HNDW6FCLM441Y5F` AWS Certified Developer **Associate**
 
-- `JDRY2JY2KMVQQTGB` AWS Certified SysOps Administrator **Associate**
+`JDRY2JY2KMVQQTGB` AWS Certified SysOps Administrator **Associate**
   
-- `JRYKX2MCLJ1QQZ99` AWS Certified Cloud **Practitioner**
+`JRYKX2MCLJ1QQZ99` AWS Certified Cloud **Practitioner**
   
 ---
 
