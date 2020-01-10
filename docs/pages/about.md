@@ -14,17 +14,6 @@ About Antonio Cloud, Antonio Feijao UK
 
 ---
 
-## Connect
-
-{: "fab fa-fw fa-github"}
-
-- <a href="https://www.linkedin.com/in/antoniofeijaouk/" rel="nofollow">Linkedin</a>
-- <a href="https://twitter.com/antoniofeijaouk" rel="nofollow">Twitter</a>
-- <a href="https://github.com/antoniofeijaouk/)" rel="nofollow">GitHub</a>
-- <a href="ttps://www.instagram.com/AntonioFeijaoUK/" rel="nofollow">Instagram</a>
-
----
-
 ## My background story
 
 ### Lisbon Portugal
