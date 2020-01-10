@@ -16,36 +16,32 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 - [AWS Certification](https://aws.amazon.com/certification/)
 
 ![AWS Badge - Antonio Feijao - AWS Certified](/assets/images/aws-certified-logo-1176x600-color.png)]
+{: .full}
 
-[![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate](/assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png "Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated")][2]
+[![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate](/assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png "Antonio Feijao UK, AWS Certified Advanced Networking Specialty Certificated")](https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650)
 
-[![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate](/assets/images/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, aws-certified-security-specialty-certificated")](https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-02-26&ci=AWS00280650)
+[![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate](/assets/images/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, AWS Certified Security Specialty Certificated")](https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-02-26&ci=AWS00280650)
 
-[![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate]([5])][6]
+[![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate](/assets/images/Antonio-Feijao-AWS-Certified-Solutions-Architect-Associate.png "Antonio Feijao UK, AWS Certified Solutions Architect Associate Certificate")](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650)
+
 [![AWS Badge - Antonio Feijao UK - AWS Certified Developer - Associate certificate][7]][8]
+
 [![AWS Badge - Antonio Feijao UK - AWS Certified SysOps Administrator - Associate certificate][9]][10]
 
 [![AWS Badge - Antonio Feijao UK - AWS Certified Cloud Practitioner certificate][11]][12]
 
 
-[1]: (/assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png
-[2]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
-
-[3]: (/assets/images/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, aws-certified-security-specialty-certificated"
-[4]: https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-02-26&ci=AWS00280650
 
 
-[5]: (/assets/images/Antonio-Feijao-AWS-Certified-Solutions-Architect-Associate.png "Antonio Feijao UK, aws-certified-solutions-architect-associate-certificate"
-[6]: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650
 
-[7]: (/assets/images/Antonio-Feijao-AWS-Certified-Developer-Associate.png "Antonio Feijao UK, aws-certified-developer-associate-certificate"
+[7]: (/assets/images/Antonio-Feijao-AWS-Certified-Developer-Associate.png "Antonio Feijao UK, aws-certified-developer-associate-certificate")
 [8]: https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-01-29&ci=AWS00280650
 
-[9]: (/assets/images/Antonio-Feijao-AWS-Certified-SysOps-Administrator-Associate.png "Antonio Feijao UK, aws-certified-sysops-administrator-associate-certificate"
+[9]: (/assets/images/Antonio-Feijao-AWS-Certified-SysOps-Administrator-Associate.png "Antonio Feijao UK, aws-certified-sysops-administrator-associate-certificate")
 [10]: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-11-21&ci=AWS00280650
 
 
-[11]: (/assets/images/Antonio-Feijao-AWS-Certified-Cloud-Practitioner.png "Antonio Feijao UK, AWS Certified Cloud Practitioner"
+[11]: /assets/images/Antonio-Feijao-AWS-Certified-Cloud-Practitioner.png "Antonio Feijao UK, AWS Certified Cloud Practitioner"
 [12]: https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-02-25&ci=AWS00280650
 
 ---
