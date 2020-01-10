@@ -3,6 +3,9 @@ title: "About Antonio Cloud, Antonio Feijao UK"
 layout: single
 author_profile: false
 permalink: /about/
+toc: true
+toc_label: "About Antonio"
+toc_icon: "address-card"
 ---
 
 About Antonio Cloud, Antonio Feijao UK
