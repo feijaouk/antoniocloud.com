@@ -15,7 +15,7 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 
 [Amazon Web Services (AWS)](https://aws.amazon.com/) | [AWS Certification roadmap](https://aws.amazon.com/certification/#roadmap)
 
-![AWS Badge - Antonio Feijao - AWS Certified]((/assets/images/aws-certified-logo-1176x600-color.png)
+![AWS Badge - Antonio Feijao - AWS Certified](/assets/images/aws-certified-logo-1176x600-color.png)
 
 [![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate][1]][2]
 [![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate][3]][4]
@@ -28,24 +28,24 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 
 
 
-[1]: (/assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png#thumbnail "Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated"
+[1]: (/assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png "Antonio Feijao UK, aws-certified-advanced-networking-specialty-certificated"
 [2]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
 
-[3]: (/assets/images/Antonio-Feijao-AWS-Certified-Security-Specialty.png#thumbnail "Antonio Feijao UK, aws-certified-security-specialty-certificated"
+[3]: (/assets/images/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, aws-certified-security-specialty-certificated"
 [4]: https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-02-26&ci=AWS00280650
 
 
-[5]: (/assets/images/Antonio-Feijao-AWS-Certified-Solutions-Architect-Associate.png#thumbnail "Antonio Feijao UK, aws-certified-solutions-architect-associate-certificate"
+[5]: (/assets/images/Antonio-Feijao-AWS-Certified-Solutions-Architect-Associate.png "Antonio Feijao UK, aws-certified-solutions-architect-associate-certificate"
 [6]: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650
 
-[7]: (/assets/images/Antonio-Feijao-AWS-Certified-Developer-Associate.png#thumbnail "Antonio Feijao UK, aws-certified-developer-associate-certificate"
+[7]: (/assets/images/Antonio-Feijao-AWS-Certified-Developer-Associate.png "Antonio Feijao UK, aws-certified-developer-associate-certificate"
 [8]: https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-01-29&ci=AWS00280650
 
-[9]: (/assets/images/Antonio-Feijao-AWS-Certified-SysOps-Administrator-Associate.png#thumbnail "Antonio Feijao UK, aws-certified-sysops-administrator-associate-certificate"
+[9]: (/assets/images/Antonio-Feijao-AWS-Certified-SysOps-Administrator-Associate.png "Antonio Feijao UK, aws-certified-sysops-administrator-associate-certificate"
 [10]: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-11-21&ci=AWS00280650
 
 
-[11]: (/assets/images/Antonio-Feijao-AWS-Certified-Cloud-Practitioner.png#thumbnail "Antonio Feijao UK, AWS Certified Cloud Practitioner"
+[11]: (/assets/images/Antonio-Feijao-AWS-Certified-Cloud-Practitioner.png "Antonio Feijao UK, AWS Certified Cloud Practitioner"
 [12]: https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-02-25&ci=AWS00280650
 
 ---
@@ -117,7 +117,7 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 
 [Verify a Red Hat Certified Professional](https://www.redhat.com/rhtapps/services/verify?certId=130-167-661)
 
-![Antonio Feijao RedHat Linux - System Administrator Certified]((/assets/images/antonio-feijao-redhat-certified-sys-admin.png#thumbnail "Antonio Feijao UK, RedHat Linux - System Administrator Certified")
+![Antonio Feijao RedHat Linux - System Administrator Certified]((/assets/images/antonio-feijao-redhat-certified-sys-admin.png "Antonio Feijao UK, RedHat Linux - System Administrator Certified")
 
 ---
 
@@ -167,7 +167,7 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
     
     **SKILLS - 802.1x Authentication, Anti-Malware, CCNA, Content Security, Endpoint Security, FirePOWER, Firewall, IPS, Identity Services Engine, Malware Protection, SEIM-Technology, Security**
 
-![Antonio Feijao Cisco Certified Network Associate Security]((/assets/images/cisco-ccna-security.png#thumbnail "Antonio Feijao UK, Cisco CCNA Security")
+![Antonio Feijao Cisco Certified Network Associate Security]((/assets/images/cisco-ccna-security.png "Antonio Feijao UK, Cisco CCNA Security")
 
 ### CCNA Routing & Switching
 
@@ -178,4 +178,4 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
     
     **SKILLS - Cloud Resources, DHCP, EIGRP, FHRP, GRE, IPv4 and IPv6 Addressing, Infrastructure Components, LAN-Switching, Network-Management, Network Programmability, Network-Security, Network Topologies, OSPF, PPPoE, QoS, RIPv2, Static and Dynamic Routing, Troubleshooting, WAN Topologies, iBGP, eBGP, BGP**
 
-![Antonio Feijao Cisco Certified Network Associate Routing and Switching]((/assets/images/cisco-ccna-r-26s.png#thumbnail "Antonio Feijao UK, Cisco CCNA Routing and Switching")
+![Antonio Feijao Cisco Certified Network Associate Routing and Switching]((/assets/images/cisco-ccna-r-26s.png "Antonio Feijao UK, Cisco CCNA Routing and Switching")
