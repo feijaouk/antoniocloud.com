@@ -10,13 +10,15 @@ toc_icon: "address-card"
 
 Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifications, Python 3, SQL
 
-## AWS Certifications
+## About AWS and AWS Certifications
 
-- [Amazon Web Services (AWS)](https://aws.amazon.com/)
-- [AWS Certification](https://aws.amazon.com/certification/)
+[Amazon Web Services (AWS)](https://aws.amazon.com/)
 
-![AWS Badge - Antonio Feijao - AWS Certified](/assets/images/aws-certified-logo-1176x600-color.png)
-{: .full}
+[AWS Certification](https://aws.amazon.com/certification/)
+
+## Antonio Certifications
+
+![AWS Badge - Antonio Feijao - AWS Certified](/assets/images/aws-certified-logo-1176x600-color.png){: .full}
 
 [![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate][1]][2]
 [![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate][3]][4]
