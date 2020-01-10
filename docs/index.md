@@ -12,8 +12,7 @@ author_profile: true
 
 [AntonioCloud.com](https://www.antoniocloud.com) is a personal website.
 
-The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
-{: .notice--success}
+The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).{: .notice--success}
 
 ---
 
