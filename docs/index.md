@@ -8,11 +8,8 @@ author_profile: true
 
 Antonio Cloud owned and maintained by Antonio Feijao UK.{: .notice--success}
 
-## Disclaimer
 
-[AntonioCloud.com](https://www.antoniocloud.com) is a personal website.
-
-The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).{: .notice--warning}
+**Disclaimer** - [AntonioCloud.com](https://www.antoniocloud.com) is a personal website. The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).{: .notice--warning}
 
 ---
 
