@@ -93,11 +93,9 @@ I am am passionate with tech in generally and is a pleasure to me when I help ot
 
 I built this page to practice and get experience.
 
-!!! quote
-    
-    The only source of knowledge is experience.
-    
-    by Albert Einstein
+> "The only source of knowledge is experience."
+> 
+> by Albert Einstein
 
 ---
 
