@@ -2,6 +2,8 @@
 title: "About Antonio Cloud, Antonio Feijao UK"
 excerpt: "About Antonio Cloud, Antonio Feijao UK"
 layout: single
+classes:
+  - wide
 author_profile: true
 permalink: /about/
 ---
