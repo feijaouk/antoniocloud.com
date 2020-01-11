@@ -7,7 +7,7 @@ Simple way to get a list of  AWS Services.
 As of `$ date +%Y-%B-%d, 2019-November-26` there are `206` service. Checked by using `wc -c` command at the end of the below script.
 
 
-`curl --silent https://awspolicygen.s3.amazonaws.com/js/policies.js | sed '1s/[^=]*=//' | jq | grep -B1 StringPrefix | grep -v StringPrefix | sed 's/\"//g;s/\-//g;s/: {//g' | grep -v "^$" | sort`
+`curl --silent https://awspolicygen.s3.amazonaws.com/js/policies.js | sed '1s/[^=]*=//' | jq . | grep -B1 StringPrefix | grep -v StringPrefix | sed 's/\"//g;s/\-//g;s/: {//g' | grep -v "^$" | sort`
 
 ```json
     AWS Accounts
