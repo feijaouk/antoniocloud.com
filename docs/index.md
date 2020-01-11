@@ -58,8 +58,8 @@ Here you find list of **[Posts](/posts/)** or list of **[posts by categories](/c
 On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found many of them inspirational and believe in them.
 
 > The only source of knowledge is experience.
-
-by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
+> 
+> by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ---
 
