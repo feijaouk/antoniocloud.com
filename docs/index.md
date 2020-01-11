@@ -7,7 +7,7 @@ author_profile: false
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  image_description: "Welcome to my personal website. Antonio Feijao UK is an AWS Solutions Architect working for AWS, with Networking Specialty and Security Specialty certifications. Other areas of expertise are Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. Also passionate about our Planet Hearth, Travel, Humanism, Space and Physics"
+  image_description: Welcome to my personal website. Antonio Feijao UK is an AWS Solutions Architect working for AWS, with Networking Specialty and Security Specialty certifications. Other areas of expertise are Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. Also passionate about our Planet Hearth, Travel, Humanism, Space and Physics
   caption: "Photo by [**Antonio Feijao UK](https://www.antoniocloud.com), snorkeling in Mexican waters."
   actions:
     - label: "Antonio Feijao UK"
@@ -44,6 +44,12 @@ In this website you will find **Antonio Feijao UK**'s personal notes about AWS C
 I built this website to get hands-on experience and to share some of my personal learnings with others.
 
 I am passionate about technology in general and I will use this page to share learnings with you and possible create positive discussions where I can learn from you too.
+
+> Welcome to my personal website. Antonio Feijao UK is an AWS Solutions Architect working for AWS, with Networking Specialty and Security Specialty certifications.
+>
+> Other areas of expertise are Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more.
+>
+> I am also passionate about our Planet Hearth, Travel, Humanism, Space and Physics
 
 ---
 
