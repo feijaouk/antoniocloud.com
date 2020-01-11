@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AntonioCloud.com
+title: AntonioCloud.com is Antonio Feijao UK, AWS Solutions Architect, Networking and Security, Python 3 and more...
 email: antoniofeijao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Antonio Cloud personal website. Personal notes about AWS Cloud, Linux,
   Networking, Raspberry PI, Cyber Security, Python and coding.
   The opinions expressed here are my own and do not necessarily represent those of current or past employers.
+baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
 minimal_mistakes_skin: dark # contrast # air # default: 'default'
