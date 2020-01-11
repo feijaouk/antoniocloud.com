@@ -1,7 +1,7 @@
 ---
 title: "About Antonio Cloud, Antonio Feijao UK"
 layout: single
-author_profile: false
+author_profile: true
 permalink: /about/
 toc: true
 toc_label: "About Antonio"
