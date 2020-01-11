@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: false
+tagline: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
