@@ -6,7 +6,8 @@ permalink: /about/
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  image_description: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications."
+  tagline: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
+  image_description: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
   caption: "Photo by [**Antonio Feijao UK**](https://www.antoniocloud.com), snorkeling in Mexican waters."
   actions:
     - label: "Antonio Feijao UK"
