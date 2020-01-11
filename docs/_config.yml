@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified.
   Other expertise include Red Hat, CentOS, Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more.
   I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more.
-  I hope you enjoy my website as much I enjoy creating it for the benefit of others.
+  I hope you enjoy my website as much I enjoyed creating it for the benefit of others.
   >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<
 baseurl:
 twitter_username: AntonioFeijaoUK
@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Antonio Feijao UK"
   avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
-  bio    : "Antonio is passionate about Amazon Web Services (AWS), Machine Learning, Cloud services, in-depth Linux and Networking Security, Raspberry PI, Cyber Security, Bash, Python, efficient coding, attention to details, Photography, and more! **The opinions expressed are my own and do not necessarily represent those of current or past employers.**"
+  bio    : "Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified. Other expertise include Red Hat, CentOS, Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more. I hope you enjoy my website as much I enjoyed creating it for the benefit of others. >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
