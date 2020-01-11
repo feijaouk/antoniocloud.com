@@ -16,9 +16,11 @@
 title: AntonioCloud.com (Antonio Feijao UK)
 email: antoniofeijao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified, Linux, Python 3 and more.
   Welcome to my personal personal website!
-  At AntonioCloud.com, I will keep notes about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python 3 and coding and more.
+  Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified.
+  Other expertise include Red Hat, CentOS, Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more.
+  I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more.
+  I hope you enjoy my website as much I enjoy creating it for the benefit of others.
   >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<
 baseurl:
 twitter_username: AntonioFeijaoUK

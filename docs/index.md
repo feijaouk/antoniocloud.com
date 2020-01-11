@@ -7,8 +7,8 @@ author_profile: false
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  image_description: "Solutions Architect working for AWS, with Networking Specialty and Security Specialty certifications, Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. Also passionate about our Planet Hearth, Travel, Humanism, Space and Physics"
-  caption: "Photo by [**Antonio Feijao UK](https://www.antoniocloud.com), snorkeling in Mexican waters."
+  image_description: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications."
+  caption: "Photo by [**Antonio Feijao UK**](https://www.antoniocloud.com), snorkeling in Mexican waters."
   actions:
     - label: "Antonio Feijao UK"
       url: "https://www.antoniocloud.com"
