@@ -67,6 +67,7 @@ author:
   name   : "Antonio Feijao UK"
   avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
   bio    : "Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified. Other expertise include Red Hat, CentOS, Debian and Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more. I hope you enjoy my website as much I enjoyed creating it for the benefit of others. >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
+  location: "London, United Kingdom"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
