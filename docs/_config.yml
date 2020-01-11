@@ -23,6 +23,7 @@ twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
 minimal_mistakes_skin: dark # contrast # air # default: 'default'
 search: true
+
 locale: "en-GB"
 
 # Build settings
