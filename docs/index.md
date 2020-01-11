@@ -3,11 +3,12 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-author_profile: true
+author_profile: false
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  image_description: "Antonio Feijao UK, AWS Solutions Architect, Networking Specialty and Security Specialty"
+  image_description: "[AntonioCloud.com](https://www.AntonioCloud.com) is Antonio Feijao UK personal website. Antonio is an AWS Solutions Architect working for AWS, with Networking Specialty and Security Specialty certifications. Other areas of expertise are Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more.
+  Also passionate about our Planet Hearth, Travel, Humanism, Space and Physics"
   caption: "Photo by [**Antonio Feijao UK](https://www.antoniocloud.com), snorkeling in Mexican waters."
   actions:
     - label: "Antonio Feijao UK"
@@ -47,9 +48,11 @@ I am passionate about technology in general and I will use this page to share le
 
 ---
 
-## Content
+## Explore my page leave feedback
 
-Here you find list of **[Posts](/posts/)** or list of **[posts by categories](/categories/)** or list of **[post by tags](/tags/)**
+Explore the content of this website by exploring the **[Posts](/posts/)**, list by **[Categories](/categories/)** or list by **[tags](/tags/)**
+
+Remember to provide feedback, I am passionate about learning! So I can learn from you too.
 
 ---
 
@@ -63,13 +66,8 @@ On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia
 
 ---
 
-## List of post at Antonio Cloud
+## I believe we all can make a difference on the world to make it better, safer and cleaner for everyone!
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-          <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
-          {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+I hope you enjoy my website as much I enjoy creating it.
+
+Antonio Feijao UK

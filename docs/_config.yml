@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AntonioCloud.com is Antonio Feijao UK, AWS Solutions Architect, Networking and Security, Linux, Python 3 and more...
+title: AntonioCloud.com (Antonio Feijao UK)
 email: antoniofeijao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Antonio Cloud personal website. Personal notes about AWS Cloud, Linux,
-  Networking, Raspberry PI, Cyber Security, Python and coding.
-  The opinions expressed here are my own and do not necessarily represent those of current or past employers.
+  Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified, Linux, Python 3 and more.
+  Welcome to my personal personal website!
+  At AntonioCloud.com, I will keep notes about AWS Cloud, Linux, Networking, Raspberry PI, Cyber Security, Python 3 and coding and more.
+  >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
@@ -63,7 +64,7 @@ plugins:
 author:
   name   : "Antonio Feijao UK"
   avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
-  bio    : "Antonio is passionate about Amazon Web Services (AWS), Machine Learning, Cloud services, in-depth Linux and Networking Security, Raspberry PI, Cyber Security, Bash, Python, efficient coding, attention to details, Photography, and more! The opinions expressed are my own and do not necessarily represent those of current or past employers."
+  bio    : "Antonio is passionate about Amazon Web Services (AWS), Machine Learning, Cloud services, in-depth Linux and Networking Security, Raspberry PI, Cyber Security, Bash, Python, efficient coding, attention to details, Photography, and more! **The opinions expressed are my own and do not necessarily represent those of current or past employers.**"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -80,6 +81,9 @@ author:
 
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.antoniocloud.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AntonioFeijaoUK"
