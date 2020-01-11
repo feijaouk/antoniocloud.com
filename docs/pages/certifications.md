@@ -1,7 +1,7 @@
 ---
 title: Antonio Feijao UK certifications
 layout: single
-author_profile: false
+author_profile: true
 permalink: /certifications/
 toc: true
 toc_label: "Antonio's Certifications"
