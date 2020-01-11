@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AntonioCloud.com is Antonio Feijao UK
-email: antoniofeijao@gmail.com
+title: "AntonioCloud.com is Antonio Feijao UK"
+email: "antoniofeijao@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal personal website!
+  "Welcome to my personal personal website!
   Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified.
-  Other expertise include Red Hat, CentOS, Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more.
+  Other expertise include Red Hat, CentOS, Debian and Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more.
   I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more.
   I hope you enjoy my website as much I enjoyed creating it for the benefit of others.
-  >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<
+  >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Antonio Feijao UK"
   avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
-  bio    : "Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified. Other expertise include Red Hat, CentOS, Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more. I hope you enjoy my website as much I enjoyed creating it for the benefit of others. >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
+  bio    : "Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified. Other expertise include Red Hat, CentOS, Debian and Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more. I hope you enjoy my website as much I enjoyed creating it for the benefit of others. >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
