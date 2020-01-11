@@ -1,6 +1,15 @@
 ---
-categories: [training, aws, education]
-tags: [online, training, cloud, aws]
+categories:
+    - Training
+    - AWS
+    - Education
+tags:
+    - online
+    - training
+    - cloud
+    - aws
+    - security
+    - best practices
 ---
 
 AWS online Learning Library

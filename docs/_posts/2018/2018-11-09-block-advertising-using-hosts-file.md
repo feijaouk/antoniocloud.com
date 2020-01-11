@@ -5,7 +5,7 @@ categories:
 tags:
     - Linux
     - DNS
-    - bash
+    - Bash
     - shell-scripting
     - block advertising
 ---

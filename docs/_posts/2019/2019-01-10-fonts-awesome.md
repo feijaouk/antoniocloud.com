@@ -1,6 +1,12 @@
 ---
-categories: [training]
-tags: [fonts, fontawesome, markdown, webpage]
+categories:
+    - Training
+    - Websites
+tags:
+    - fonts
+    - fontawesome
+    - markdown
+    - webpage
 ---
 
 Fonts Awesome install
