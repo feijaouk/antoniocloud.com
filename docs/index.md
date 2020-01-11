@@ -54,7 +54,7 @@ I am passionate about technology in general and I will use this page to share le
 
 ---
 
-## Explore my page leave feedback
+## Explore my page and share feedback
 
 Explore the content of this website by exploring the **[Posts](/posts/)**, list by **[Categories](/categories/)** or list by **[tags](/tags/)**
 
