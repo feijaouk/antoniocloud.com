@@ -10,6 +10,7 @@ tags:
     - aws
     - security
     - best practices
+    - workshops
 ---
 
 AWS online Learning Library
@@ -31,6 +32,12 @@ AWS online Learning Library
 - <https://search-sa-log-solutions.s3-us-east-2.amazonaws.com/logstash/html/Lab_Guide_ABD326.html>
 - <https://github.com/awslabs/aws-well-architected-labs>
 - <https://github.com/awslabs/aws-well-architected-labs>
+- <https://master.d16mn49ivcogrk.amplifyapp.com/>
+- <https://cfn101.solution.builders/>
+- <https://github.com/awslabs?page=2>
+- <https://www.hpcworkshops.com/>
+
+
 ---
 
 ## edX - AWS Free Courses from Amazon Web Services

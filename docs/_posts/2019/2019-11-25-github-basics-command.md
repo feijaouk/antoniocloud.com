@@ -52,3 +52,8 @@ git pull
 1. first create your ssh key `ssh-keygen -b 4096`
 2. add the `.pub` key into your repository
 3. check this setup - <https://medium.com/@czarpino/how-to-tell-git-which-ssh-key-to-use-c8574fb243fd>
+
+## Good documentation about git commands
+
+- <https://guide.freecodecamp.org/git>
+- <https://guide.freecodecamp.org/git/git-push>
