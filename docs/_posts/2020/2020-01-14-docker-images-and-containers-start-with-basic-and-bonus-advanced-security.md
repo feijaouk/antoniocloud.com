@@ -13,8 +13,7 @@ tags:
     - best practices
 ---
 
-Docker images and containers start with basic and bonus advanced security
-![Docker logo](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)
+Docker images and containers start with basic and bonus advanced security ![Docker logo](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)
 
 ## Sample basic command for Docker containers and images
 

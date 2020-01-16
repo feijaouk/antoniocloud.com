@@ -3,9 +3,9 @@ categories:
     - Linux
     - Security
 tags:
-    - Linux
-    - DNS
-    - Bash
+    - linux
+    - dns
+    - bash
     - shell-scripting
     - block advertising
 ---

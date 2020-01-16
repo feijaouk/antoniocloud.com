@@ -1,13 +1,13 @@
 ---
 categories:
-  - Coding
-  - Linux
-  - training
+    - Coding
+    - Linux
+    - Training
 tags:
-  - MacOS
-  - Linux
-  - Coding
-  - Github
+    - macos
+    - linux
+    - coding
+    - github
 ---
 
 Github `git` basic commands

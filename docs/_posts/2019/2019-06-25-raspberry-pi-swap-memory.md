@@ -1,6 +1,10 @@
 ---
-categories: [linux, Raspberry Pi]
-tags: [linux, Raspberry Pi]
+categories:
+    - Linux
+    - Raspberry Pi
+tags:
+    - linux
+    - raspberry pi
 ---
 
 Raspberry Pi increase the swap memory size

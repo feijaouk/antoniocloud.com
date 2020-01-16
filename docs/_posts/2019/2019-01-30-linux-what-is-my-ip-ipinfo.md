@@ -1,6 +1,13 @@
 ---
-categories: [linux, webpage, networking]
-tags: [bash, linux, internet, networking]
+categories:
+    - Linux
+    - Webpage
+    - Networking
+tags:
+    - bash
+    - linux
+    - internet
+    - networking
 ---
 
 Linux Public IP

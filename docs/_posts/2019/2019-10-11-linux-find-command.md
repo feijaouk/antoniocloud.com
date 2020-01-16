@@ -1,6 +1,10 @@
 ---
-categories: [linux, bash]
-tags: [linux, security, bash]
+categories:
+    - Linux
+tags:
+    - linux
+    - security
+    - bash
 ---
 
 Linux find command

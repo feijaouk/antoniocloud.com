@@ -1,6 +1,12 @@
 ---
-categories: [aws, linux]
-tags: [aws, linux, s3, bash]
+categories:
+    - AWS
+    - Linux
+tags:
+    - aws
+    - linux
+    - s3
+    - bash
 ---
 
 S3 cp sync exclude include

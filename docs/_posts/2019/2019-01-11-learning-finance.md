@@ -6,7 +6,7 @@ tags:
     - online
     - training
     - cloud
-    - finance]
+    - finance
 ---
 
 Financial learning

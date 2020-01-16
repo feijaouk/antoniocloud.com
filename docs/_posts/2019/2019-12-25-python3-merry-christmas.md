@@ -2,9 +2,9 @@
 categories:
     - Python 3
 tags:
-    - Python 3
-    - Merry Christmas
-    - Coding
+    - python 3
+    - christmas
+    - coding
 ---
 
 Python 3 prints `Merry Christmas Everyone!`

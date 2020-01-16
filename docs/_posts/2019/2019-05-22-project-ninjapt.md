@@ -1,6 +1,16 @@
 ---
-categories: [aws, linux, migration]
-tags: [aws, linux, dns, sql, linux, apache, migration]
+categories:
+  - AWS
+  - Linux
+  - Migration
+tags:
+  - aws
+  - linux
+  - dns
+  - sql
+  - linux
+  - apache
+  - migration
 ---
 
 Ninja.pt

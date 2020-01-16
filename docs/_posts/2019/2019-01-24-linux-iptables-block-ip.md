@@ -1,6 +1,11 @@
 ---
-categories: [training, linux]
-tags: [linux, security, networking]
+categories:
+    -Training
+    - Linux
+tags:
+    - linux
+    - security
+    - networking
 ---
 
 Linux iptables, quick, simple and effective way to block an ip address or subnet range.

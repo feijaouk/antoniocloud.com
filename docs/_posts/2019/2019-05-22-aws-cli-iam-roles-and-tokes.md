@@ -1,7 +1,13 @@
 ---
-categories: [aws, security, linux]
-tags: [aws, security, authentication, linux]
-
+categories:
+    - AWS 
+    - Security
+    - Linux
+tags:
+    - aws
+    - security
+    - authentication
+    - linux
 ---
 
 AWS cli IAM roles and tokens

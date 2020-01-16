@@ -1,12 +1,12 @@
 ---
 categories:
     - Linux
-    - Raspberry PI
+    - Raspberry Pi
     - Networking
 tags:
-    - Linux
-    - Raspberry PI
-    - Networking
+    - linux
+    - raspberry pi
+    - networking
 ---
 
 Transform to run as a router and NAT device

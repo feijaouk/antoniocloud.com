@@ -1,6 +1,11 @@
 ---
-categories: [aws, linux]
-tags: [aws, linux, dns]
+categories:
+    - AWS
+    - Linux
+tags:
+    - aws
+    - linux
+    - dns
 ---
 
 Sample usage of Linux dig command for dns troubleshooting

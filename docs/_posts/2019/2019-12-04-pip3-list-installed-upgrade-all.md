@@ -3,8 +3,8 @@ categories:
     - Python 3
     - Linux
 tags:
-    - Python 3
-    - Linux
+    - python 3
+    - linux
     - pip3
     - shell-scripting
 ---

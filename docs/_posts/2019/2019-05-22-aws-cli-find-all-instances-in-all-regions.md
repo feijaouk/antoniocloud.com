@@ -1,6 +1,11 @@
 ---
-categories: [aws, linux]
-tags: [aws, ec2, command-line]
+categories:
+    - AWS
+    - Linux
+tags:
+    - aws
+    - ec2
+    - command-line
 ---
 
 Lists all ec2 instances in all regions including account owner, instance id, instance type, statues and region.
