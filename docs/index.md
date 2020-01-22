@@ -69,7 +69,7 @@ On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia
 
 ---
 
-## I believe we all can make a difference on the world to make it better, safer and cleaner for everyone!
+## I believe we all can make a difference in the world to make it better, safer and cleaner for everyone!
 
 I hope you enjoy my website as much I enjoy creating it.
 
