@@ -13,8 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: "AntonioCloud.com is Antonio Feijao UK"
 email: "antoniofeijao@gmail.com"
+
 description: >- # this means to ignore newlines until "baseurl:"
   "Welcome to my personal personal website!
   Antonio Cloud is Antonio Feijao UK, `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certifications.
@@ -22,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space` and `Physics` and more.
   I hope you enjoy my website as much I enjoyed creating it.
   Disclaimer: **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
+
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
@@ -69,10 +72,7 @@ author:
   bio    : "AntonioCloud.com is Antonio Feijao UK. Antonio is an `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. Disclaimer: **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
   location: "London, United Kingdom"
   links:
-    - label: "Buy-me-a-coffee"
-      icon: "fas fa-fw fa-link"
-      url: "https://ko-fi.com/B0B019526"
-    - label: "Website"
+    - label: "AntonioCloud.com"
       icon: "fas fa-fw fa-link"
       url: "https://www.antoniocloud.com"
     - label: "LinkedIn"
@@ -90,10 +90,7 @@ author:
 
 footer:
   links:
-    - label: "Buy-me-a-coffee"
-      icon: "fas fa-fw fa-link"
-      url: "https://ko-fi.com/B0B019526"
-    - label: "Website"
+    - label: "AntonioCloud.com"
       icon: "fas fa-fw fa-link"
       url: "https://www.antoniocloud.com"
     - label: "LinkedIn"
