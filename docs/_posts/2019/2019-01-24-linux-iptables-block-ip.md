@@ -1,6 +1,6 @@
 ---
 categories:
-    -Training
+    - Training
     - Linux
 tags:
     - linux
