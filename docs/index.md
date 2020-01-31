@@ -55,7 +55,7 @@ I update this page during my personal time. If you found anything that helped yo
 
 You will make me happy and will motivate me to write more content!
 
-[![buy me a ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coffee', '#29abe0', 'B0B019526');kofiwidget2.draw();</script> 
 
 ---
 
