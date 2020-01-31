@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Antonio Feijao UK"
   avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
-  bio    : "Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified. Other expertise include Red Hat, CentOS, Debian and Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more. I hope you enjoy my website as much I enjoyed creating it for the benefit of others. >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
+  bio    : "AntonioCloud.com is Antonio Feijao UK, AWS Solutions Architect. Advanced Networking and Security Specialty Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. Disclaimer: **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
   location: "London, United Kingdom"
   links:
     - label: "buy me a ko-fi"
@@ -91,7 +91,7 @@ author:
 footer:
   links:
     - label: "buy me a ko-fi"
-      icon: "<html><a href='https://ko-fi.com/B0B019526' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></html>"
+      icon: "./assets/images/ko-fi-icon-RGB-rounded.png"
       url: "https://ko-fi.com/B0B019526"
     - label: "Website"
       icon: "fas fa-fw fa-link"
