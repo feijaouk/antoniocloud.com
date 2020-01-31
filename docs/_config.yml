@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Antonio Feijao UK"
   avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
-  bio    : "AntonioCloud.com is Antonio Feijao UK, AWS Solutions Architect. Advanced Networking and Security Specialty Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. Disclaimer: **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
+  bio    : "AntonioCloud.com is Antonio Feijao UK. Antonio is an `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. Disclaimer: **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
   location: "London, United Kingdom"
   links:
     - label: "Buy-me-a-coffee"
