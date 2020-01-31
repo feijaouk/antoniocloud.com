@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-code.language-plaintext {
+code.language-plaintext.highlighter-rouge {
 	color: #C28100;
 	background-color: #0041C2;
 	padding-top: 1px;
