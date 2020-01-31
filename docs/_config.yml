@@ -69,9 +69,15 @@ author:
   bio    : "Antonio Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty Certified. Other expertise include Red Hat, CentOS, Debian and Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more. I am also passionate about our Planet Earth, Travel, Humanism, Space and Physics and more. I hope you enjoy my website as much I enjoyed creating it for the benefit of others. >> **The opinions expressed here are my own and do not necessarily represent those of current or past employers.** <<"
   location: "London, United Kingdom"
   links:
+    - label: "buy me a ko-fi"
+      icon: "https://www.ko-fi.com/img/githubbutton_sm.svg"
+      url: "https://ko-fi.com/B0B019526"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.antoniocloud.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/antoniofeijaouk/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AntonioFeijaoUK"
@@ -84,9 +90,15 @@ author:
 
 footer:
   links:
+    - label: "buy me a ko-fi"
+      icon: "https://www.ko-fi.com/img/githubbutton_sm.svg"
+      url: "https://ko-fi.com/B0B019526"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.antoniocloud.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/antoniofeijaouk/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AntonioFeijaoUK"

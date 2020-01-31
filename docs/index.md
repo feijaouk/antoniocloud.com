@@ -27,21 +27,21 @@ AntonioCloud.com is owned and maintained by Antonio Feijao UK.
 
 Welcome to [AntonioCloud.com](https://www.antoniocloud.com).
 
-I built this website to get hands-on experience and to share some of my personal learnings with others.
+I built this website to get hands-on experience and share my learnings.
 
-In this website you will find **Antonio Feijao UK**'s personal notes about AWS Cloud, Linux, Networking, Raspberry-Pi, Cyber Security, Python 3, coding and more.
+Here, you will find **Antonio Feijao UK**'s personal opinions, study notes from `AWS Cloud`, `Linux`, `Networking`, `Raspberry-Pi`, `IT Security`, `Cyber Security`, `Python 3`, `coding` and more.
 
 I am passionate about technology in general and I will use this page to share learnings with you and possible create positive discussions where I can learn from you too.
 
-Other areas of expertise I have are Red Hat, CentOS, Debian and Ubuntu Linux, Cisco Networking, Raspberry PI, Cyber Security, Bash shell-scripting, Python 3, coding and more.
+Other areas of expertise I have include `Red Hat`, `CentOS`, `Debian`, `Ubuntu`, `Linux` in general but also expertise in `Cisco Networking`, `Bash shell-scripting`.
 
-I am also passionate about our Planet Hearth, Travel, Humanism, Space and Physics
+I am also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and life in other planets.
 
 Say Hi! Leave a comment!
 
 ---
 
-## Explore my page and share feedback
+## Explore my page and share some feedback
 
 Explore the content of this website by exploring the **[Posts](/posts/)**, list by **[Categories](/categories/)** or list by **[tags](/tags/)**
 
@@ -55,17 +55,18 @@ I update this page during my personal time. If you found anything that helped yo
 
 You will make me happy and will motivate me to write more content!
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
+[![buy me a ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B019526)
 
 ---
 
 ## Albert Einstein
 
-On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found many of them inspirational and believe in them.
+On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found them inspirational and believe in them.
 
 > The only source of knowledge is experience.
 > 
 > by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
+>
 
 ---
 
