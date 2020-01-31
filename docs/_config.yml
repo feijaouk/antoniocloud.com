@@ -72,9 +72,9 @@ author:
   bio    : "AntonioCloud.com is Antonio Feijao UK. Antonio is an `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. Disclaimer: **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
   location: "London, United Kingdom"
   links:
-    - label: "<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy-me-a-coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script>"
+    - label: "https://ko-fi.com/B0B019526"
       icon: "fas fa-fw fa-coffee"
-      url: "https://ko-fi.com/B0B019526"
+      url: "<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy-me-a-coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script>"
     - label: "AntonioCloud.com"
       icon: "fas fa-fw fa-link"
       url: "https://www.antoniocloud.com"
