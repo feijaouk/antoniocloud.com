@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+code.language-plaintext {
+	color: #C28100;
+	background-color: #0041C2;
+	padding-top: 1px;
+	padding-right: 3px;
+	padding-bottom: 1px;
+   padding-left: 3px;
+   border-radius: 5px;
+   font-size: 14px;
+   font-weight: bold;
+   font-family: Monaco, 'Courier New', Courier, monospace;  
+}
+
+   
+   
