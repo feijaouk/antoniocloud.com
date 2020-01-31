@@ -70,7 +70,7 @@ author:
   location: "London, United Kingdom"
   links:
     - label: "buy me a ko-fi"
-      icon: "https://www.ko-fi.com/img/githubbutton_sm.svg"
+      icon: "<a href='https://ko-fi.com/B0B019526' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
       url: "https://ko-fi.com/B0B019526"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -91,7 +91,7 @@ author:
 footer:
   links:
     - label: "buy me a ko-fi"
-      icon: "https://www.ko-fi.com/img/githubbutton_sm.svg"
+      icon: "<a href='https://ko-fi.com/B0B019526' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>"
       url: "https://ko-fi.com/B0B019526"
     - label: "Website"
       icon: "fas fa-fw fa-link"
