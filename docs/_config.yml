@@ -70,8 +70,8 @@ author:
   location: "London, United Kingdom"
   links:
     - label: "Buy me a coffee"
-      icon: "![Buy me a coffee](https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2)"
-      url: "https://ko-fi.com/B0B019526"
+      icon: ""
+      url: "<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script>"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.antoniocloud.com"
@@ -91,8 +91,8 @@ author:
 footer:
   links:
     - label: "Buy me a coffee"
-      icon: "![Buy me a coffee]()./assets/images/ko-fi-icon-RGB-rounded.png)"
-      url: "https://ko-fi.com/B0B019526"
+      icon: ""
+      url: "<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script> "
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.antoniocloud.com"
