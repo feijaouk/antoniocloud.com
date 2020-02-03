@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: false
 tagline: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
@@ -15,63 +12,21 @@ header:
       url: "https://www.antoniocloud.com"
 ---
 
-AntonioCloud.com is owned and maintained by Antonio Feijao UK.
-{: .notice--success}
+Welcome to [AntonioCloud.com](https://www.antoniocloud.com). Here, you will find **Antonio Feijao UK**'s personal opinions, and study notes. [Antonio Feijao UK](https://www.antoniocloud.com) is an `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. **The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).**
 
-**Disclaimer** - [AntonioCloud.com](https://www.antoniocloud.com) is a personal website. The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).
-{: .notice--warning}
+I believe we all can make a difference in the world to make it better, safer and cleaner for everyone!
 
----
-
-## Welcome
-
-Welcome to [AntonioCloud.com](https://www.antoniocloud.com).
-
-I built this website to get hands-on experience and share my learnings.
-
-Here, you will find **Antonio Feijao UK**'s personal opinions, study notes from `AWS Cloud`, `Linux`, `Networking`, `Raspberry-Pi`, `IT Security`, `Cyber Security`, `Python 3`, `coding` and more.
-
-I am passionate about technology in general and I will use this page to share learnings with you and possible create positive discussions where I can learn from you too.
-
-Other areas of expertise I have include `Red Hat`, `CentOS`, `Debian`, `Ubuntu`, `Linux` in general but also expertise in `Cisco Networking`, `Bash shell-scripting`.
-
-I am also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and life in other planets.
-
-Say Hi! Leave a comment!
-
----
-
-## Explore my page and share some feedback
-
-Explore the content of this website by exploring the **[Posts](/posts/)**, list by **[Categories](/categories/)** or list by **[tags](/tags/)**
-
-Remember to provide feedback, I am passionate about learning! So I can learn from you too.
-
----
-
-## Buy me a coffee
-
-I update this page during my personal time. If you found anything that helped you, or you just want to support me, them buy me coffee!
-
-You will make me happy and will motivate me to write more content!
-
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script> 
+I hope you enjoy my website as much I enjoy creating it.
 
 ---
 
 ## Albert Einstein
-
-On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found them inspirational and believe in them.
 
 > The only source of knowledge is experience.
 > 
 > by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 >
 
+On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found them inspirational and believe in them.
+
 ---
-
-## I believe we all can make a difference in the world to make it better, safer and cleaner for everyone!
-
-I hope you enjoy my website as much I enjoy creating it.
-
-[Antonio Feijao UK](https://www.antoniocloud.com)
