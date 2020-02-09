@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Tags"
     url: /tags/
+  - title: "Training"
+    url: /training/
   - title: "Categories"
     url: /categories/
   - title: "Posts"
