@@ -10,7 +10,7 @@ toc_icon: "address-card"
 
 Collection of coding developing, online course and training websites
 
-## Official AWS Training
+## AWS main training page
 
 [Official AWS online training and courses](https://aws.training/)
 
