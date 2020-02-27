@@ -1,17 +1,19 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Tags"
-    url: /tags/
-  - title: "Training"
-    url: /training/
-  - title: "Categories"
-    url: /categories/
-  - title: "Posts"
-    url: /posts/
-  - title: "About"
-    url: /about/
-  - title: "Certifications"
-    url: /certifications/
-  - title: "Contact"
-    url: /contact/
+    - title: "Home"
+        url: /
+    - title: "Training"
+        url: /training/
+    - title: "Tags"
+        url: /tags/
+    - title: "Categories"
+        url: /categories/
+    - title: "Posts"
+        url: /posts/
+    - title: "Quotes"
+        url: /quotes/
+    - title: "About"
+        url: /about/
+    - title: "Certifications"
+        url: /certifications/
+    - title: "Contact"
+        url: /contact/
