@@ -24,7 +24,7 @@ A did quick research online and found in [here](https://www.question-defense.com
 
 I decided to write this article to remind me of this command and it might be useful for you too.
 
-![yum whatprovides tshark](../../assets/images/tshark-install-yum-whatprovides.jpg)
+![yum whatprovides tshark](/assets/images/tshark-install-yum-whatprovides.jpg)
 
 Try with other commands. Was this useful to you?
 
