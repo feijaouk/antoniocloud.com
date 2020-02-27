@@ -1,9 +1,14 @@
 ---
 date: 2020-02-27
-title: Practice python 3 with the fibonacci sequence
+title: "Practice Python 3 with the fibonacci sequence"
+last_modified_at: 2020-02-27
+categories:
+    - Python 3
+    - Coding
 tags:
     - python
-    - maths
+    - coding
+    - math
 ---
 
 Learn Python with a simple "do it yourself" challenges. I went to bed thinking "how could I do the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) without looking on the internet. Next day, getting python skills into practice, I came up with the below basic python code:
