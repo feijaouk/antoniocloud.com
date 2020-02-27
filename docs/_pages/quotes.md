@@ -5,7 +5,7 @@ permalink: /quotes/
 
 tagline: "Inspiring quotes by Albert Einstein"
 header:
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Albert_Einstein_%28Nobel%29.png"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/3/37/1919_eclipse_positive.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   image_description: "Inspiring quotes by Albert Einstein"
   caption: "Photo credit: [wikipedia.org](https://en.wikipedia.org/wiki/Albert_Einstein)."
