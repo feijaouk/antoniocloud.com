@@ -14,7 +14,7 @@ In mathematics, the Fibonacci numbers form a sequence called the Fibonacci seque
 
 Thought I would share this challenge in case there is someone out there looking to practice `Python 3` as weel. This is a simple and fun challenge. Try not to copy this code, create your own version, start simple, maybe just add numbers, then add the conditions `while loop`.
 
-![python-fibonacci-sequence-v2020-02-27](/assets/images/python-fibonacci-sequence-v2020-02-27.jpg)
+![python fibonacci sequence](/assets/images/python-fibonacci-sequence-v2020-02-27.jpg)
 
 
 No matter how we present these numbers, it always seems to be impressive. Maybe that is why they are also known as the "gold ratio".
