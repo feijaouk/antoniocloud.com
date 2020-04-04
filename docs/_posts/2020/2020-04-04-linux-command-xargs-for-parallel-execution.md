@@ -13,7 +13,7 @@ tags:
 
 > WORK IN PROGRESS
 
-`cat $URL | xargs -n1 -P10`
+`cat FILE_WITH_COMAMND_OR_WHATEVER | xargs -n1 -P10`
 
 `-n1` reads one line at a time
 
