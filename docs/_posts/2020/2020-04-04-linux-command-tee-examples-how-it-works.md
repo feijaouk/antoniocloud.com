@@ -11,16 +11,12 @@ tags:
     - parallel
 ---
 
+`tee` command in linux command line, how `tee` works, simple explanations. Imagine the `tee` command as a 'T' , input on the left and 2 exists or outputs, right and down. Output to a file or another command AND output to the screen.
+
 > WORK IN PROGRESS
 
 
 `cat SAMPLE_FILE | tee  > this_file.log`
-
-
-Image the `tee` command as a 'T'
-
-The input goes into for this command goes can go to 2 different outputs.
-
 
 ```bash
 
@@ -34,8 +30,6 @@ INPUT >>> ----|-----  >>> output
               >>>> output
 
 ```
-
-
 
 
 Happy learning!

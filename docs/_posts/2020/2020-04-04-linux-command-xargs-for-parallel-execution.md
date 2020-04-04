@@ -11,6 +11,8 @@ tags:
     - parallel
 ---
 
+`xargs` command can be use to speed up linux command and run mulitiple linux command in parallel.
+
 > WORK IN PROGRESS
 
 `cat FILE_WITH_COMAMND_OR_WHATEVER | xargs -n1 -P10`
