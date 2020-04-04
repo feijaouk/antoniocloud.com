@@ -20,14 +20,14 @@ tags:
 
 ```bash
 
-INPUT >>> ----|-----  >>> output
+INPUT >>> ----|-----  >>> output_file OR output_to_another_command
               |
               |
               |
               |
               |
               
-              >>>> output
+              >>>> output_to_screen
 
 ```
 
