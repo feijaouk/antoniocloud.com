@@ -17,7 +17,7 @@ tags:
 Sample of an AWS EC2 `userdata` script that install `apache` and automatically creates an `index.html` file as a landing webpage with information about the instance - `instanceId`, `availabilityZone`, `instanceType` and `region`. This could also be used with [launch configuration](https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchConfiguration.html) on an [Auto Scaling Group](https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroup.html) (`ASG`) to use as multiple instance on [Elastic Load Balancing load balancer](https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-register-lbs-with-asg.html) (`ALB`) to easy show the usage of multiple instances behind the load balancer.
 
 
-<style link rel="stylesheet" type="text/css" href="https://gist.githubusercontent.com/Reelix/c92051efb62171e868daf57aaa1f9f88/raw/c4af67597133dc7cd808d6ac2b7cc4244d2f0542/gist-embed-dark.css">
+<style type="text/css" href="https://gist.githubusercontent.com/Reelix/c92051efb62171e868daf57aaa1f9f88/raw/c4af67597133dc7cd808d6ac2b7cc4244d2f0542/gist-embed-dark.css">
   .gist-file
 </style>
 
