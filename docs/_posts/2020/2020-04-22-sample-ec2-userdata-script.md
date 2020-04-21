@@ -1,6 +1,6 @@
 ---
 title: AWS EC2 userdata sample script
-date: 2020-04-121
+date: 2020-04-21
 last_modified_at: 2020-04-21
 categories:
     - AWS
