@@ -14,7 +14,7 @@ tags:
     - script
 ---
 
-Sample of an AWS EC2 `userdata` script that install `apache` and automaticaclly creates an `index.html` file as a landing webpage with information about the instance - instanceId, availabilityZone, instanceType, region. This could also be used with `lunch configuration` on an `ALB` to easy show the usage of multiple instances behind the load balancer.
+Sample of an AWS EC2 `userdata` script that install `apache` and automatically creates an `index.html` file as a landing webpage with information about the instance - instanceId, availabilityZone, instanceType, region. This could also be used with `lunch configuration` on an `ALB` to easy show the usage of multiple instances behind the load balancer.
   
 
 EC2 with webserver - <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html>
