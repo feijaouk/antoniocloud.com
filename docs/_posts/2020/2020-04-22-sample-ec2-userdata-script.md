@@ -1,3 +1,27 @@
+---
+title: AWS EC2 userdata sample script
+date: 2020-04-121
+last_modified_at: 2020-04-21
+categories:
+    - AWS
+    - Linux
+    - Bash
+tags:
+    - shell
+    - bash
+    - aws
+    - ec2
+    - script
+---
+
+Sample of an AWS EC2 `userdata` script that loads install `apache` and automaticaclly created a `index.html` webpage with information about the instance - instanceId, availabilityZone, instanceType, region. This could also be used with `lunch configuration` on `ALB` to easy show the usage of multiple instances.
+  
+
+EC2 with webserver - <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html>
+
+EC2 metadata - <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-identity-documents.html>
+
+
 
 ```bash
 
@@ -55,3 +79,11 @@ cat <<EOF >> /var/www/html/index.html
 </html> 
 EOF
 ```
+
+
+If you tried it and helped you understsand better how it works, please leave a comment.
+
+
+Happy learnings,
+
+Antonio
