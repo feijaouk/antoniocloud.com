@@ -199,6 +199,10 @@ See this list of the smartest people ever on Earth, listed by their level of IQ!
 
 - Marilyn Vos Savant `IQ of 228`
 
+![Marilyn Vos Savant](https://live.staticflickr.com/1791/41959101350_caa7b94995_k.jpg)
+
+[Photo credits](https://www.flickr.com/photos/156235789@N02/41959101350)
+
 - [https://en.wikipedia.org/wiki/Marilyn_vos_Savant](https://en.wikipedia.org/wiki/Marilyn_vos_Savant)
 
 - Born August 11, 1946, St. Louis, Missouri, U.S.
