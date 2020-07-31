@@ -89,7 +89,7 @@ author:
       url: "https://github.com/AntonioFeijaoUK"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/AntonioFeijaoUK"
+      url: "https://www.instagram.com/antoniofeijaouk/"
 
 footer:
   links:
@@ -107,7 +107,7 @@ footer:
       url: "https://twitter.com/AntonioFeijaoUK"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/AntonioFeijaoUK"
+      url: "https://www.instagram.com/antoniofeijaouk/"
 
 defaults:
   # _posts
