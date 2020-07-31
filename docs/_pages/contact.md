@@ -11,5 +11,5 @@ Contact Antonio Feijao UK
 Here is how to contact Antonio Feijao UK. Please consider treating me, the way you would like to be treated.
 
 ```python
-print('email me at: antoniofeijao AT gmail.com')
+print('contact me at "antoniofeijao[AT]gmail.com')
 ```
