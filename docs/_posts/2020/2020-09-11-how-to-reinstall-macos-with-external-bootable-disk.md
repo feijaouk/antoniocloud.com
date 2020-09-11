@@ -26,7 +26,7 @@ The purporse of this post is to share the links from [support.apple.com](https:/
 
 ---
 
-## How to create a bootable installer for macOS**
+## How to create a bootable installer for macOS
 
 * <https://support.apple.com/en-us/HT201372>
 
@@ -53,8 +53,6 @@ The purporse of this post is to share the links from [support.apple.com](https:/
 ## How to upgrade to OS X El Capitan
 
 <https://support.apple.com/en-gb/HT206886>
-
-
 
 ---
 
