@@ -1,6 +1,6 @@
 ---
 title: AWS online training source materials
-layout: single
+layout: splash
 author_profile: true
 permalink: /training/
 toc: true
@@ -25,9 +25,9 @@ Collection of links to AWS online training resources, mostly free training.
 
 ## AWS online Learning Library
 
-- [https://aws.training](https://aws.training)
+- <https://aws.training>
 
-    - [https://www.aws.training/LearningLibrary](https://www.aws.training/LearningLibrary)
+    - <https://www.aws.training/LearningLibrary>
     
     - [AWS Cloud Practitioner Essentials (Second Edition) - 6 hours](https://www.aws.training/learningobject/curriculum?id=27076)
     
@@ -70,7 +70,7 @@ Collection of links to AWS online training resources, mostly free training.
 
 ## Coursera aws training
 
-- [https://www.coursera.org/aws](https://www.coursera.org/aws)
+- <https://www.coursera.org/aws>
 
 - <https://www.coursera.org/learn/aws-fundamentals-going-cloud-native>
 
@@ -88,13 +88,13 @@ Collection of links to AWS online training resources, mostly free training.
 
 - <https://cloudacademy.com/library/amazon-web-services/>
 
-- <https://www.whizlabs.com/](https://www.whizlabs.com/>
+- <https://www.whizlabs.com/>
 
 ---
 
 ## Online diagrams drawing
 
-- [https://www.draw.io/](https://www.draw.io/)  <-- Remember to enable the `AWS2017, AWS2018, AWS2019` stencils.
+- <https://www.draw.io/>  <-- Remember to enable the `AWS2017, AWS2018, AWS2019` stencils.
 
-- [https://www.lucidchart.com](https://www.lucidchart.com)
+- <https://www.lucidchart.com>
 
