@@ -1,7 +1,10 @@
 ---
 layout: home
-author_profile: false
+
+author_profile: true
+
 tagline: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
+
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,13 +23,11 @@ I hope you enjoy my website as much I enjoy creating it.
 
 ---
 
-## Albert Einstein
+On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found them inspirational and believe most of them.
 
 > The only source of knowledge is experience.
 > 
 > by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 >
-
-On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found them inspirational and believe in them.
 
 ---
