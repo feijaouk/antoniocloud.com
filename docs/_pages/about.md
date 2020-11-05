@@ -19,6 +19,7 @@ header:
       url: "https://www.antoniocloud.com"
 
 toc: true
+toc_sticky: true
 toc_label: "About Antonio"
 toc_icon: "address-card"
 ---
