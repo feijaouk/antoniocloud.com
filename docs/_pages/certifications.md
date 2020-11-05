@@ -8,6 +8,7 @@ author_profile: true
 permalink: /certifications/
 
 toc: true
+toc_sticky: true
 toc_label: "Antonio's Certifications"
 toc_icon: "address-card"
 ---
