@@ -1,11 +1,16 @@
 ---
-title: How to reinstall MacOS with external bootable disk 
+title: How to reinstall MacOS with external bootable disk
+
+layout: post
+
 date: 2020-09-11
 last_modified_at:
+
 categories:
     - macOS
     - Apple
     - Linux
+
 tags:
     - macos
     - apple
