@@ -1,15 +1,22 @@
 ---
 title: AWS online training source materials
-layout: splash
+
+layout: single
+
 author_profile: true
+
 permalink: /training/
+
 toc: true
+toc_sticky: true
 toc_label: "training"
 toc_icon: "address-card"
+
 categories:
     - Training
     - AWS
     - Education
+
 tags:
     - online
     - training
