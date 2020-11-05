@@ -1,7 +1,7 @@
 ---
 title: "About Antonio Cloud, Antonio Feijao UK"
 
-layout: splash
+layout: default
 
 author_profile: true
 
