@@ -1,7 +1,7 @@
 ---
 title: "Inspirational and Motivational Quotes to Inspire You to Be Successful"
 
-layout: splash
+layout: single
 
 author_profile: true
 
@@ -11,6 +11,7 @@ last_modified_at: 2020-02-27
 permalink: /quotes/
 
 toc: true
+toc_sticky: true
 toc_label: "Quotes"
 toc_icon: "address-card"
 
