@@ -88,10 +88,9 @@ Collection of links to AWS online training resources, mostly free training.
 
 ## Other online training sites
 
-- <https://linuxacademy.com/amazon-web-services/courses>
-
 - <https://acloud.guru/courses/amazon-web-services>
-
+  - <https://linuxacademy.com/amazon-web-services/courses> (bought by acloud.guru)
+  
 - <https://cloudacademy.com/library/amazon-web-services/>
 
 - <https://www.whizlabs.com/>
