@@ -37,7 +37,7 @@ On this page, find inspirational and motivational quotes to inspire you to be su
 
 - Qoutes by [Albert Einstein](#inspirational-and-motivational-quotes-by-albert-einstein).
 
-- Quotes by [Jeffrey Preston Bezos](/#inspirational-and-motivational-quotes-by-jeff-bezos).
+- Quotes by [Jeffrey Preston Bezos](#inspirational-and-motivational-quotes-by-jeff-bezos).
 
 
 - Follow these links into the Wikipedia to learn more about:
