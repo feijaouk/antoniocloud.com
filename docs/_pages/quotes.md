@@ -1,7 +1,7 @@
 ---
 title: "Inspirational and Motivational Quotes to Inspire You to Be Successful"
 
-layout: single
+layout: splash
 
 author_profile: true
 
