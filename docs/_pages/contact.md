@@ -1,7 +1,9 @@
 ---
 title: "Contact Antonio Feijao UK"
 excerpt: "Contact Antonio Feijao UK"
-layout: single
+
+layout: splash
+
 author_profile: true
 permalink: /contact/
 ---
