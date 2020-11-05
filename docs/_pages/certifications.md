@@ -1,7 +1,7 @@
 ---
 title: Antonio Feijao UK certifications
 
-layout: page
+layout: single
 
 author_profile: true
 
