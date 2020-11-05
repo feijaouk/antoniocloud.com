@@ -33,13 +33,14 @@ tags:
     - inspirational
 ---
 
-Inspirational and motivational quotes to inspire you to be successful, currently quotes by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) and [Jeffrey Preston Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos).
+On this page, find inspirational and motivational quotes to inspire you to be successful.
+Qoutes by [Albert Einstein](/#inspirational-and-motivational-quotes-by-albert-einstein).
+Quotes by [Jeffrey Preston Bezos](/#inspirational-and-motivational-quotes-by-jeff-bezos).
 
+Follow these links into the Wikipedia to learn more about [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) or [Jeffrey Preston Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos).
 ---
 
 ## Inspirational and motivational quotes by Albert Einstein
-
-Inspiring quotes by [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 
 > Few are those who see with their own eyes and feel with their own hearts.
