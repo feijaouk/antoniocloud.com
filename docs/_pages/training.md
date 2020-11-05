@@ -51,7 +51,6 @@ Collection of links to AWS online training resources, mostly free training.
 - <https://github.com/angelarw/aws-hands-on-workshops>
 - <https://search-sa-log-solutions.s3-us-east-2.amazonaws.com/logstash/html/Lab_Guide_ABD326.html>
 - <https://github.com/awslabs/aws-well-architected-labs>
-- <https://github.com/awslabs/aws-well-architected-labs>
 - <https://master.d16mn49ivcogrk.amplifyapp.com/>
 - <https://cfn101.solution.builders/>
 - <https://github.com/awslabs?page=2>
