@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "AntonioCloud.com is Antonio Feijao UK"
+title: "Antonio.Cloud, Antonio Feijao UK"
 email: "antoniofeijao@gmail.com"
 
 description: >- # this means to ignore newlines until "baseurl:"
   "Welcome to my personal personal website!
-  Antonio Cloud is Antonio Feijao UK, `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certifications.
+  Antonio[`dot`]Cloud is **Antonio Feijao UK**, `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certifications.
   Other areas of expertise include `Amazon Linux`, `Red Hat`, `CentOS`, `Debian, Ubuntu, `Linux` in general, `Cisco Firewalls`, `Routing` and `Switching` Networking, `Raspberry Pi`, `IT Security`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `Electronics`, `coding` and more.
   I am also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space` and `Physics` and more.
   I hope you enjoy my website as much I enjoyed creating it.
@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
-minimal_mistakes_skin: dark # contrast # air # default: 'default'
+minimal_mistakes_skin: contrast #dark #contrast #air #default: 'default'
 search: true
 
 locale: "en-GB"
@@ -75,9 +75,9 @@ author:
     - label: "<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy-me-a-coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script>"
       icon: "fas fa-fw fa-coffee"
       url: "https://ko-fi.com/B0B019526"
-    - label: "AntonioCloud.com"
+    - label: "Antonio.Cloud"
       icon: "fas fa-fw fa-link"
-      url: "https://www.antoniocloud.com"
+      url: "https://Antonio.Cloud"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/antoniofeijaouk/"
@@ -93,9 +93,9 @@ author:
 
 footer:
   links:
-    - label: "AntonioCloud.com"
+    - label: "Antonio.Cloud"
       icon: "fas fa-fw fa-link"
-      url: "https://www.antoniocloud.com"
+      url: "https://Antonio.Cloud"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/antoniofeijaouk/"
