@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Antonio.Cloud, Antonio Feijao UK"
+title: "Antonio.Cloud is Antonio Feijao UK"
 email: "antoniofeijao@gmail.com"
 
 description: >- # this means to ignore newlines until "baseurl:"
@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
-minimal_mistakes_skin: contrast #dark #contrast #air #default: 'default'
+minimal_mistakes_skin: air  #dark #contrast #air #default: 'default'
 search: true
 
 locale: "en-GB"
