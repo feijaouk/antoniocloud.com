@@ -3,7 +3,7 @@ layout: home
 
 author_profile: true
 
-tagline: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
+tagline: "Antonio[`dot`]Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
 
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
@@ -15,7 +15,7 @@ header:
       url: "https://www.antoniocloud.com"
 ---
 
-Welcome to [AntonioCloud.com](https://www.antoniocloud.com). Here, you will find **Antonio Feijao UK**'s personal opinions, and study notes. [Antonio Feijao UK](https://www.antoniocloud.com) is an `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. **The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).**
+Welcome to [Antonio[`dot`]Cloud](https://Antonio.Cloud). Here, you will find **Antonio Feijao UK**'s personal opinions, and study notes. [Antonio Feijao UK](https://Antonio.Cloud) is an `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. **The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).**
 
 I believe we all can make a difference in the world to make it better, safer and cleaner for everyone!
 
