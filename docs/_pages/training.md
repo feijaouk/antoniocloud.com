@@ -1,11 +1,6 @@
 ---
 title: AWS online training source materials
 
-layout: single
-classes: wide
-
-author_profile: true
-
 permalink: /training/
 
 toc: true
@@ -26,7 +21,6 @@ tags:
     - security
     - best practices
     - workshops
-
 ---
 
 Collection of links to AWS online training resources, mostly free training. 
