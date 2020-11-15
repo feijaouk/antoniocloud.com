@@ -17,16 +17,15 @@
 title: "Antonio.Cloud is Antonio Feijao UK"
 email: "antoniofeijao@gmail.com"
 
-
-
-
 description: >- # this means to ignore newlines until "baseurl:"
   "description Antonio.Cloud, Antonio Feijao UK, Solutions Architect, SA, at Amazon Web Services, AWS"
 #  Speciality certifications on Advanced Networking and Security.
 #  I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
 #  This is my personal website.
 #  **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
+
 baseurl:
+
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
 
@@ -73,7 +72,8 @@ plugins:
 author:
   name   : "Antonio Feijao UK"
   avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
-  bio    : "bio- Solutions Architect (SA) at Amazon Web Services (AWS), with `Speciality certifications` on `Advanced Networking` and `Security`."
+  bio    : "bio Solutions Architect SA at Amazon Web Services AWS"
+  #, with `Speciality certifications` on `Advanced Networking` and `Security`."
   #I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads. This is my personal website. **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
 location: "London, United Kingdom"
   links:
@@ -85,7 +85,7 @@ location: "London, United Kingdom"
       url: "https://Antonio.Cloud"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/antoniofeijaouk/"
+      url: "https://www.linkedin.com/in/AntonioFeijaoUK/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AntonioFeijaoUK"
@@ -94,7 +94,7 @@ location: "London, United Kingdom"
       url: "https://github.com/AntonioFeijaoUK"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/antoniofeijaouk/"
+      url: "https://www.instagram.com/AntonioFeijaoUK/"
 
 footer:
   links:
@@ -103,7 +103,7 @@ footer:
       url: "https://Antonio.Cloud"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/antoniofeijaouk/"
+      url: "https://www.linkedin.com/in/AntonioFeijaoUK/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AntonioFeijaoUK"
@@ -112,7 +112,7 @@ footer:
       url: "https://twitter.com/AntonioFeijaoUK"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/antoniofeijaouk/"
+      url: "https://www.instagram.com/AntonioFeijaoUK/"
 
 defaults:
   # _posts
