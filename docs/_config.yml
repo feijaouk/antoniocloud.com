@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+
 title: "Antonio.Cloud is Antonio Feijao UK"
 email: "antoniofeijao@gmail.com"
 
@@ -26,6 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
+
 
 ## skins https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 minimal_mistakes_skin: dark  #dark #contrast #air #default: 'default'
