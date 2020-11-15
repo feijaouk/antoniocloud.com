@@ -71,4 +71,30 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+author:
+  name   : "Antonio Feijao UK"
+  avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
+  bio    : "bio Solutions Architect SA at Amazon Web Services AWS"
+  #, with `Speciality certifications` on `Advanced Networking` and `Security`."
+  #I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads. This is my personal website. **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
+  location: "London, United Kingdom"
+  links:
+    - label: "<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy-me-a-coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script>"
+      icon: "fas fa-fw fa-coffee"
+      url: "https://ko-fi.com/B0B019526"
+    - label: "Antonio.Cloud"
+      icon: "fas fa-fw fa-link"
+      url: "https://Antonio.Cloud"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/AntonioFeijaoUK/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AntonioFeijaoUK"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AntonioFeijaoUK"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/AntonioFeijaoUK/"
 
