@@ -15,20 +15,20 @@
 # in the templates via {{ site.myvariable }}.
 
 description: >- # this means to ignore newlines until "baseurl:"
-  "description Antonio.Cloud is Antonio Feijao UK, Solutions Architect, SA, at Amazon Web Services, AWS"
-#  Speciality certifications on Advanced Networking and Security.
-#  I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
-#  This is my personal website.
-#  **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
-
+  "description `Antonio[dot]Cloud` is `Antonio Feijao UK`, a Solutions Architect (SA), at Amazon Web Services (AWS)
+  with Speciality certifications on Advanced Networking and Security.
+  I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
+  This is my personal website.
+  **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
 
 title: "Antonio.Cloud is Antonio Feijao UK"
+
 email: "antoniofeijao@gmail.com"
 
 baseurl:
 
 twitter_username: AntonioFeijaoUK
-github_username: AntonioFeijaoUK
+github_username:  AntonioFeijaoUK
 
 ## skins https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 minimal_mistakes_skin: dark  #dark #contrast #air #default: 'default'
