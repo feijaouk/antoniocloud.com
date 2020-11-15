@@ -14,15 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Antonio.Cloud is Antonio Feijao UK"
-email: "antoniofeijao@gmail.com"
-
 description: >- # this means to ignore newlines until "baseurl:"
-  "description Antonio.Cloud, Antonio Feijao UK, Solutions Architect, SA, at Amazon Web Services, AWS"
+  "description Antonio.Cloud is Antonio Feijao UK, Solutions Architect, SA, at Amazon Web Services, AWS"
 #  Speciality certifications on Advanced Networking and Security.
 #  I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
 #  This is my personal website.
 #  **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
+
+
+title: "Antonio.Cloud is Antonio Feijao UK"
+email: "antoniofeijao@gmail.com"
 
 baseurl:
 
