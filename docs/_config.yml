@@ -18,17 +18,15 @@ title: "Antonio.Cloud is Antonio Feijao UK"
 email: "antoniofeijao@gmail.com"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  "Welcome to my personal personal website!
-  Antonio[`dot`]Cloud is **Antonio Feijao UK**, `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certifications.
-  Other areas of expertise include `Amazon Linux`, `Red Hat`, `CentOS`, `Debian, Ubuntu, `Linux` in general, `Cisco Firewalls`, `Routing` and `Switching` Networking, `Raspberry Pi`, `IT Security`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `Electronics`, `coding` and more.
-  I am also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space` and `Physics` and more.
-  I hope you enjoy my website as much I enjoyed creating it.
-  Disclaimer: **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
-
+  "Antonio[`dot`]Cloud is Antonio Feijao UK another Solutions Architect (SA) at Amazon Web Services (AWS)
+  with Advanced Networking and Security Specialty certifications"
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
-minimal_mistakes_skin: air  #dark #contrast #air #default: 'default'
+
+## skins https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+minimal_mistakes_skin: dark  #dark #contrast #air #default: 'default'
+
 search: true
 
 locale: "en-GB"
