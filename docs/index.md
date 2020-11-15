@@ -3,27 +3,44 @@ layout: home
 
 author_profile: true
 
-tagline: "Antonio[`dot`]Cloud is Antonio Feijao UK, AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
+tagline: "Antonio[`dot`]Cloud is Antonio Feijao UK another Solutions Architect (SA) at Amazon Web Services (AWS) with Advanced Networking and Security Specialty certifications"
 
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  image_description: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications."
+  image_description: "Antonio.Cloud"
   caption: "Photo by [**Antonio Feijao UK**](https://www.antoniocloud.com), snorkeling in Mexican waters."
   actions:
     - label: "Antonio Feijao UK"
       url: "https://www.antoniocloud.com"
 ---
 
-Welcome to [Antonio[`dot`]Cloud](https://Antonio.Cloud). Here, you will find **Antonio Feijao UK**'s personal opinions, and study notes. [Antonio Feijao UK](https://Antonio.Cloud) is an `AWS Solutions Architect`, with `Advanced Networking` and `Security Specialty` Certified. Other expertise include `Red Hat`, `CentOS`, `Debian`, `Ubuntu` and `Linux` in general, `Cisco Networking`, `Raspberry Pi`, `Cyber Security`, `Bash shell-scripting`, `Python 3`, `coding` and more. Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`. I hope you enjoy my website as much I enjoyed creating it. **The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).**
+Hi and welcome to [Antonio[`dot`]Cloud](https://Antonio.Cloud).
 
-I believe we all can make a difference in the world to make it better, safer and cleaner for everyone!
+[Antonio[`dot`]Cloud](https://Antonio.Cloud) is **Antonio Feijao UK**'s personal website with personal opinions and some study notes.
 
-I hope you enjoy my website as much I enjoy creating it.
+[Antonio Feijao UK](https://Antonio.Cloud), works as a `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
+
+As a SA for AWS, I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads, based on the five pillars of `operational excellence`, `security`, `reliability`, `performance efficiency`, and `cost optimization` - check out more - <https://aws.amazon.com/architecture/well-architected/>.
+
+[Antonio Feijao UK](https://Antonio.Cloud) has various technical certifications, including `Advanced Networking`, `Security Specialty` Certified.
+
+Other areas of expertise include:
+
+- `Linux OS`, `Red Hat`, `CentOS`, `Debian`, `Ubuntu`, 
+- `Bash`, `shell-scripting`, `Python 3`, `coding` and more. 
+- `Cisco Networking`
+- `Raspberry Pi`, `apt`
+- `Cyber Security`
+- ... and more
+
+Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`.
+
+I hope you enjoy my website as much I updating it.
+
+**The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).**
 
 ---
-
-On my website, you will find  quotes from [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), that's because I found them inspirational and believe most of them.
 
 > The only source of knowledge is experience.
 > 
