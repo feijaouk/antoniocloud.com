@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: home
 
-author_profile: false
+author_profile: true
 
 tagline: "Antonio[dot]Cloud is Antonio Feijao UK, Solutions Architect (SA) at Amazon Web Services (AWS) with Advanced Networking and Security Specialty certifications"
 
