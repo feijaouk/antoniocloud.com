@@ -1,9 +1,10 @@
 ---
 layout: home
+classes: wide
 
 author_profile: true
 
-tagline: "Solutions Architect (SA) at Amazon Web Services (AWS) with Advanced Networking and Security Specialty certifications"
+tagline: "Solutions Architect (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com) with speciality certifications on `Advanced Networking` and `Security Specialty`."
 
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
@@ -15,13 +16,13 @@ header:
       url: "https://antonio.cloud"
 ---
 
-Hi and welcome to [Antonio[dot]Cloud](https://Antonio.Cloud).
+Hi and welcome to [Antonio.Cloud](https://Antonio.Cloud).
 
-[Antonio[dot]Cloud](https://Antonio.Cloud) is **Antonio Feijao UK**'s personal website where I share my personal opinions and some study notes.
+[Antonio.Cloud](https://Antonio.Cloud) is the personal website of **Antonio Feijao UK**. Here I share my personal opinions and some study notes to might help others.
 
-- Currently, I working as `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
+- Currently, I am a `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
-As an SA for AWS, I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
+As an SA for AWS, I help customers building `secure`, `high-performing`, `resilient`, and `efficient infrastructure` for their applications and workloads.
 
 As I guidance, I follow the [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) five pillars:
 
