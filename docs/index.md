@@ -3,16 +3,16 @@ layout: home
 
 author_profile: true
 
-tagline: "Antonio[dot]Cloud is Antonio Feijao UK, Solutions Architect (SA) at Amazon Web Services (AWS) with Advanced Networking and Security Specialty certifications"
+tagline: "Solutions Architect (SA) at Amazon Web Services (AWS) with Advanced Networking and Security Specialty certifications"
 
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5     # same as adding an opacity of 0.5 to a black background
   image_description: "Antonio.Cloud"
-  caption: "Photo by [**Antonio Feijao UK**](https://www.antoniocloud.com), snorkeling in Mexican waters."
+  caption: "Photo by [**Antonio Feijao UK**](https://antonio.cloud), snorkeling in Mexican waters."
   actions:
     - label: "Antonio Feijao UK"
-      url: "https://www.antoniocloud.com"
+      url: "https://antonio.cloud"
 ---
 
 Hi and welcome to [Antonio[dot]Cloud](https://Antonio.Cloud).
