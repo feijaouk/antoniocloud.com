@@ -2,6 +2,7 @@
 title: AWS online training source materials
 
 layout: single
+classes: wide
 
 author_profile: true
 
