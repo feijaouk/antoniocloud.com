@@ -4,7 +4,7 @@ classes: wide
 
 author_profile: true
 
-tagline: "Solutions Architect (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com) with speciality certifications on `Advanced Networking` and `Security Specialty`."
+tagline: "Solutions Architect (SA) at Amazon Web Services (AWS) with speciality certifications of `Advanced Networking` and `Security Specialty`."
 
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
@@ -18,7 +18,7 @@ header:
 
 Hi and welcome to [Antonio.Cloud](https://Antonio.Cloud).
 
-[Antonio.Cloud](https://Antonio.Cloud) is the personal website of **Antonio Feijao UK**. Here I share my personal opinions and some study notes to might help others.
+[Antonio.Cloud](https://Antonio.Cloud) is the personal website of **Antonio Feijao UK**. Here I share my personal opinions and some study notes that might help others.
 
 - Currently, I am a `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
