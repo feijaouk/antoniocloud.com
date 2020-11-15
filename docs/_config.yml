@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
   This is my personal website.
   **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
+
 baseurl:
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
