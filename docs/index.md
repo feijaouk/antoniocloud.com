@@ -1,7 +1,7 @@
 ---
 layout: home
 
-author_profile: true
+author_profile: false
 
 tagline: "Antonio[dot]Cloud is Antonio Feijao UK, Solutions Architect (SA) at Amazon Web Services (AWS) with Advanced Networking and Security Specialty certifications"
 
@@ -15,15 +15,15 @@ header:
       url: "https://www.antoniocloud.com"
 ---
 
-Hi and welcome to [Antonio[`dot`]Cloud](https://Antonio.Cloud).
+Hi and welcome to [Antonio[dot]Cloud](https://Antonio.Cloud).
 
-[Antonio[`dot`]Cloud](https://Antonio.Cloud) is **Antonio Feijao UK**'s personal website with personal opinions and some study notes.
+[Antonio[dot]Cloud](https://Antonio.Cloud) is **Antonio Feijao UK**'s personal website with personal opinions and some study notes.
 
 - Currently working as `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
 As a SA for AWS, I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
 
-As I guidance, I usually refer to the [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) five pillars:
+As I guidance, I follow the [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) five pillars:
 
 - `operational excellence`
 - `security`
@@ -59,7 +59,7 @@ Also passionate about
 
 ---
 
-I hope you enjoy my website as much I updating it.
+I hope you enjoy my website as much I enjoy updating it.
 
 **The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).**
 
