@@ -3,7 +3,7 @@ layout: home
 
 author_profile: true
 
-tagline: "Antonio[`dot`]Cloud is Antonio Feijao UK another Solutions Architect (SA) at Amazon Web Services (AWS) with Advanced Networking and Security Specialty certifications"
+tagline: "Antonio[dot]Cloud is Antonio Feijao UK, Solutions Architect (SA) at Amazon Web Services (AWS) with Advanced Networking and Security Specialty certifications"
 
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
@@ -19,22 +19,45 @@ Hi and welcome to [Antonio[`dot`]Cloud](https://Antonio.Cloud).
 
 [Antonio[`dot`]Cloud](https://Antonio.Cloud) is **Antonio Feijao UK**'s personal website with personal opinions and some study notes.
 
-[Antonio Feijao UK](https://Antonio.Cloud), works as a `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
+- Currently working as `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
-As a SA for AWS, I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads, based on the five pillars of `operational excellence`, `security`, `reliability`, `performance efficiency`, and `cost optimization` - check out more - <https://aws.amazon.com/architecture/well-architected/>.
+As a SA for AWS, I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
 
-[Antonio Feijao UK](https://Antonio.Cloud) has various technical certifications, including `Advanced Networking`, `Security Specialty` Certified.
+As I guidance, I usually refer to the [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) five pillars:
+
+- `operational excellence`
+- `security`
+- `reliability`
+- `performance efficiency`
+- `cost optimization`
+
+[Antonio Feijao UK](https://Antonio.Cloud) has various technical certifications, including
+
+- `Advanced Networking`
+- `Security Specialty` Certified.
+- [check my other certifications](https://antonio.cloud/certifications/)
+
 
 Other areas of expertise include:
 
-- `Linux OS`, `Red Hat`, `CentOS`, `Debian`, `Ubuntu`, 
-- `Bash`, `shell-scripting`, `Python 3`, `coding` and more. 
-- `Cisco Networking`
-- `Raspberry Pi`, `apt`
-- `Cyber Security`
+- `Linux OS`, `Red Hat`, `CentOS`, `Debian`, `Ubuntu`, `Debian`, ...
+- `Bash`, `shell-scripting`
+- `Python 3`
+- `Cisco Networking`, `Cisco Routing`, `Cisco Firewalls`, `Cisco ASA`
+- `Raspberry Pi`, `electronics`
+- `Cyber Security`, `IT Security`
 - ... and more
 
-Also passionate about our `Planet Earth`, `Travel`, `Humanism`, `Space`, `Physics` and `life in other planets`.
+Also passionate about
+
+- `Planet Earth`
+- `Travel`
+- `Humanism`
+- `Space`
+- `Physics`
+- `life in other planets`
+
+---
 
 I hope you enjoy my website as much I updating it.
 
