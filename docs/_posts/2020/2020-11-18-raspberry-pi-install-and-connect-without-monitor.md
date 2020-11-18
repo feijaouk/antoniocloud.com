@@ -103,6 +103,18 @@ psk="MY_WIFI_PASSWORD"
 }
 ```
 
+if you cannot copy the files, why not use the command line?
+
+```
+cd /Volumes/boot
+
+touch ssh
+
+vim wpa_supplicant.conf << and add the content in here
+
+```
+
+
 ## Conclusion
 
 And that's it :)
