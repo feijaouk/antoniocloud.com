@@ -14,28 +14,26 @@ tags:
     - dd
 ---
 
-## Intro 
+The purpose of this post is to briefly show how to install the [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) into a new microSD card using a laptop or desktop. Then boot the `Raspberry Pi` with this microSD card.
 
-The purpose of this post is to briefly show how to install the [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) into a new microSD card, boot the `Raspberry Pi` with this microSD card. The `Raspberry Pi` will automatically connect to your wifi and has the `ssh tcp/22` service running, which will allow you to connect via `ssh`. No need for a monitor to be connected to the `Raspberry Pi`.
+The `Raspberry Pi` will automatically connect to your wifi and the `ssh tcp/22` service should be running, which will allow you to connect via `ssh`.
 
-Using your laptop or desktop, you can install and connect to a Raspberry Pi without the need to connect the Raspberry Pi to a monitor, it can be done!
+No need for a monitor to be connected to the `Raspberry Pi`.
 
-I will use my laptop to download the [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) and copy it into the microSD card.
+Using the laptop or desktop, in the command line, the `dd`command will copy the [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) into the microSD card.
 
-Then, from the command line on my laptop, I use the `dd`command to copy the [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) into the microSD card.
-
-Finally, 2 files need to be added to the `/boot` folder in the microSD card.
+After the `dd` command, 2 files need to be added to the `/boot` folder in the microSD card.
 
     - One empty file named `ssh`
 
-    - One file named `wpa_supplicant.conf` with wireless configuartion
+    - One file named `wpa_supplicant.conf` with your wireless configuration
 
-sample config for the `wpa_supplicant.conf` file
+example for the `wpa_supplicant.conf` file
 
 ```
-country=GB
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
+country=GB
 
 network={
 scan_ssid=1
@@ -122,8 +120,9 @@ example for the `nmap` command
 `nmap -sT -p22 --open`
 
 
-- In case you need addition help, here is the link for the [official documentation](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
+- In case you need addition help, here is the link for the [official documentation](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) and [here](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md) and [here](https://www.raspberrypi.org/documentation/remote-access/README.md).
 
+---
 
 Happy learning,
 
