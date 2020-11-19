@@ -18,9 +18,9 @@ header:
 
 Hi and welcome to [Antonio.Cloud](https://Antonio.Cloud).
 
-[Antonio.Cloud](https://Antonio.Cloud) is the personal website of **Antonio Feijao UK**. Here I share my personal opinions and some study notes that might help others.
+[Antonio.Cloud](https://Antonio.Cloud) is the personal website of [Antonio Feijao UK](https://www.linkedin.com/in/antoniofeijaouk/). Here I share my personal opinions and some study notes that might help others.
 
-- Currently, I am a `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
+- Currently, working has `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
 As an SA for AWS, I help customers building `secure`, `high-performing`, `resilient`, and `efficient infrastructure` for their applications and workloads.
 
