@@ -1,11 +1,11 @@
 ---
 categories:
     - Linux
-    - Raspberry Pi
+    - Raspberry-Pi
     - Networking
 tags:
     - linux
-    - raspberry pi
+    - raspberry-pi
     - networking
 ---
 
