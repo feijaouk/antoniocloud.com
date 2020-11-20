@@ -12,6 +12,7 @@ tags:
     - python
     - coding
     - math
+    
 ---
 
 Learn Python with a simple "do it yourself" challenges. I went to bed thinking "how could I do the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) without looking on the internet. Next day, getting python skills into practice, I came up with the below basic python code:
