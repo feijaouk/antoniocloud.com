@@ -2,7 +2,7 @@
 title: "Install and connect to a Raspberry Pi without monitor"
 
 date: 2020-11-18
-last_modified_at:
+last_modified_at: 2020-11-20
 
 categories:
     - Linux
