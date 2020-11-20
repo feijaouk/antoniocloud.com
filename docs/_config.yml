@@ -79,11 +79,10 @@ plugins:
 author:
   name   : "Antonio Feijao UK"
   avatar : "/assets/images/antonio-feijao-uk-logo.jpg"
-  bio    : "Solutions Architect (SA) at Amazon Web Services (AWS),
-  with `Speciality certifications` of `Advanced Networking` and `Security`.
+  bio    : "Solutions Architect (SA) at Amazon Web Services (AWS), with `Speciality certifications` of `Advanced Networking` and `Security`.
   I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
-  `This is my personal website.`
-  **`The opinions expressed here are my own and do not necessarily represent those of my current or past employers.`**"
+  ```This is my personal website.
+  The opinions expressed here are my own and do not necessarily represent those of my current or past employers.```"
   location: "London, United Kingdom"
   links:
     - label: "<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy-me-a-coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script>"
