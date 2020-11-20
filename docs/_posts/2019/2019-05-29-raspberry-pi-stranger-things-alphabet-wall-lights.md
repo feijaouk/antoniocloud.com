@@ -1,12 +1,12 @@
 ---
 categories:
-    - Raspberry Pi
+    - Raspberry-Pi
     - Linux
     - Electronics
-    - Python 3
+    - Python-3
 tags:
     - linux
-    - python 3
+    - python-3
     - electronics
     - raspberry pi
 ---
