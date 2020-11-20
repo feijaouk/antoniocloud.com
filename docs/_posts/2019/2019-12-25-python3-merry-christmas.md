@@ -1,8 +1,8 @@
 ---
 categories:
-    - Python 3
+    - Python-3
 tags:
-    - python 3
+    - python-3
     - christmas
     - coding
 ---
