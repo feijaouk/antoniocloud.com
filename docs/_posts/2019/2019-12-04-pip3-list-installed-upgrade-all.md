@@ -1,9 +1,9 @@
 ---
 categories:
-    - Python 3
+    - Python-3
     - Linux
 tags:
-    - python 3
+    - python-3
     - linux
     - pip3
     - shell-scripting
