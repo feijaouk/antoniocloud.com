@@ -1,11 +1,11 @@
 ---
 categories:
-    - Python 3
+    - Python-3
     - Linux
 tags:
     - linux
     - dns
-    - python 3
+    - python-3
     - bash
     - shell-scripting
 ---
