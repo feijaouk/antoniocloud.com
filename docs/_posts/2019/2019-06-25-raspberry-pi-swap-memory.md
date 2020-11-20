@@ -1,10 +1,10 @@
 ---
 categories:
     - Linux
-    - Raspberry Pi
+    - Raspberry-Pi
 tags:
     - linux
-    - raspberry pi
+    - raspberry-pi
 ---
 
 Raspberry Pi increase the swap memory size
