@@ -25,15 +25,29 @@ tags:
 
 Collection of links to AWS online training resources, mostly free training. 
 
-## AWS online Learning Library
+## AWS training online learning library
 
 - <https://aws.training>
 
     - <https://www.aws.training/LearningLibrary>
     
-    - [AWS Cloud Practitioner Essentials (Second Edition) - 6 hours](https://www.aws.training/learningobject/curriculum?id=27076)
+    - [AWS Cloud Practitioner Essentials (Second Edition) - 6 hours](https://www.aws.training/Details/eLearning?id=60697)
+    
     
 > The fundamental-level course is intended for individuals who seek an overall understanding of the AWS Cloud, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS services, security, architecture, pricing, and support. This course also helps you prepare for the AWS Certified Cloud Practitioner exam.
+
+
+### AWS Security related
+
+[AWS Security Fundamentals (Second Edition)](https://www.aws.training/Details/eLearning?id=34259)
+
+
+
+### AWS Networking related
+
+[Transit Gateway Networking and Scaling](https://www.aws.training/Details/eLearning?id=40275)
+
+
 
 ---
 
