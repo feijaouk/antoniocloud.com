@@ -1,7 +1,7 @@
 ---
 categories:
-    - Raspberry-Pi
     - Linux
+    - Raspberry-Pi
     - Electronics
     - Python-3
 tags:
