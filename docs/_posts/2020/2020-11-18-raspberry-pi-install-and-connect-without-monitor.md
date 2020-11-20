@@ -131,7 +131,7 @@ example for the `nmap` command
 
 ---
 
-{% highlight bash linenos %}
+{% highlight bash %}
 
 ## searching for new device on local network
 
