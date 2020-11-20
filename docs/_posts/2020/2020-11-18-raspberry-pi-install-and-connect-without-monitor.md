@@ -138,9 +138,10 @@ example for the `nmap` command
 nmap -sT -p22 --open 192.168.1.0/24 # ( CHANGE FOR YOUR OWN SUBNET)
 
 (...)
-Nmap scan report for `raspberrypi.home.local` (192.168.1.238)  <--- that's my new device with the defaul name of `raspberrypi.home.local`
+Nmap scan report for `raspberrypi.home.local` (192.168.1.238)  
 Host is up (0.042s latency).
 (...)
+
 
 ## Connect to raspberrypi.home.local
 
