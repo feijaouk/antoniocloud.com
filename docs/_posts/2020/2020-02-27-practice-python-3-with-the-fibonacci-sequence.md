@@ -1,10 +1,13 @@
 ---
 date: 2020-02-27
-title: "Practice Python 3 with the fibonacci sequence"
 last_modified_at: 2020-02-27
+
+title: "Practice Python 3 with the fibonacci sequence"
+
 categories:
-    - Python 3
+    - Python-3
     - Coding
+    
 tags:
     - python
     - coding
