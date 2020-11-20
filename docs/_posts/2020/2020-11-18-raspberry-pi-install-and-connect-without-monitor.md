@@ -161,7 +161,8 @@ passwd: password updated successfully
 ## Update and configure for your needs
 
 pi@raspberrypi:~ $ sudo raspi-config
-
+  
+  
 {% endhighlight %}
 
 ![sudo-raspi-config.png](/assets/images/sudo-raspi-config.png)
