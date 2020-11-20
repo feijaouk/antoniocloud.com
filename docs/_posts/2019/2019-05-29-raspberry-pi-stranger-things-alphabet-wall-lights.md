@@ -4,11 +4,12 @@ categories:
     - Raspberry-Pi
     - Electronics
     - Python-3
+    
 tags:
     - linux
     - python-3
     - electronics
-    - raspberry pi
+    - raspberry-pi
 ---
 
 Stranger Things Alphabet Wall Lights with Raspberry Pi Python 3 and Neopixels
