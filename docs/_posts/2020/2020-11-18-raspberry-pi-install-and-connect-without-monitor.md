@@ -129,7 +129,11 @@ Alternativelly, if you have [nmap](https://en.wikipedia.org/wiki/Nmap) installed
 
 example for the `nmap` command
 
-`nmap -sT -p22 --open`
+````bash
+
+nmap -sT -p22 --open 192.168.1.0/24 # ( CHANGE FOR YOUR OWN SUBNET)
+
+````
 
 
 - In case you need addition help, here is the link for the [official documentation](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) and [here](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md) and [here](https://www.raspberrypi.org/documentation/remote-access/README.md).
