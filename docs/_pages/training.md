@@ -41,6 +41,7 @@ Collection of links to AWS online training resources, mostly free training.
 
 [AWS Security Fundamentals (Second Edition)](https://www.aws.training/Details/eLearning?id=34259)
 
+[Deep Dive with Security - AWS Identity and Access Management (IAM)](https://www.aws.training/Details/eLearning?id=53780)
 
 
 ### AWS Networking related
