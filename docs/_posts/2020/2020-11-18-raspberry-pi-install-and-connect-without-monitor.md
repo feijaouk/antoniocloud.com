@@ -129,13 +129,46 @@ Alternativelly, if you have [nmap](https://en.wikipedia.org/wiki/Nmap) installed
 
 example for the `nmap` command
 
+---
 
 {% highlight bash linenos %}
 
+## searching for new device on local network
+
 nmap -sT -p22 --open 192.168.1.0/24 # ( CHANGE FOR YOUR OWN SUBNET)
 
+(...)
+Nmap scan report for `raspberrypi.home.local` (192.168.1.238)  <--- that's my new device with the defaul name of `raspberrypi.home.local`
+Host is up (0.042s latency).
+(...)
+
+## Connect to raspberrypi.home.local
+
+ssh pi@192.168.1.238
+
+default username `pi`
+default password `rasbperry`
+
+
+## Change pi default password 
+
+pi@raspberrypi:~ $ sudo passwd pi
+New password:
+Retype new password:
+passwd: password updated successfully
+
+
+## Update and configure for your needs
+
+pi@raspberrypi:~ $ sudo raspi-config
 
 {% endhighlight %}
+
+![sudo-raspi-config.png](/assets/images/sudo-raspi-config.png)
+
+For example, change hostname, update config for your needs, check my other post on category [raspberry-pi](https://antonio.cloud/categories/#raspberry-pi)
+
+---
 
 - In case you need addition help, here is the link for the [official documentation](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) and [here](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md) and [here](https://www.raspberrypi.org/documentation/remote-access/README.md).
 
