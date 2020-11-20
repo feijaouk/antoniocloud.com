@@ -1,7 +1,8 @@
 ---
 categories:
-    - Training
     - Linux
+    - Training
+    
 tags:
     - linux
     - security
