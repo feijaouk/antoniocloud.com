@@ -1,11 +1,11 @@
 ---
 categories:
     - Linux
-    - Raspberry Pi
+    - Raspberry-Pi
 tags:
     - linux
     - webcam
-    - raspberry pi
+    - raspberry-pi
     - bash
     - shell-scripting
 ---
