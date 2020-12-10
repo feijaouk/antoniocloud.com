@@ -100,15 +100,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AntonioFeijaoUK"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/AntonioFeijaoUK/"
+      
 
 footer:
   links:
     - label: "Antonio.Cloud"
       icon: "fas fa-fw fa-link"
-      url: "https://Antonio.Cloud"
+      url: "https://antonio.cloud"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/AntonioFeijaoUK/"
@@ -118,9 +116,7 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AntonioFeijaoUK"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/AntonioFeijaoUK/"
+    
 
 defaults:
   # _posts
