@@ -34,8 +34,8 @@ As I guidance, I follow the [AWS Well-Architected](https://aws.amazon.com/archit
 
 [Antonio Feijao UK](https://Antonio.Cloud) has various technical certifications, including
 
-- `Advanced Networking`
-- `Security Specialty` Certified.
+- `AWS Advanced Networking`
+- `AWS Security Specialty`
 - [check my other certifications](https://antonio.cloud/certifications/)
 
 
