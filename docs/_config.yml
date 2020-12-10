@@ -86,7 +86,7 @@ author:
   location: "London, United Kingdom"
   links:
     - label: "<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy-me-a-coffee', '#ff5e5b', 'B0B019526');kofiwidget2.draw();</script>"
-      icon: ""  #fas fa-fw fa-coffee
+      #icon: ""  #fas fa-fw fa-coffee
       url: "https://ko-fi.com/B0B019526"
     - label: "Antonio.Cloud"
       icon: "fas fa-fw fa-link"
