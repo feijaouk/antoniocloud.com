@@ -1,8 +1,4 @@
 main:
-    - title: "Home"
-      url: /
-    - title: "Training"
-      url: /training/
     - title: "Tags"
       url: /tags/
     - title: "Categories"
@@ -11,6 +7,8 @@ main:
       url: /posts/
     - title: "Quotes"
       url: /quotes/
+    - title: "Training"
+      url: /training/
     - title: "About"
       url: /about/
     - title: "Certifications"
