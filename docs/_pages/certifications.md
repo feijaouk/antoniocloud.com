@@ -17,54 +17,13 @@ Antonio Feijao UK, AWS certifications, Linux, Red Hat, Cisco, Security certifica
 
 ---
 
-## Antonio at YourAcclaim
+## Antonio Feijao UK digital certifications badgest at YourAcclaim
 
-Also, my AWS certification's profile at [https://www.youracclaim.com/users/antoniofeijaouk/badges](https://www.youracclaim.com/users/antoniofeijaouk/badges)
-
----
-
-## About AWS and AWS Certifications
-
-[Amazon Web Services (AWS)](https://aws.amazon.com/)
-
-[AWS Certification](https://aws.amazon.com/certification/)
-
-## Antonio Certifications
-
-![AWS Badge - Antonio Feijao - AWS Certified](/assets/images/aws-certified-logo-1176x600-color.png){: .align-center}
-
-[![AWS Badge - Antonio Feijao UK - AWS Certified Advanced Networking - Specialty certificate][1]][2]
-[![AWS Badge - Antonio Feijao UK - AWS Certified Security Specialty  - Specialty certificate][3]][4]
-
-[![AWS Badge - Antonio Feijao UK - AWS Certified Solutions Architect - Associate certificate][5]][6]
-[![AWS Badge - Antonio Feijao UK - AWS Certified Developer - Associate certificate][7]][8]
-[![AWS Badge - Antonio Feijao UK - AWS Certified SysOps Administrator - Associate certificate][9]][10]
-
-[![AWS Badge - Antonio Feijao UK - AWS Certified Cloud Practitioner certificate][11]][12]
-
-
-[1]: /assets/images/Antonio-Feijao-AWS-Certified-Advanced-Networking-Specialty.png "Antonio Feijao UK, AWS Certified Advanced Networking Specialty Certificated"
-[2]: https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-20&ci=AWS00280650
-
-[3]: /assets/images/Antonio-Feijao-AWS-Certified-Security-Specialty.png "Antonio Feijao UK, AWS Certified Security Specialty Certificated"
-[4]: https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-02-26&ci=AWS00280650
-
-[5]: /assets/images/Antonio-Feijao-AWS-Certified-Solutions-Architect-Associate.png "Antonio Feijao UK, AWS Certified Solutions Architect Associate Certificate"
-[6]: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-07-17&ci=AWS00280650
-
-[7]: /assets/images/Antonio-Feijao-AWS-Certified-Developer-Associate.png "Antonio Feijao UK, AWS Certified Developer Associate Certificate"
-[8]: https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-01-29&ci=AWS00280650
-
-[9]: /assets/images/Antonio-Feijao-AWS-Certified-SysOps-Administrator-Associate.png "Antonio Feijao UK, AWS Certified Sysops Administrator Associate Certificate"
-[10]: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-11-21&ci=AWS00280650
-
-
-[11]: /assets/images/Antonio-Feijao-AWS-Certified-Cloud-Practitioner.png "Antonio Feijao UK, AWS Certified Cloud Practitioner"
-[12]: https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-02-25&ci=AWS00280650
+See Antonio Feijao UK's digital certification badges at [https://www.youracclaim.com/users/antoniofeijaouk/badges](https://www.youracclaim.com/users/antoniofeijaouk/badges)
 
 ---
 
-### Certifications Verification
+## Antonio Feijao UK Certifications and validations
 
 [http://aws.amazon.com/verification](http://aws.amazon.com/verification "AWS Certification Validations")
 
@@ -72,6 +31,9 @@ Also, my AWS certification's profile at [https://www.youracclaim.com/users/anton
 {: .notice--success}
 
 **7J5LWZ3KJ1E41MSP** - AWS Certified Security **Specialty**
+{: .notice--success}
+
+**7Z618JQLJJ14QZWV** - AWS Certified DevOps Engineer - **Professional**
 {: .notice--success}
 
 **ZNDTEEB2K2V4QES7** - AWS Certified Solutions Architect **Associate**
@@ -90,13 +52,49 @@ Also, my AWS certification's profile at [https://www.youracclaim.com/users/anton
 
 ### Networking Specialty
 
-“The AWS Certified Advanced Networking – Specialty exam validates advanced technical skills and experience in designing and implementing AWS and hybrid IT architectures at scale.” [https://aws.amazon.com/certification/certified-advanced-networking-specialty/](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
+<https://aws.amazon.com/certification/certified-advanced-networking-specialty/>
+
+"The AWS Certified Advanced Networking - Specialty is intended for individuals who perform complex networking tasks."
 {: .notice--success}
+
+* Abilities Validated by the Certification
+  * Design, develop, and deploy cloud-based solutions using AWS
+  * Implement core AWS services according to basic architecture best practices
+  * Design and maintain network architecture for all AWS services
+  * Leverage tools to automate AWS networking tasks
+
 
 ### Security Specialty
 
-"Description The AWS Certified Security - Specialty exam measures a candidate’s ability in the area of security as it pertains to design, implementation, and troubleshooting." [https://aws.amazon.com/certification/certified-security-specialty/](https://aws.amazon.com/certification/certified-security-specialty/)
+<https://aws.amazon.com/certification/certified-security-specialty/>
+
+"The AWS Certified Security – Specialty is intended for individuals who perform a security role with at least two years of hands-on experience securing AWS workloads."
 {: .notice--success}
+
+* Abilities Validated by the Certification
+  * An understanding of specialized data classifications and AWS data protection mechanisms
+  * An understanding of data encryption methods and AWS mechanisms to implement them
+  * An understanding of secure Internet protocols and AWS mechanisms to implement them
+  * A working knowledge of AWS security services and features of services to provide a secure production environment
+  * Competency gained from two or more years of production deployment experience using AWS security services and features
+  * Ability to make tradeoff decisions with regard to cost, security, and deployment complexity given a set of application requirements
+  * An understanding of security operations and risk
+
+
+### AWS Certified DevOps Engineer - Professional
+
+<https://aws.amazon.com/certification/certified-devops-engineer-professional/>
+
+"The AWS Certified DevOps Engineer – Professional exam is intended for individuals who perform a DevOps engineer role with two or more years of experience provisioning, operating, and managing AWS environments."
+{: .notice--success}
+
+* Abilities Validated by the Certification
+  * Implement and manage continuous delivery systems and methodologies on AWS
+  * Implement and automate security controls, governance processes, and compliance validation
+  * Define and deploy monitoring, metrics, and logging systems on AWS
+  * Implement systems that are highly available, scalable, and self-healing on the AWS platform
+  * Design, manage, and maintain tools to automate operational processes
+
 
 ### Solutions Architect Associate
 
@@ -113,6 +111,7 @@ Also, my AWS certification's profile at [https://www.youracclaim.com/users/anton
 
 “The AWS Certified SysOps Administrator – Associate exam validates technical expertise in deployment, management, and operations on the AWS platform.” [https://aws.amazon.com/certification/certified-sysops-admin-associate/](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 {: .notice--success}
+
 
 ### Cloud Practitioner
 
