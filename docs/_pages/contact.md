@@ -8,12 +8,10 @@ author_profile: true
 permalink: /contact/
 ---
 
-Contact Antonio Feijao UK
-
-Here is how to contact Antonio Feijao UK. Please consider treating me, the way you would like to be treated.
+Do you have any comments, anything to share, add? Feel free to contact me on my personal email indicated below.
 
 ```python
 
-print('Contact me at --> antoniofeijao[AT]gmail.com <--')
+     antoniofeijao "AT" gmail.com
 
 ```
