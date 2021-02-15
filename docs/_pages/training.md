@@ -177,7 +177,11 @@ TIP: Make use of the [roleIQ](https://app.pluralsight.com/roleiq/) to better per
 
 ## Udemy
 
-* <https://www.udemy.com/> - *"Udemy is the leading global marketplace for teaching and learning, connecting millions of students to the skills they need to succeed."*
+* <https://www.udemy.com/>
+
+> 
+> "Udemy is the leading global marketplace for teaching and learning, connecting millions of students to the skills they need to succeed."
+>
 
 
 ---
