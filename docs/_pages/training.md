@@ -95,7 +95,7 @@ Course description from the website:
 
 ## Acloud Guru
 
-* <https://acloud.guru/overview/>
+* <https://acloud.guru/>
 
 >
 > "To teach the world to cloud"
