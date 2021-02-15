@@ -23,19 +23,31 @@ tags:
     - workshops
 ---
 
-Collection of links to AWS online training resources, mostly free training. 
+Collection of links to AWS online training resources, mostly free training.
 
-## AWS training online learning library
+## AWS
 
-- <https://aws.training>
+* <https://aws.training> - Official AWS training and certification
 
-    - <https://www.aws.training/LearningLibrary>
+* <https://www.aws.training/LearningLibrary> -  training online learning library
+  
+TIP: filter by `Digital Training` for online on-demand training.
     
-    - [AWS Cloud Practitioner Essentials (Second Edition) - 6 hours](https://www.aws.training/Details/eLearning?id=60697)
-    
-    
-> The fundamental-level course is intended for individuals who seek an overall understanding of the AWS Cloud, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS services, security, architecture, pricing, and support. This course also helps you prepare for the AWS Certified Cloud Practitioner exam.
+* If you are new to AWS and you need a suggestion on how to start on AWS, try this free online `AWS Cloud Practitioner Essentials` course, link - <https://www.aws.training/Details/eLearning?id=60697>
 
+Course level: `Fundamental`, Duration: `6 hours`
+
+Course description from the website:
+
+> 
+> This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles.
+> 
+> You will learn about AWS Cloud concepts, AWS services, security, architecture, pricing, and support to build your AWS Cloud knowledge.
+> 
+> This course also helps you prepare for the AWS Certified Cloud Practitioner exam.
+>
+
+---
 
 ### AWS Security related
 
@@ -43,73 +55,148 @@ Collection of links to AWS online training resources, mostly free training.
 
 [Deep Dive with Security - AWS Identity and Access Management (IAM)](https://www.aws.training/Details/eLearning?id=53780)
 
+---
 
 ### AWS Networking related
 
 [Transit Gateway Networking and Scaling](https://www.aws.training/Details/eLearning?id=40275)
 
 
+---
+
+### AWS hands-on Labs
+
+* <https://awssecworkshops.com/>
+* <https://www.sagemakerworkshop.com/>
+* <https://networking.awsworkshops.io/>
+* <https://ecsworkshop.com/>
+* <https://github.com/angelarw/aws-hands-on-workshops>
+* <https://search-sa-log-solutions.s3-us-east-2.amazonaws.com/logstash/html/Lab_Guide_ABD326.html>
+* <https://github.com/awslabs/aws-well-architected-labs>
+* <https://master.d16mn49ivcogrk.amplifyapp.com/>
+* <https://cfn101.solution.builders/>
+* <https://github.com/awslabs?page=2>
+* <https://www.hpcworkshops.com/>
+
 
 ---
 
-## AWS hands-on Labs
+## edX
 
-- <https://awssecworkshops.com/>
-- <https://www.sagemakerworkshop.com/>
-- <https://networking.awsworkshops.io/>
-- <https://ecsworkshop.com/>
-- <https://github.com/angelarw/aws-hands-on-workshops>
-- <https://search-sa-log-solutions.s3-us-east-2.amazonaws.com/logstash/html/Lab_Guide_ABD326.html>
-- <https://github.com/awslabs/aws-well-architected-labs>
-- <https://master.d16mn49ivcogrk.amplifyapp.com/>
-- <https://cfn101.solution.builders/>
-- <https://github.com/awslabs?page=2>
-- <https://www.hpcworkshops.com/>
-
-
----
-
-## edX - AWS Free Courses from Amazon Web Services
-
-- <https://www.edx.org/school/aws>
-    - <https://www.edx.org/course/aws-developer-building-on-aws-2>
-    - <https://www.edx.org/course/aws-developer-deploying-on-aws-2>
-    - <https://www.edx.org/course/aws-developer-optimizing-on-aws-2>
-
-    - <https://www.edx.org/course/amazon-dynamodb-building-nosql-database-driven-applications>
-
-    - <https://www.edx.org/course/aws-iot-developing-and-deploying-an-internet-of-things>
-
-    - <https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker>
+* <https://www.edx.org/school/aws> - Free online courses from [Amazon Web Services](https://aws.amazon.com/) at EDX.
   
 ---
 
-## Coursera aws training
+## Coursera
 
-- <https://www.coursera.org/aws>
-
-- <https://www.coursera.org/learn/aws-fundamentals-going-cloud-native>
-
-- <https://www.coursera.org/learn/aws-fundamentals-going-cloud-native>
-
-- <https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk>
+* <https://www.coursera.org/aws> - Link to Amazon Web Services courses at Coursera.
 
 ---
 
-## Other online training sites
+## Acloud Guru
 
-- <https://acloud.guru/courses/amazon-web-services>
-  - <https://linuxacademy.com/amazon-web-services/courses> (bought by acloud.guru)
-  
-- <https://cloudacademy.com/library/amazon-web-services/>
+* <https://acloud.guru/overview/>
 
-- <https://www.whizlabs.com/>
+>
+> "To teach the world to cloud"
+>
+
+---------------------------------------------------------------------------------------------
+
+## Oreilly
+
+* <https://learning.oreilly.com/>
+
+  * <https://learning.oreilly.com/learning-paths/learning-path-amazon/9780135116548/> - Amazon Web Services (AWS) Basics to Advanced
+
+>
+> "Inspiring the future for more than 40 years
+>
+> O’Reilly’s mission is to change the world by sharing the knowledge of innovators.
+>
+> For over 40 years, we’ve inspired companies and individuals to do new things—and do things better—by providing them with the skills and understanding that are necessary for success.
+>
+> At the heart of our business is a unique network of experts and innovators who share their knowledge through us.
+>
+> O’Reilly online learning offers exclusive live training, interactive learning, a certification experience, books, videos, and more, making it easier for our customers to develop the expertise they need to get ahead.
+>
+> And our books have been heralded for decades as the definitive place to learn about the technologies that are shaping the future.
+>
+> Everything we do is to help professionals from a variety of fields learn best practices and discover emerging trends that will shape the future of the tech industry.
+>
+> Our customers are hungry to build the innovations that propel the world forward. And we help you do just that."
+>
+
+
+---------------------------------------------------------------------------------------------
+
+## Cloud Academy
+
+* <https://cloudacademy.com/library/amazon-web-services/>
+
+>
+> We Accelerate the Innovation Journey
+>
+> Mainstream media may claim that the demise of human labor is upon us, but the future is quite the opposite.
+>
+> Humans will always be a critical part of the innovation journey, but the same cannot be said for organizations who play it safe.""
+>
+
+
+---------------------------------------------------------------------------------------------
+
+## Pluralsight
+
+* <https://www.pluralsight.com/>
+
+>
+> "The technology workforce development company
+>
+> At Pluralsight, we believe everyone should have the opportunity to create progress through technology and develop the skills of tomorrow.
+>
+> With assessments, learning paths and courses authored by industry experts, our platform helps businesses and individuals benchmark expertise across roles, speed up release cycles and build reliable, secure products.""
+>
+
+TIP: I like the roleIQ method to personalise specific content to my learning path.
 
 ---
 
-## Online diagrams drawing
+## Future Learn
 
-- <https://www.draw.io/>  <-- Remember to enable the `AWS2017, AWS2018, AWS2019` stencils.
 
-- <https://www.lucidchart.com>
+* <https://www.futurelearn.com/courses/>
+
+>
+> "This is Future Learning.
+> Learn 100% online with world class universities and industry experts.
+> Develop hobbies, new skills and career-changing expertise with our flexible courses."
+>
+
+---
+
+## Udemy
+
+* <https://www.udemy.com/courses/search/> - 
+
+
+---
+
+## Whizlabs
+
+* <https://www.whizlabs.com/aws-certifications/> - AWS Certification Training Courses
+
+
+---
+
+## Other online tools
+
+
+* <https://www.draw.io/>  <-- Remember to enable the `AWS2017, AWS2018, AWS2019` stencils.
+
+* <https://www.lucidchart.com>
+
+
+---
+
+Do you have another suggestion?
 
