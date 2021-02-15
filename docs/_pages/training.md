@@ -40,11 +40,11 @@ Course level: `Fundamental`, Duration: `6 hours`
 Course description from the website:
 
 > 
-> This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles.
+> "This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles.
 > 
 > You will learn about AWS Cloud concepts, AWS services, security, architecture, pricing, and support to build your AWS Cloud knowledge.
 > 
-> This course also helps you prepare for the AWS Certified Cloud Practitioner exam.
+> This course also helps you prepare for the AWS Certified Cloud Practitioner exam."
 >
 
 ---
@@ -135,11 +135,11 @@ Course description from the website:
 * <https://cloudacademy.com/library/amazon-web-services/>
 
 >
-> We Accelerate the Innovation Journey
+> "We Accelerate the Innovation Journey
 >
 > Mainstream media may claim that the demise of human labor is upon us, but the future is quite the opposite.
 >
-> Humans will always be a critical part of the innovation journey, but the same cannot be said for organizations who play it safe.""
+> Humans will always be a critical part of the innovation journey, but the same cannot be said for organizations who play it safe."
 >
 
 
@@ -154,10 +154,10 @@ Course description from the website:
 >
 > At Pluralsight, we believe everyone should have the opportunity to create progress through technology and develop the skills of tomorrow.
 >
-> With assessments, learning paths and courses authored by industry experts, our platform helps businesses and individuals benchmark expertise across roles, speed up release cycles and build reliable, secure products.""
+> With assessments, learning paths and courses authored by industry experts, our platform helps businesses and individuals benchmark expertise across roles, speed up release cycles and build reliable, secure products."
 >
 
-TIP: I like the roleIQ method to personalise specific content to my learning path.
+TIP: Make use of the [roleIQ](https://app.pluralsight.com/roleiq/) to better personalise specific content for your learning path.
 
 ---
 
@@ -191,7 +191,7 @@ TIP: I like the roleIQ method to personalise specific content to my learning pat
 ## Other online tools
 
 
-* <https://www.draw.io/>  <-- Remember to enable the `AWS2017, AWS2018, AWS2019` stencils.
+* <https://www.draw.io/>  <-- Remember to enable the `AWS2017, AWS2018, AWS2019` stencils, bottom left corner where is says `+ More shapes...`
 
 * <https://www.lucidchart.com>
 
