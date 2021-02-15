@@ -35,9 +35,9 @@ TIP: filter by `Digital Training` for online on-demand training.
     
 * If you are new to AWS and you need a suggestion on how to start on AWS, try this free online `AWS Cloud Practitioner Essentials` course, link - <https://www.aws.training/Details/eLearning?id=60697>
 
-Course level: `Fundamental`, Duration: `6 hours`
+  * Course level: `Fundamental`, Duration: `6 hours`
 
-Course description from the website:
+  * Course description from the website:
 
 > 
 > "This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles.
@@ -51,15 +51,15 @@ Course description from the website:
 
 ### AWS Security related
 
-[AWS Security Fundamentals (Second Edition)](https://www.aws.training/Details/eLearning?id=34259)
+* [AWS Security Fundamentals (Second Edition)](https://www.aws.training/Details/eLearning?id=34259)
 
-[Deep Dive with Security - AWS Identity and Access Management (IAM)](https://www.aws.training/Details/eLearning?id=53780)
+* [Deep Dive with Security - AWS Identity and Access Management (IAM)](https://www.aws.training/Details/eLearning?id=53780)
 
 ---
 
 ### AWS Networking related
 
-[Transit Gateway Networking and Scaling](https://www.aws.training/Details/eLearning?id=40275)
+* [Transit Gateway Networking and Scaling](https://www.aws.training/Details/eLearning?id=40275)
 
 
 ---
@@ -168,6 +168,7 @@ TIP: Make use of the [roleIQ](https://app.pluralsight.com/roleiq/) to better per
 
 >
 > "This is Future Learning.
+>
 > Learn 100% online with world class universities and industry experts.
 > Develop hobbies, new skills and career-changing expertise with our flexible courses."
 >
@@ -176,27 +177,42 @@ TIP: Make use of the [roleIQ](https://app.pluralsight.com/roleiq/) to better per
 
 ## Udemy
 
-* <https://www.udemy.com/courses/search/> - 
+* <https://www.udemy.com/> - *"Udemy is the leading global marketplace for teaching and learning, connecting millions of students to the skills they need to succeed."*
 
 
 ---
 
 ## Whizlabs
 
-* <https://www.whizlabs.com/aws-certifications/> - AWS Certification Training Courses
+* <https://www.whizlabs.com/aws-certifications/>
+
+>
+> "AWS Certification Training Courses
+>
+> Benchmark your AWS knowledge with one or more of the highly demanded Amazon Web Services (AWS) certifications."
+>
 
 
 ---
 
-## Other online tools
+## other websites word mention
 
 
 * <https://www.draw.io/>  <-- Remember to enable the `AWS2017, AWS2018, AWS2019` stencils, bottom left corner where is says `+ More shapes...`
 
-* <https://www.lucidchart.com>
+* <https://www.lucidchart.com> - *"Intelligent diagramming for every team"*
+
+
+* <https://sec.eff.org/> - *"Welcome to the Security Education Companion! SEC is a resource for people teaching digital security to their friends and neighbors."*
+
+* <https://www.eff.org/dnt-policy> - *"The leading nonprofit defending digital privacy, free speech, and innovation for 30 years and counting!"*
+
+  * <https://www.eff.org/dnt-policy>
+
+* <https://ssd.eff.org/> - *"This is Surveillance Self-Defense : our expert guide to protecting you and your friends from online spying."*
 
 
 ---
 
-Do you have another suggestion?
+Do you have anothers suggestions?
 
