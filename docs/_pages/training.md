@@ -195,7 +195,7 @@ TIP: Make use of the [roleIQ](https://app.pluralsight.com/roleiq/) to better per
 
 ---
 
-## other websites word mention
+## other websites worth mentioning
 
 
 * <https://www.draw.io/>  <-- Remember to enable the `AWS2017, AWS2018, AWS2019` stencils, bottom left corner where is says `+ More shapes...`
